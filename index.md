@@ -2,6 +2,8 @@
 
 Undergraduate Student
 
+[应用数学拔尖计划](https://www.math.pku.edu.cn/amel/)
+
 [Department of Probability and Statistics](https://www.stat.pku.edu.cn/)
 
 [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
