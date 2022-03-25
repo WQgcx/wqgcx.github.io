@@ -15,5 +15,3 @@ Statistical Learning, Bayesian Theory, Computational Learning Theory
 ## Contact Me
 
 Email: GongChengxin@pku.edu.cn
-
-Telephone: (+86) 18810917167
