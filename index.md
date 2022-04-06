@@ -16,6 +16,10 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 Statistical Learning, Bayesian Theory, Computational Learning Theory
 
+## Courses
+
+Here are my [study notes](https://wqgcx.github.io/courses/). Download for free.
+
 ## Contact Me
 
 Email: GongChengxin@pku.edu.cn
