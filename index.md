@@ -1,6 +1,6 @@
 ## Welcome to Chengxin Gong's Homepage!
 
-Chengxin Gong
+**Chengxin Gong**
 
 Undergraduate Student
 
