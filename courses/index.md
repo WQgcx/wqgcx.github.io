@@ -8,4 +8,6 @@
 
 [Applied Stochastic Processes](https://wqgcx.github.io/courses/Applied_Stochastic_Processes.pdf), taught by [Daquan Jiang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/j_20180628175159671361/69928.htm).
 
+[Functional Analysis](https://wqgcx.github.io/courses/Functional_Analysis.pdf), taught by [Bin Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm).
+
 **Click [here](https://wqgcx.github.io/) to go back.**
