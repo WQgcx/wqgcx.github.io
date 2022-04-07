@@ -6,4 +6,6 @@
 
 [Mathematical Statistics](https://wqgcx.github.io/courses/mathematical_statistics.pdf), taught by [Liping Liu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/l_20180628175159671361/69938.htm).
 
+[Applied Stochastic Processes](https://wqgcx.github.io/courses/Applied_Stochastic_Processes.pdf), taught by [Daquan Jiang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/j_20180628175159671361/69928.htm).
+
 **Click [here](https://wqgcx.github.io/) to go back.**
