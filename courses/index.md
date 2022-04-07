@@ -12,4 +12,6 @@
 
 [Functional Analysis](https://wqgcx.github.io/courses/Functional_Analysis.pdf), taught by [Bin Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm).
 
+[Machine Learning](https://wqgcx.github.io/courses/ml.pdf), self-study, reference: [Machine Learning (Zhihua Zhou)](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/23613024?fr=aladdin), Tsinghua University Press.
+
 **Click [here](https://wqgcx.github.io/) to go back.**
