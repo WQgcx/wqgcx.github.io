@@ -8,6 +8,8 @@
 
 [Applied Stochastic Processes](https://wqgcx.github.io/courses/Applied_Stochastic_Processes.pdf), taught by [Daquan Jiang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/j_20180628175159671361/69928.htm).
 
+[Functions of Real Variables (Real Analysis)](https://wqgcx.github.io/courses/Functions_of_Real_Variables.pdf), taught by [Shiwu Yang](https://bicmr.pku.edu.cn/~shiwuyang/).
+
 [Functional Analysis](https://wqgcx.github.io/courses/Functional_Analysis.pdf), taught by [Bin Zhou](https://www.math.pku.edu.cn/teachers/bzhou/index.htm).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
