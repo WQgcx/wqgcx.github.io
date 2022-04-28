@@ -1,5 +1,7 @@
 ## Courses
 
+[Abstract Algebra](https://wqgcx.github.io/courses/Abstract_Algebra.pdf), taught by [Maozhi Xu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/x_20180628175159671361/69981.htm).
+
 [Functions of Real Variables (Real Analysis)](https://wqgcx.github.io/courses/Functions_of_Real_Variables.pdf), taught by [Shiwu Yang](https://bicmr.pku.edu.cn/~shiwuyang/).
 
 [Theory of Functions of Complex Variables (Complex Analysis)](https://wqgcx.github.io/courses/complex_analysis.pdf), taught by [Meiyue Jiang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/j_20180628175159671361/69929.htm).
