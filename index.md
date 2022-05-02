@@ -4,7 +4,7 @@
 
 Undergraduate Student
 
-[应用数学及统计拔尖人才计划](https://www.math.pku.edu.cn/amel/)
+[Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
 
 [Department of Probability and Statistics](https://www.stat.pku.edu.cn/)
 
