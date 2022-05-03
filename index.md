@@ -18,7 +18,7 @@ Statistical Learning, Bayesian Theory, Computational Learning Theory
 
 ## Courses
 
-Here are my [study notes](https://wqgcx.github.io/courses/). Download for free.
+Here are my [study notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
 
 ## Contact Me
 
