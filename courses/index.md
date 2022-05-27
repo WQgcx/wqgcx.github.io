@@ -12,6 +12,8 @@
 
 [Applied Partial Differential Equations](https://wqgcx.github.io/courses/apde.pdf), taught by [Pingbing Ming](http://sourcedb.amss.cas.cn/zw/zjrck/jcqn/201511/t20151110_4456639.html).
 
+[Computational Systems Biology](https://wqgcx.github.io/courses/CSB.pdf), taught by [Lei Zhang](https://bicmr.pku.edu.cn/~zhanglei/).
+
 [Probability Theory](https://wqgcx.github.io/courses/probability_theory.pdf), taught by [Yanxia Ren](https://www.math.pku.edu.cn/teachers/renyx/index.htm).
 
 [Mathematical Statistics](https://wqgcx.github.io/courses/mathematical_statistics.pdf), taught by [Liping Liu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/l_20180628175159671361/69938.htm).
