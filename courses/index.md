@@ -24,4 +24,6 @@
 
 [Machine Learning](https://wqgcx.github.io/courses/ml.pdf), self-study, reference: [Machine Learning (Zhihua Zhou)](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/23613024?fr=aladdin), Tsinghua University Press.
 
+[Causal Inference](https://wqgcx.github.io/courses/causal_inference.pdf), supervised by [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/), [Cheng Zhang](https://zcrabbit.github.io/) and [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
+
 **Click [here](https://wqgcx.github.io/) to go back.**
