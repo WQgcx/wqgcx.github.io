@@ -2,7 +2,7 @@
 
 **Chengxin Gong**
 
-Undergraduate Student
+Undergraduate Student, Supervisor: [Jinwen Ma](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/m_20180628175159671361/69951.htm)
 
 [Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
 
