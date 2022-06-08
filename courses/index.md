@@ -2,9 +2,15 @@
 
 **Fall, 2019**
 
+[Advanced Algebra (I)](https://wqgcx.github.io/courses/algebra1.pdf), taught by [Fuzheng Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69968.htm).
+
+[Geometry](https://wqgcx.github.io/courses/geometry.pdf), taught by [Zhiqiang Bao](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/b_20180628175159671361/69877.htm).
+
 [Mathematical Analysis (I)](https://wqgcx.github.io/courses/analysis1.pdf), taught by [Guanxiang Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69969.htm).
 
 **Spring, 2020**
+
+[Advanced Algebra (II)](https://wqgcx.github.io/courses/algebra2.pdf), taught by [Qingchun Tian](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/t_20180628175159671361/69962.htm).
 
 [General Physics (I)](https://wqgcx.github.io/courses/General_Physics_1.pdf), taught by [Shuxin Liu](https://faculty.pku.edu.cn/liushuxin/zh_CN/index.htm).
 
