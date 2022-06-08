@@ -14,6 +14,8 @@
 
 [Machine Learning](https://wqgcx.github.io/courses/ml.pdf), self-study, reference: [Machine Learning (Zhihua Zhou)](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/23613024?fr=aladdin), Tsinghua University Press.
 
+[Mathematical Modeling](https://wqgcx.github.io/courses/mathematical_modelling.pdf), taught by [Zhennan Zhou](https://bicmr.pku.edu.cn/~zhennan/).
+
 [Ordinary Differential Equations](https://wqgcx.github.io/courses/ode.pdf), taught by [Wei Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69973.htm).
 
 [Probability Theory](https://wqgcx.github.io/courses/probability_theory.pdf), taught by [Yanxia Ren](https://www.math.pku.edu.cn/teachers/renyx/index.htm).
