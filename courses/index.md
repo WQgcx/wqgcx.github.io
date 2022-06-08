@@ -1,10 +1,16 @@
 ## Courses
 
+**Spring, 2020**
+
+[General Physics (I)](https://wqgcx.github.io/courses/General_Physics_1.pdf), taught by [Shuxin Liu](https://faculty.pku.edu.cn/liushuxin/zh_CN/index.htm).
+
 **Fall, 2020**
 
 [Abstract Algebra](https://wqgcx.github.io/courses/Abstract_Algebra.pdf), taught by [Maozhi Xu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/x_20180628175159671361/69981.htm).
 
 [Functions of Real Variables (Real Analysis)](https://wqgcx.github.io/courses/Functions_of_Real_Variables.pdf), taught by [Shiwu Yang](https://bicmr.pku.edu.cn/~shiwuyang/).
+
+[General Physics (II)](https://wqgcx.github.io/courses/General_Physics_2.pdf), taught by [Xiaodong Hu](http://faculty.pku.edu.cn/~raquma/zh_CN/index.htm).
 
 **Spring, 2021**
 
