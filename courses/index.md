@@ -1,8 +1,14 @@
 ## Courses
 
+**Fall, 2019**
+
+[Mathematical Analysis (I)](https://wqgcx.github.io/courses/analysis1.pdf), taught by [Guanxiang Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69969.htm).
+
 **Spring, 2020**
 
 [General Physics (I)](https://wqgcx.github.io/courses/General_Physics_1.pdf), taught by [Shuxin Liu](https://faculty.pku.edu.cn/liushuxin/zh_CN/index.htm).
+
+[Mathematical Analysis (II)](https://wqgcx.github.io/courses/analysis2.pdf), taught by [Guanxiang Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69969.htm).
 
 **Fall, 2020**
 
@@ -11,6 +17,8 @@
 [Functions of Real Variables (Real Analysis)](https://wqgcx.github.io/courses/Functions_of_Real_Variables.pdf), taught by [Shiwu Yang](https://bicmr.pku.edu.cn/~shiwuyang/).
 
 [General Physics (II)](https://wqgcx.github.io/courses/General_Physics_2.pdf), taught by [Xiaodong Hu](http://faculty.pku.edu.cn/~raquma/zh_CN/index.htm).
+
+[Mathematical Analysis (III)](https://wqgcx.github.io/courses/analysis3.pdf), taught by [Guanxiang Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69969.htm).
 
 **Spring, 2021**
 
