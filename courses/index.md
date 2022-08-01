@@ -56,4 +56,6 @@
 
 [Computational Systems Biology](https://wqgcx.github.io/courses/CSB.pdf), taught by [Lei Zhang](https://bicmr.pku.edu.cn/~zhanglei/).
 
+[Optimization: Modeling, Algorithm and Theory](https://wqgcx.github.io/courses/optimization.pdf), self-study, reference: [Optimization: Modeling, Algorithm and Theory (Haoyang Liu, Jiang Hu, Yongfeng Li and Zaiwen Wen)](https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf), Higher Education Press.
+
 **Click [here](https://wqgcx.github.io/) to go back.**
