@@ -58,6 +58,6 @@
 
 [Optimization: Modeling, Algorithm and Theory](https://wqgcx.github.io/courses/optimization.pdf), self-study, reference: [Optimization: Modeling, Algorithm and Theory (Haoyang Liu, Jiang Hu, Yongfeng Li and Zaiwen Wen)](https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf), Higher Education Press.
 
-[Measure Theory](https://wqgcx.github.io/courses/measure_theory.pdf), self-study, reference: [Foundations of Measure Theory and Probability Theory](https://baike.baidu.com/item/%E6%B5%8B%E5%BA%A6%E8%AE%BA%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/3785139?fr=aladdin), Peking University Press.
+[Measure Theory](https://wqgcx.github.io/courses/measure_theory.pdf), self-study, reference: [Foundations of Measure Theory and Probability Theory (Shihong Cheng)](https://baike.baidu.com/item/%E6%B5%8B%E5%BA%A6%E8%AE%BA%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/3785139?fr=aladdin), Peking University Press.
 
 **Click [here](https://wqgcx.github.io/) to go back.**
