@@ -14,7 +14,9 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 ## Research Interests
 
-Statistical Learning, Bayesian Theory, Computational Learning Theory
+1. Computational Statistics, Bayesian Statistics, High-Dimensional Statistics.
+
+2. Machine Learning, Artifical Intelligence.
 
 ## Courses
 
