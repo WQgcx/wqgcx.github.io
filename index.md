@@ -2,7 +2,9 @@
 
 **Chengxin Gong**
 
-Undergraduate Student, Supervisor: [Jinwen Ma](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/m_20180628175159671361/69951.htm)
+Undergraduate Student
+
+Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/m_20180628175159671361/69951.htm) and [Cheng Zhang](https://zcrabbit.github.io/)
 
 [Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
 
@@ -24,4 +26,4 @@ Here are my [study notes](https://wqgcx.github.io/courses/). Available for resea
 
 ## Contact Me
 
-Email: GongChengxin@pku.edu.cn
+Email: gongchengxin@pku.edu.cn
