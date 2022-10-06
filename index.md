@@ -4,7 +4,7 @@
 
 Undergraduate Student
 
-Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/m_20180628175159671361/69951.htm) and [Cheng Zhang](https://zcrabbit.github.io/)
+Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/) and [Cheng Zhang](https://zcrabbit.github.io/)
 
 [Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
 
