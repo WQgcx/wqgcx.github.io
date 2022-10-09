@@ -60,4 +60,10 @@
 
 [Measure Theory](https://wqgcx.github.io/courses/measure_theory.pdf), self-study, reference: [Foundations of Measure Theory and Probability Theory (Shihong Cheng)](https://baike.baidu.com/item/%E6%B5%8B%E5%BA%A6%E8%AE%BA%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/3785139?fr=aladdin), Peking University Press.
 
+**Fall, 2022**
+
+Advanced Theory of Probability, taught by [Xinyi Li](https://bicmr.pku.edu.cn/~xinyili/).
+
+Advanced Theory of Statistics, taught by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
+
 **Click [here](https://wqgcx.github.io/) to go back.**
