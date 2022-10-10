@@ -32,7 +32,7 @@
 
 [Functions of Complex Variables (Complex Analysis)](https://wqgcx.github.io/courses/complex_analysis.pdf), taught by [Meiyue Jiang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/j_20180628175159671361/69929.htm).
 
-[Machine Learning](https://wqgcx.github.io/courses/ml.pdf), self-study, reference: [Machine Learning (Zhihua Zhou)](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/23613024?fr=aladdin), Tsinghua University Press.
+[Machine Learning](https://wqgcx.github.io/courses/ml.pdf), reference: [Machine Learning (Zhihua Zhou)](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/23613024?fr=aladdin), Tsinghua University Press.
 
 [Mathematical Modeling](https://wqgcx.github.io/courses/mathematical_modelling.pdf), taught by [Zhennan Zhou](https://bicmr.pku.edu.cn/~zhennan/).
 
@@ -56,14 +56,16 @@
 
 [Computational Systems Biology](https://wqgcx.github.io/courses/CSB.pdf), taught by [Lei Zhang](https://bicmr.pku.edu.cn/~zhanglei/).
 
-[Optimization: Modeling, Algorithm and Theory](https://wqgcx.github.io/courses/optimization.pdf), self-study, reference: [Optimization: Modeling, Algorithm and Theory (Haoyang Liu, Jiang Hu, Yongfeng Li and Zaiwen Wen)](https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf), Higher Education Press.
+[Optimization: Modeling, Algorithm and Theory](https://wqgcx.github.io/courses/optimization.pdf), reference: [Optimization: Modeling, Algorithm and Theory (Haoyang Liu, Jiang Hu, Yongfeng Li and Zaiwen Wen)](https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf), Higher Education Press.
 
-[Measure Theory](https://wqgcx.github.io/courses/measure_theory.pdf), self-study, reference: [Foundations of Measure Theory and Probability Theory (Shihong Cheng)](https://baike.baidu.com/item/%E6%B5%8B%E5%BA%A6%E8%AE%BA%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/3785139?fr=aladdin), Peking University Press.
+[Measure Theory](https://wqgcx.github.io/courses/measure_theory.pdf), reference: [Foundations of Measure Theory and Probability Theory (Shihong Cheng)](https://baike.baidu.com/item/%E6%B5%8B%E5%BA%A6%E8%AE%BA%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%BA%E5%9F%BA%E7%A1%80/3785139?fr=aladdin), Peking University Press.
 
 **Fall, 2022**
 
 [Advanced Theory of Probability](https://wqgcx.github.io/courses/advprob.pdf), taught by [Xinyi Li](https://bicmr.pku.edu.cn/~xinyili/).
 
 [Advanced Theory of Statistics](https://wqgcx.github.io/courses/advstats.pdf), taught by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
+
+[High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://wqgcx.github.io/courses/hdp.pdf), reference: [High-Dimensional Statistics: A Non-Asymptotic Viewpoint (Martin J.Wainwright)](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E), Cambridge University Press.
 
 **Click [here](https://wqgcx.github.io/) to go back.**
