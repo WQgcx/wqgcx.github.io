@@ -62,8 +62,8 @@
 
 **Fall, 2022**
 
-Advanced Theory of Probability, taught by [Xinyi Li](https://bicmr.pku.edu.cn/~xinyili/).
+[Advanced Theory of Probability](https://wqgcx.github.io/courses/advprob.pdf), taught by [Xinyi Li](https://bicmr.pku.edu.cn/~xinyili/).
 
-Advanced Theory of Statistics, taught by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
+[Advanced Theory of Statistics](https://wqgcx.github.io/courses/advstats.pdf), taught by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
