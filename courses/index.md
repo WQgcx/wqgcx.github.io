@@ -70,4 +70,8 @@
 
 [High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://wqgcx.github.io/courses/hdp.pdf), reference: [High-Dimensional Statistics: A Non-Asymptotic Viewpoint (Martin J.Wainwright)](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E), Cambridge University Press.
 
+**Spring, 2023**
+
+[Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf), serving as teaching assistant.
+
 **Click [here](https://wqgcx.github.io/) to go back.**
