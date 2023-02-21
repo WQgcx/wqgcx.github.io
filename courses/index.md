@@ -74,6 +74,6 @@
 
 [Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf), serving as teaching assistant.
 
-[Stochastic_Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
+[Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
