@@ -74,7 +74,7 @@
 
 [Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf), serving as teaching assistant.
 
-[Modern Statistical Modeling]((https://wqgcx.github.io/courses/MSM.pdf), lectured by [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/).
+[Modern Statistical Modeling](https://wqgcx.github.io/courses/MSM.pdf), lectured by [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/).
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
