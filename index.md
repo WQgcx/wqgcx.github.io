@@ -6,8 +6,6 @@ Undergraduate Student
 
 Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/) and [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
 
-[Elite Undergraduate Training Program](https://www.math.pku.edu.cn/amel/)
-
 [Department of Probability and Statistics](https://www.stat.pku.edu.cn/)
 
 [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
