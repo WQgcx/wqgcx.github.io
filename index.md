@@ -2,13 +2,9 @@
 
 **Chengxin Gong**
 
-Undergraduate Student
+Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
 
-Advisors: [Jinwen Ma](https://www.math.pku.edu.cn/teachers/jwma/homepage/) and [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
-
-[Department of Probability and Statistics](https://www.stat.pku.edu.cn/)
-
-[School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+[Department of Probability and Statistics](https://www.stat.pku.edu.cn/), [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
 Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
