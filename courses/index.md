@@ -68,7 +68,7 @@
 
 [Advanced Theory of Statistics](https://wqgcx.github.io/courses/advstats.pdf), lectured by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
 
-[High Dimensional Probability](https://wqgcx.github.io/courses/hdp.pdf), lectured by [Hao Ge](http://faculty.bicmr.pku.edu.cn/~gehao/).
+[High-Dimensional Probability](https://wqgcx.github.io/courses/hdp.pdf), lectured by [Hao Ge](http://faculty.bicmr.pku.edu.cn/~gehao/).
 
 **Spring, 2023**
 
