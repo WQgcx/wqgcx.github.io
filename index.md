@@ -20,4 +20,6 @@ Here are my [study notes](https://wqgcx.github.io/courses/). Available for resea
 
 ## Contact Me
 
+Office: Building No.20, 112
+
 Email: gongchengxin@pku.edu.cn
