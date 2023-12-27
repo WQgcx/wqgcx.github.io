@@ -1,4 +1,4 @@
-## Courses
+## Notes
 
 **Fall, 2019**
 
@@ -62,8 +62,6 @@
 
 **Fall, 2022**
 
-[Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf), serving as teaching assistant.
-
 [Advanced Theory of Probability](https://wqgcx.github.io/courses/advprob.pdf), lectured by [Xinyi Li](https://bicmr.pku.edu.cn/~xinyili/).
 
 [Advanced Theory of Statistics](https://wqgcx.github.io/courses/advstats.pdf), lectured by [Wang Miao](https://www.math.pku.edu.cn/teachers/mwfy/).
@@ -72,10 +70,14 @@
 
 **Spring, 2023**
 
-[Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf), serving as teaching assistant.
-
 [Modern Statistical Modeling](https://wqgcx.github.io/courses/MSM.pdf), lectured by [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/).
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
+
+**Teaching Assistant**
+
+[Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
+
+[Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
