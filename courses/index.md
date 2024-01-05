@@ -1,6 +1,6 @@
 ## Notes
 
-**<font color=red size=4>Study Part</font>**
+**<font color=red size=4>Learning Part</font>**
 
 **Fall, 2019**
 
