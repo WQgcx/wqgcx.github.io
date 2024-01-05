@@ -1,6 +1,6 @@
 ## Notes
 
-**<font color=red size=4>Study Part</font>**
+**<font color="#0000dd" size=4>Study Part</font>**
 
 **Fall, 2019**
 
@@ -76,10 +76,12 @@
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
-**<font color=red size=4>Teaching Part</font>**
+**<font color="#0000dd" size=4>Teaching Part</font>**
 
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
 
 [Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf).
+
+[Mathematical Analysis (II)](https://wqgcx.github.io/courses/calculus2.pdf).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
