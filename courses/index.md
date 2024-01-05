@@ -1,6 +1,6 @@
 ## Notes
 
-$\color{blue}{**<font size=4>Study Part</font>**}$
+**<p style="color: blue;"><font size=4>Study Part</font></p>**
 
 **Fall, 2019**
 
@@ -76,7 +76,7 @@ $\color{blue}{**<font size=4>Study Part</font>**}$
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
-**<font size=4>Teaching Part</font>**
+**<p style="color: blue;"><font size=4>Teaching Part</font></p>**
 
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
 
