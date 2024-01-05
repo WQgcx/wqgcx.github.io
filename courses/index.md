@@ -1,5 +1,7 @@
 ## Notes
 
+***Study Part***
+
 **Fall, 2019**
 
 [Advanced Algebra (I)](https://wqgcx.github.io/courses/algebra1.pdf), lectured by [Fuzheng Wang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/69968.htm).
@@ -74,7 +76,7 @@
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
-**Teaching Assistant**
+***Teaching Part***
 
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
 
