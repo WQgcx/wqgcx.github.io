@@ -16,7 +16,7 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 ## Courses
 
-Here are my [study notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
+Here are my [lecture notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
 
 ## Contact Me
 
