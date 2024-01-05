@@ -1,6 +1,6 @@
 ## Notes
 
-**<font size=4>Study Part</font>**
+$\color{blue}{**<font size=4>Study Part</font>**}$
 
 **Fall, 2019**
 
