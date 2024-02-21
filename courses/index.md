@@ -76,6 +76,8 @@
 
 [Stochastic Processes](https://wqgcx.github.io/courses/Stochastic_Processes.pdf), lectured by [Weijun Xu](https://bicmr.pku.edu.cn/cn/content/lists/11_catid74_zmx.html).
 
+[Theoretical Machine Learning](https://wqgcx.github.io/courses/TML.pdf), lectured by [Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/).
+
 **<font color=red size=4>Teaching Part</font>**
 
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
