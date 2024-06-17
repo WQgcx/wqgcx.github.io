@@ -23,3 +23,5 @@ Here are my [lecture notes](https://wqgcx.github.io/courses/). Available for res
 Office: Building No.20, 112
 
 Email: gongchengxin@pku.edu.cn
+
+Don't hesitate to contact me if you are interested in time series, diffusion models, data assimilation and transport!
