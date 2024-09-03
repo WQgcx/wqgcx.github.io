@@ -80,6 +80,8 @@
 
 **<font color=red size=4>Teaching Part</font>**
 
+[Advanced Algebra (I)](https://wqgcx.github.io/courses/algebra1.pdf).
+
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
 
 [Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf).
