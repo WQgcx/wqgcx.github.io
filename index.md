@@ -10,9 +10,9 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 ## Research Interests
 
-1. Computational Statistics, Bayesian Statistics, High-Dimensional Statistics.
+1. Gaussian Processes, Time Series.
 
-2. Machine Learning, Artifical Intelligence.
+2. Data Assimilation, Adversarial Learning.
 
 ## Courses
 
