@@ -10,9 +10,9 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 ## Research Interests
 
-1. Gaussian Processes, Time Series.
+1. Gaussian Processes, Time Series, Data Assimilation.
 
-2. Data Assimilation, Adversarial Learning.
+2. Adversarial Learning, Generative Models, Variational Inference.
 
 ## Courses
 
