@@ -1,6 +1,6 @@
-## Notes
+## Lecture Notes
 
-**<font color=red size=4>Learning Part</font>**
+**<font color=red size=4>Lectured Part</font>**
 
 **Fall, 2019**
 
@@ -78,7 +78,7 @@
 
 [Theoretical Machine Learning](https://wqgcx.github.io/courses/TML.pdf), lectured by [Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/).
 
-**<font color=red size=4>Teaching Part</font>**
+**<font color=red size=4>Lecturing Part</font>**
 
 [Advanced Algebra (I)](https://wqgcx.github.io/courses/advalgebra1.pdf).
 
