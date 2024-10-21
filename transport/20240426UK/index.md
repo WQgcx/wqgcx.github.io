@@ -23,4 +23,9 @@ Buckingham Palace, St Paul's Cathedral and Tower Bridge
 <img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9328.jpeg" width="32%"> <img src="IMG_9342.jpeg" width="32%">
 </center>
 
+Royal Observatory Greenwich
+<center class ='img'>
+<img src="IMG_9355.jpeg" width="32%"> <img src="IMG_9357.jpeg" width="32%"> <img src="IMG_9374.jpeg" width="32%">
+</center>
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
