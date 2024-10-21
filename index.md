@@ -18,9 +18,9 @@ Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
 Here are my [lecture notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
 
-## Transport
+## Transport and Travel
 
-Here are my [tours of rail and air(运转报告)](https://wqgcx.github.io/transport/). Come, explore and enjoy the fantastic and magnificent transportation world!
+Here are my [tours of rail and air(运转报告)](https://wqgcx.github.io/transport/). Come, explore and enjoy this fantastic and magnificent world of transport and travel!
 
 ## Contact Me
 
