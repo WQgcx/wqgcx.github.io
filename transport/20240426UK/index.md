@@ -40,7 +40,7 @@ Royal Observatory Greenwich
 <img src="IMG_9357.jpeg" width="32%"> <img src="IMG_9355.jpeg" width="32%"> <img src="IMG_9374.jpeg" width="32%">
 </center>
 
-The Queens House and University of Greenwich
+Queen's House and University of Greenwich
 <center class ='img'>
 <img src="IMG_9376.jpeg" width="32%"> <img src="IMG_9381.jpeg" width="32%"> <img src="IMG_9383.jpeg" width="32%">
 </center>
