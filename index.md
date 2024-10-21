@@ -1,7 +1,5 @@
 ## Welcome to Chengxin Gong's Homepage!
 
-<img align="right" src="IMG_1269.jpeg" width="40%">
-
 **Chengxin Gong**
 
 Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
