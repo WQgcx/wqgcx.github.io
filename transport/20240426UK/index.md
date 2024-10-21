@@ -25,7 +25,12 @@ Buckingham Palace, St Paul's Cathedral and Tower Bridge
 
 Royal Observatory Greenwich
 <center class ='img'>
-<img src="IMG_9355.jpeg" width="32%"> <img src="IMG_9357.jpeg" width="32%"> <img src="IMG_9374.jpeg" width="32%">
+<img src="IMG_9357.jpeg" width="32%"> <img src="IMG_9355.jpeg" width="32%"> <img src="IMG_9374.jpeg" width="32%">
+</center>
+
+The Queens House and University of Greenwich
+<center class ='img'>
+<img src="IMG_9376.jpeg" width="32%"> <img src="IMG_9381.jpeg" width="32%"> <img src="IMG_9383.jpeg" width="32%">
 </center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
