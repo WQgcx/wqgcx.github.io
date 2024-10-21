@@ -15,12 +15,17 @@ The Sherlock Holmes Museum
 
 Palace of Westminster(Big Ben) and the London Eye
 <center class ='img'>
-<img src="IMG_9268.jpeg" width="32%"> <img src="IMG_9282.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
+<img src="IMG_9264.jpeg" width="32%"> <img src="IMG_9282.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
 </center>
 
 Buckingham Palace, St Paul's Cathedral and Tower Bridge
 <center class ='img'>
 <img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9328.jpeg" width="32%"> <img src="IMG_9342.jpeg" width="32%">
+</center>
+
+The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial and the Shard
+<center class ='img'>
+<img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="32%"> <img src="IMG_9341.jpeg" width="32%">
 </center>
 
 Royal Observatory Greenwich
