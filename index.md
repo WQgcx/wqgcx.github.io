@@ -1,6 +1,6 @@
-<img align="right" src="IMG_1269.jpeg" width="35%">
-
 ## Welcome to Chengxin Gong's Homepage!
+
+<img align="right" src="IMG_1269.jpeg" width="40%">
 
 **Chengxin Gong**
 
