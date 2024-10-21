@@ -8,11 +8,7 @@ Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw
 
 Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
-<div style="text-align: right;">
-
-  <img src="IMG_1269.jpeg" width="35%">
-
-</div>
+<img align="right" src="IMG_1269.jpeg" width="30%">
   
 ## Research Interests
 
