@@ -1,13 +1,23 @@
 ## Welcome to Chengxin Gong's Homepage!
 
-**Chengxin Gong**
+<div style="text-align: left;">
+  
+  **Chengxin Gong**
 
-Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
+  Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html)
 
-[Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+  [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
-Here is my [CV](https://wqgcx.github.io/CV.pdf).
+  Here is my [CV](https://wqgcx.github.io/CV.pdf).
 
+</div>
+
+<div style="text-align: right;">
+
+  <img src="IMG_1269.jpeg" width="15%">
+
+</div>
+  
 ## Research Interests
 
 1. Gaussian Processes, Time Series, Data Assimilation.
