@@ -19,4 +19,9 @@
 <img src="IMG_9268.jpeg" width="32%"> <img src="IMG_9264.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
 </center>
 
+*Buckingham Palace, St Paul's Cathedral and Tower Bridge*
+<center class ='img'>
+<img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9264.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
+</center>
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
