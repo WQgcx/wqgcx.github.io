@@ -4,6 +4,8 @@
 
 *The Sherlock Holmes Museum*
 
-<img src="Holmes1.jpg" width="33%">
+<center class ='img'>
+<img src="Holmes1.jpg" width="33%"><img src="Holmes2.jpg" width="33%"><img src="Holmes3.jpg" width="33%">
+</center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
