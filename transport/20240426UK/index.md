@@ -4,6 +4,6 @@
 
 *The Sherlock Holmes Museum*
 
-![Holmes museum](https://wqgcx.github.io/transport/20240426UK/Holmes1.jpg)
+<img src="Holmes1.jpg" width="33%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
