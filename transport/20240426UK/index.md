@@ -32,7 +32,7 @@ The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial an
 
 Red Telephone Box, Red Bus and the Shard
 <center class ='img'>
-<img src="IMG_9315.jpeg" width="32%"> <img src="IMG_9333.jpeg" width="32%"> <img src="IMG_9341.jpeg" width="32%">
+<img src="IMG_9315.jpeg" width="18%"> <img src="IMG_9333.jpeg" width="32%"> <img src="IMG_9341.jpeg" width="32%">
 </center>
 
 Royal Observatory Greenwich
