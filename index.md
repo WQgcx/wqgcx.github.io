@@ -20,7 +20,7 @@ Here are my [lecture notes](https://wqgcx.github.io/courses/). Available for res
 
 ## Transport and Travel
 
-Here are my [tours of rail and air(运转报告)](https://wqgcx.github.io/transport/). Come, explore and enjoy this fantastic and magnificent world of transport and travel!
+Here are my [travelogues(运转报告/足迹)](https://wqgcx.github.io/transport/). Come, explore and enjoy this fantastic and magnificent world of transport and travel!
 
 ## Contact Me
 
