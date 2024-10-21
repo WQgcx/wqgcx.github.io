@@ -3,7 +3,7 @@
 **25/04/2024, Fly Royal Brunei to London(BI624, BI97)**
 
 <center class ='img'>
-<img src="IMG_9204.jpeg" width="32%"> <img src="IMG_9282.jpeg" width="32%"> <img src="IMG_9227.jpeg" width="32%">
+<img src="IMG_9204.jpeg" width="32%"> <img src="IMG_9216.jpeg" width="32%"> <img src="IMG_9227.jpeg" width="32%">
 </center>
 
 **26/04/2024, London**
@@ -15,7 +15,7 @@ The Sherlock Holmes Museum
 
 Palace of Westminster(Big Ben) and the London Eye
 <center class ='img'>
-<img src="IMG_9268.jpeg" width="32%"> <img src="IMG_9264.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
+<img src="IMG_9268.jpeg" width="32%"> <img src="IMG_9282.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
 </center>
 
 Buckingham Palace, St Paul's Cathedral and Tower Bridge
