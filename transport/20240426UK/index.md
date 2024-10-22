@@ -97,4 +97,16 @@ Birmingham Cathedral, Unett Memorial and Bullring & Grand Central
   <img src="IMG_9629.jpeg" width="32%"> <img src="IMG_9630.jpeg" width="18%"> <img src="IMG_9633.jpeg" width="32%">
 </center>
 
+**29/04/2024: Manchester**
+
+Science and Industry Museum
+
+Manchester Cathedral and Central Library
+
+People's History Museum
+
+University of Salford
+
+Old Trafford
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
