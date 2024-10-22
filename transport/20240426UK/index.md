@@ -88,5 +88,13 @@ STEAM -- Museum of the Great Western Railway
 </center>
 
 Gloucester Cathedral
+<center class ='img'>
+  <img src="IMG_9611.jpeg" width="32%"> <img src="IMG_9614.jpeg" width="32%"> <img src="IMG_9613.jpeg" width="32%">
+</center>
+
+Birmingham Cathedral, Unett Memorial and Bullring & Grand Central
+<center class ='img'>
+  <img src="IMG_9629.jpeg" width="32%"> <img src="IMG_9630.jpeg" width="32%"> <img src="IMG_9633.jpeg" width="32%">
+</center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
