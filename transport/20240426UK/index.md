@@ -128,14 +128,23 @@ Old Trafford
 **30/04/2024: Nottingham, Sheffield, Leeds, Bradford**
 
 City of Caves
+<center class ='img'>
+  <img src="IMG_9741.jpeg" width="32%"> <img src="IMG_9742.jpeg" width="32%"> <img src="IMG_9746.jpeg" width="32%">
+</center>
 
 National Justice Museum
+<center class ='img'>
+  <img src="IMG_9749.jpeg" width="32%"> <img src="IMG_9753.jpeg" width="32%"> <img src="IMG_9755.jpeg" width="32%">
+</center>
 
 Nottingham Castle
 
 St Mary's Church(Nottingham), Nottingham Council House(Old Market Square)
+<center class ='img'>
+  <img src="IMG_9757.jpeg" width="32%"> <img src="IMG_9792.jpeg" width="32%"> <img src="IMG_9793.jpeg" width="32%">
+</center>
 
-Sheffield Cathedral and Sheffield Town Hall(The Peace Gardens)
+Sheffield Cathedral and Sheffield Town Hall(the Peace Gardens)
 
 Leeds Cathedral, Leeds Town Hall and Leeds Post Office (1896)
 
