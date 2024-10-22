@@ -110,8 +110,14 @@ Manchester Cathedral and Central Library
 </center>
 
 People's History Museum
+<center class ='img'>
+  <img src="IMG_9692.jpeg" width="32%"> <img src="IMG_9695.jpeg" width="32%"> <img src="IMG_9700.jpeg" width="32%">
+</center>
 
 University of Salford
+<center class ='img'>
+  <img src="IMG_9706.jpeg" width="32%"> <img src="IMG_9707.jpeg" width="32%"> <img src="IMG_9708.jpeg" width="32%">
+</center>
 
 Old Trafford
 <center class ='img'>
