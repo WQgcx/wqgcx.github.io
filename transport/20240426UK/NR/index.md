@@ -17,6 +17,10 @@
   <img src="IMG_9627.jpeg" width="32%" title="Birmingham Tram">
   <img src="IMG_9667.jpeg" width="32%" title="Manchester Tram">
   <img src="IMG_9704.jpeg" width="32%" title="British Rail Class 331">
+  <img src="IMG_9733.jpeg" width="32%" title="British Rail Class 390">
+  <img src="IMG_9794.jpeg" width="32%" title="British Rail Class 222">
+  <img src="IMG_9796.jpeg" width="32%" title="British Rail Class 69">
+  <img src="IMG_9797.jpeg" width="32%" title="British Rail Class 43">
 </center>
 
 **Stations**
