@@ -138,6 +138,9 @@ National Justice Museum
 </center>
 
 Nottingham Castle
+<center class ='img'>
+  <img src="IMG_9769.jpeg" width="32%"> <img src="IMG_9772.jpeg" width="32%"> <img src="IMG_9785.jpeg" width="32%">
+</center>
 
 St Mary's Church(Nottingham), Nottingham Council House(Old Market Square)
 <center class ='img'>
@@ -145,8 +148,14 @@ St Mary's Church(Nottingham), Nottingham Council House(Old Market Square)
 </center>
 
 Sheffield Cathedral and Sheffield Town Hall(the Peace Gardens)
+<center class ='img'>
+  <img src="IMG_9808.jpeg" width="32%"> <img src="IMG_9810.jpeg" width="32%"> <img src="IMG_9820.jpeg" width="32%">
+</center>
 
 Leeds Cathedral, Leeds Town Hall and Leeds Post Office (1896)
+<center class ='img'>
+  <img src="IMG_9834.jpeg" width="32%"> <img src="IMG_9827.jpeg" width="32%"> <img src="IMG_9843.jpeg" width="32%">
+</center>
 
 Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
 
