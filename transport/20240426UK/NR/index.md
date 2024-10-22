@@ -8,6 +8,10 @@
   <img src="IMG_9414.jpeg" width="32%" title="British Rail Class 387">
   <img src="IMG_9417.jpeg" width="32%" title="British Rail Class 345">
   <img src="IMG_9428.jpeg" width="32%" title="British Rail Class 221">
+  <img src="IMG_9434.jpeg" width="32%" title="British Rail Class 158">
+  <img src="IMG_9437.jpeg" width="32%" title="British Rail Class 159">
+  <img src="IMG_9490.jpeg" width="32%" title="British Rail Class 165">
+  <img src="IMG_9515.jpeg" width="32%" title="British Rail Class 450">
 </center>
 
 **Stations**
