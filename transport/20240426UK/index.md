@@ -27,7 +27,7 @@ Buckingham Palace, St Paul's Cathedral and Tower Bridge
 
 The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial and the Monument to the Great Fire of London
 <center class ='img'>
-  <img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="32%"> <img src="IMG_9335.jpeg" width="32%">
+  <img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="18%"> <img src="IMG_9335.jpeg" width="32%">
 </center>
 
 Red Telephone Box, Red Bus and the Shard
