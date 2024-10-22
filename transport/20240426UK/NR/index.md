@@ -12,6 +12,9 @@
   <img src="IMG_9437.jpeg" width="32%" title="British Rail Class 159">
   <img src="IMG_9490.jpeg" width="32%" title="British Rail Class 165">
   <img src="IMG_9515.jpeg" width="32%" title="British Rail Class 450">
+  <img src="IMG_9607.jpeg" width="32%" title="British Rail Class 166">
+  <img src="IMG_9625.jpeg" width="32%" title="British Rail Class 150">
+  <img src="IMG_9627.jpeg" width="32%" title="Birmingham Tram">
 </center>
 
 **Stations**
