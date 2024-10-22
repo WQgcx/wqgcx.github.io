@@ -74,9 +74,12 @@ Windsor Castle
 
 **28/04/2024: London, Swindon, Gloucester and Birmingham**
 
-The British Museum(Easter Island Head, Rosetta Stone, Parthenon Temple, Tang Tri-Color Glazed Ceramics, Shiva Nataraja, Egyptian Mummies)
+The British Museum(Main Gate, Easter Island Head, Rosetta Stone, Parthenon Temple, Tang Tri-Color Glazed Ceramics, Shiva Nataraja, Egyptian Mummies, Lewis Chessmen, Holy Thorn Reliquary)
 <center class ='img'>
-  <img src="IMG_9521.jpeg" width="32%"> <img src="IMG_9527.jpeg" width="32%"> <img src="IMG_9535.jpeg" width="32%">
-  <img src="IMG_9545.jpeg" width="32%"> <img src="IMG_9547.jpeg" width="32%"> <img src="IMG_9555.jpeg" width="32%">
+  <img src="IMG_9574.jpeg" width="32%"> <img src="IMG_9521.jpeg" width="32%"> <img src="IMG_9527.jpeg" width="32%">
+  <img src="IMG_9535.jpeg" width="32%"> <img src="IMG_9545.jpeg" width="32%"> <img src="IMG_9547.jpeg" width="32%">
+  <img src="IMG_9555.jpeg" width="32%"> <img src="IMG_9568.jpeg" width="32%"> <img src="IMG_9572.jpeg" width="32%">
 </center>
+
+STEAM -- Museum of the Great Western Railway
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
