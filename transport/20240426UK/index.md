@@ -106,7 +106,7 @@ Science and Industry Museum
 
 Manchester Cathedral and Central Library
 <center class ='img'>
-  <img src="IMG_9672.jpeg" width="32%"> <img src="IMG_9669.jpeg" width="32%"> <img src="IMG_9659.jpeg" width="32%">
+  <img src="IMG_9672.jpeg" width="32%"> <img src="IMG_9669.jpeg" width="32%"> <img src="IMG_9731.jpeg" width="32%">
 </center>
 
 People's History Museum
