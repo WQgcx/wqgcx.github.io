@@ -72,4 +72,6 @@ Windsor Castle
 <img src="IMG_9499.jpeg" width="32%"> <img src="IMG_9498.jpeg" width="32%"> <img src="IMG_9495.jpeg" width="32%">
 </center>
 
+**28/04/2024: London, Swindon, Gloucester and Birmingham**
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
