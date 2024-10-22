@@ -158,5 +158,8 @@ Leeds Cathedral, Leeds Town Hall and Leeds Post Office (1896)
 </center>
 
 Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
+<center class ='img'>
+  <img src="IMG_9854.jpeg" width="32%"> <img src="IMG_9845.jpeg" width="32%"> <img src="IMG_9857.jpeg" width="32%">
+</center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
