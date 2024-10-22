@@ -50,7 +50,12 @@ Tower of London
 <img src="IMG_9406.jpeg" width="32%"> <img src="IMG_9403.jpeg" width="32%"> <img src="IMG_9408.jpeg" width="32%">
 </center>
 
-**27/04/2024: Salisbury and Windsor**
+**27/04/2024: Reading, Salisbury and Windsor**
+
+Reading Town Hall, Church of England and Queen Victoria's Statue
+<center class ='img'>
+<img src="IMG_9425.jpeg" width="32%"> <img src="IMG_9425.jpeg" width="32%"> <img src="IMG_9427.jpeg" width="32%">
+</center>
 
 Salisbury Cathedral and Mompesson House
 <center class ='img'>
