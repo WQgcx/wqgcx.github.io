@@ -1,6 +1,6 @@
 ## United Kingdom
 
-**For <font color=red size=5>BRITISH RAILWAYS</font>, please click [here](https://wqgcx.github.io/transport/20240426UK/NR/).**
+**[<font color=red size=5>BRITISH RAILWAYS</font>](https://wqgcx.github.io/transport/20240426UK/NR/)**
 
 **25/04/2024, Fly Royal Brunei to London(BI624, BI97)**
 
@@ -25,7 +25,7 @@ Buckingham Palace, St Paul's Cathedral and Tower Bridge
 <img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9328.jpeg" width="32%"> <img src="IMG_9342.jpeg" width="32%">
 </center>
 
-The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial and Monument to the Great Fire of London
+The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial and the Monument to the Great Fire of London
 <center class ='img'>
 <img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="32%"> <img src="IMG_9335.jpeg" width="32%">
 </center>
