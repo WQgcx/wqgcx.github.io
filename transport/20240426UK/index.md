@@ -52,4 +52,19 @@ Tower of London
 
 **27/04/2024: Salisbury and Windsor**
 
+Salisbury Cathedral and Mompesson House
+<center class ='img'>
+<img src="IMG_9441.jpeg" width="32%"> <img src="IMG_9443.jpeg" width="32%"> <img src="IMG_9447.jpeg" width="32%">
+</center>
+
+Stonehenge
+<center class ='img'>
+<img src="IMG_9453.jpeg" width="32%"> <img src="IMG_9455.jpeg" width="32%"> <img src="IMG_9484.jpeg" width="32%">
+</center>
+
+Windsor Castle
+<center class ='img'>
+<img src="IMG_9499.jpeg" width="32%"> <img src="IMG_9498.jpeg" width="32%"> <img src="IMG_9495.jpeg" width="32%">
+</center>
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
