@@ -15,5 +15,10 @@
 </center>
 
 **Stations**
-
+<center class ='img'>
+  <img src="IMG_9244.jpeg" width="32%" title="Baker Street Station">
+  <img src="IMG_9431.jpeg" width="32%" title="Basingstoke Station">
+  <img src="IMG_9516.jpeg" width="32%" title="London Waterloo Station">
+</center>
+  
 **Click [here](https://wqgcx.github.io/transport/20240426UK/) to go back.**
