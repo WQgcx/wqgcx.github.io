@@ -133,6 +133,8 @@ National Justice Museum
 
 Nottingham Castle
 
+St Mary's Church(Nottingham), Nottingham Council House(Old Market Square)
+
 Sheffield Cathedral and Sheffield Town Hall(The Peace Gardens)
 
 Leeds Cathedral, Leeds Town Hall and Leeds Post Office (1896)
