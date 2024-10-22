@@ -29,6 +29,7 @@
   <img src="IMG_9431.jpeg" width="32%" title="Basingstoke Station">
   <img src="IMG_9516.jpeg" width="32%" title="London Waterloo Station">
   <img src="IMG_9660.jpeg" width="32%" title="Deansgate Station">
+  <img src="IMG_9736.jpeg" width="32%" title="Stoke-on-Trent Station">
 </center>
   
 **Click [here](https://wqgcx.github.io/transport/20240426UK/) to go back.**
