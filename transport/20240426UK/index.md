@@ -82,4 +82,11 @@ The British Museum(Main Gate, Easter Island Head, Rosetta Stone, Parthenon Templ
 </center>
 
 STEAM -- Museum of the Great Western Railway
+<center class ='img'>
+  <img src="IMG_9579.jpeg" width="32%"> <img src="IMG_9591.jpeg" width="32%"> <img src="IMG_9595.jpeg" width="32%">
+  <img src="IMG_9598.jpeg" width="32%"> <img src="IMG_9600.jpeg" width="32%"> <img src="IMG_9602.jpeg" width="32%">
+</center>
+
+Gloucester Cathedral
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
