@@ -2,13 +2,13 @@
 
 **[<font color=red size=5><u>BRITISH RAILWAYS</u></font>](https://wqgcx.github.io/transport/20240426UK/NR/)**
 
-**25/04/2024, Fly Royal Brunei to London(BI624, BI97)**
+**25/04/2024: Fly Royal Brunei to London(BI624, BI97)**
 
 <center class ='img'>
 <img src="IMG_9204.jpeg" width="32%"> <img src="IMG_9216.jpeg" width="32%"> <img src="IMG_9227.jpeg" width="32%">
 </center>
 
-**26/04/2024, London**
+**26/04/2024: London**
 
 The Sherlock Holmes Museum
 <center class ='img'>
@@ -49,5 +49,7 @@ Tower of London
 <center class ='img'>
 <img src="IMG_9406.jpeg" width="32%"> <img src="IMG_9403.jpeg" width="32%"> <img src="IMG_9408.jpeg" width="32%">
 </center>
+
+**27/04/2024: Salisbury and Windsor**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
