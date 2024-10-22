@@ -100,13 +100,23 @@ Birmingham Cathedral, Unett Memorial and Bullring & Grand Central
 **29/04/2024: Manchester**
 
 Science and Industry Museum
+<center class ='img'>
+  <img src="IMG_9645.jpeg" width="32%"> <img src="IMG_9649.jpeg" width="32%"> <img src="IMG_9659.jpeg" width="32%">
+</center>
 
 Manchester Cathedral and Central Library
+<center class ='img'>
+  <img src="IMG_9672.jpeg" width="32%"> <img src="IMG_9669.jpeg" width="32%"> <img src="IMG_9659.jpeg" width="32%">
+</center>
 
 People's History Museum
 
 University of Salford
 
 Old Trafford
+<center class ='img'>
+  <img src="IMG_9665.jpeg" width="32%"> <img src="IMG_9666.jpeg" width="32%"> <img src="IMG_9720.jpeg" width="32%">
+  <img src="IMG_9713.jpeg" width="32%"> <img src="IMG_9719.jpeg" width="32%"> <img src="IMG_9725.jpeg" width="32%">
+</center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
