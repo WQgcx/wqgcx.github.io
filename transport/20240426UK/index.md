@@ -54,7 +54,7 @@ Tower of London
 
 Reading Town Hall, Church of England and Queen Victoria's Statue
 <center class ='img'>
-<img src="IMG_9425.jpeg" width="32%"> <img src="IMG_9425.jpeg" width="32%"> <img src="IMG_9427.jpeg" width="32%">
+<img src="IMG_9423.jpeg" width="32%"> <img src="IMG_9425.jpeg" width="32%"> <img src="IMG_9427.jpeg" width="32%">
 </center>
 
 Salisbury Cathedral and Mompesson House
