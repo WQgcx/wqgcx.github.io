@@ -191,7 +191,12 @@ Edinburgh Castle
   <img src="IMG_9944.jpeg" width="32%"> <img src="IMG_9947.jpeg" width="32%"> <img src="IMG_9935.jpeg" width="32%">
 </center>
 
-Old Town, Edinburgh(Panorama, Street View, National Library of Scotland, Augustine United Church, The Elephant House, Crown Office, Tron Kirk, Carrubbers Christian Centre, Holyrood Palace)
+Old Town, Edinburgh(Panorama, St Columba's Free Church of Scotland, National Library of Scotland, Augustine United Church, The Elephant House, Crown Office, Tron Kirk, Carrubbers Christian Centre, Holyrood Palace)
+<center class ='img'>
+  <img src="IMG_9945.jpeg" width="32%"> <img src="IMG_9948.jpeg" width="32%"> <img src="IMG_9954.jpeg" width="32%">
+  <img src="IMG_9956.jpeg" width="32%"> <img src="IMG_9958.jpeg" width="32%"> <img src="IMG_9978.jpeg" width="32%">
+  <img src="IMG_9982.jpeg" width="32%"> <img src="IMG_9984.jpeg" width="32%"> <img src="IMG_9986.jpeg" width="32%">
+</center>
 
 New Town, Edinbugh(Street View, The Balmoral, National Records of Scotland)
 
