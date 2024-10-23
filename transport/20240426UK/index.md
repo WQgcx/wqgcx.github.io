@@ -214,7 +214,7 @@ National Museum of Scotland
 National Railway Museum
 <center class ='img'>
   <img src="IMG_0002.jpeg" width="32%"> <img src="IMG_0004.jpeg" width="32%"> <img src="IMG_0008.jpeg" width="32%">
-  <img src="IMG_0017.jpeg" width="32%"> <img src="IMG_0022.jpeg" width="32%"> <img src="IMG_0033.jpeg" width="32%">
+  <img src="IMG_0017.jpeg" width="32%"> <img src="IMG_0022.jpeg" width="18%"> <img src="IMG_0033.jpeg" width="32%">
 </center>
 
 York Minster and Shambles
@@ -237,17 +237,34 @@ Peterborough Guildhall and Cathedral
   <img src="IMG_0096.jpeg" width="32%"> <img src="IMG_0098.jpeg" width="32%"> <img src="IMG_0100.jpeg" width="32%">
 </center>
 
-Oxford City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church)
+Cambridge City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church)
+<center class ='img'>
+  <img src="IMG_0104.jpeg" width="32%"> <img src="IMG_0106.jpeg" width="32%"> <img src="IMG_0127.jpeg" width="32%">
+</center>
 
 University of Cambridge
+<center class ='img'>
+  <img src="IMG_0116.jpeg" width="32%"> <img src="IMG_0114.jpeg" width="32%"> <img src="IMG_0121.jpeg" width="32%">
+</center>
 
 **03/05/2024: Oxford, London**
 
 Oxford City Centre(Wesley Memorial Church, Clarendon Building and Martyrs' Memorial)
+<center class ='img'>
+  <img src="IMG_0146.jpeg" width="32%"> <img src="IMG_0150.jpeg" width="32%"> <img src="IMG_0173.jpeg" width="32%">
+</center>
 
 University of Oxford
+<center class ='img'>
+  <img src="IMG_0154.jpeg" width="32%"> <img src="IMG_0156.jpeg" width="32%"> <img src="IMG_0157.jpeg" width="32%">
+  <img src="IMG_0163.jpeg" width="32%"> <img src="IMG_0165.jpeg" width="32%"> <img src="IMG_0169.jpeg" width="32%">
+</center>
 
 HMS Belfast
+<center class ='img'>
+  <img src="IMG_0182.jpeg" width="32%"> <img src="IMG_0197.jpeg" width="18%"> <img src="IMG_0200.jpeg" width="32%">
+  <img src="IMG_0188.jpeg" width="32%"> <img src="IMG_0194.jpeg" width="32%"> <img src="IMG_0187.jpeg" width="32%">
+</center>
 
 **Fly Tianjin Airlines to Tianjin(GS7988)**
 
