@@ -5,7 +5,8 @@
 **25/04/2024: Fly Royal Brunei to London(BI624, BI97)**
 
 <center class ='img'>
-  <img src="IMG_9204.jpeg" width="32%"> <img src="IMG_9216.jpeg" width="32%"> <img src="IMG_9227.jpeg" width="32%">
+  <img src="IMG_9196.jpeg" width="32%"> <img src="IMG_9200.jpeg" width="32%"> <img src="IMG_9204.jpeg" width="32%">
+  <img src="IMG_9206.jpeg" width="32%"> <img src="IMG_9216.jpeg" width="32%"> <img src="IMG_9227.jpeg" width="32%">
 </center>
 
 **26/04/2024: London**
@@ -169,8 +170,14 @@ St George's Tron Church and Glasgow City Chambers(George Square)
 The Barony Hall, Glasgow Cathedral and James Arthur Statue
 
 Forth Bridge
+<center class ='img'>
+  <img src="IMG_9889.jpeg" width="32%"> <img src="IMG_9892.jpeg" width="32%"> <img src="IMG_9896.jpeg" width="32%">
+</center>
 
-Scott Monument, St Giles' Cathedral and Tolbooth Kirk (The Hub, Edinburgh)
+Scott Monument, St Giles' Cathedral and Tolbooth Kirk(The Hub, Edinburgh)
+<center class ='img'>
+  <img src="IMG_9901.jpeg" width="18%"> <img src="IMG_9916.jpeg" width="32%"> <img src="IMG_9919.jpeg" width="32%">
+</center>
 
 Edinburgh Castle
 
