@@ -222,11 +222,20 @@ York Minster and Shambles
   <img src="IMG_0039.jpeg" width="32%"> <img src="IMG_0040.jpeg" width="32%"> <img src="IMG_0063.jpeg" width="32%">
 </center>
 
-Clifford's tower, York Castle Museum and York Crown Court
+Clifford's Tower, York Castle Museum and York Crown Court
+<center class ='img'>
+  <img src="IMG_0072.jpeg" width="32%"> <img src="IMG_0074.jpeg" width="32%"> <img src="IMG_0073.jpeg" width="32%">
+</center>
 
 The Ivy Colletion: Traditional British Cuisine
+<center class ='img'>
+  <img src="IMG_0086.jpeg" width="32%"> <img src="IMG_0087.jpeg" width="32%"> <img src="IMG_0090.jpeg" width="32%">
+</center>
 
 Peterborough Guildhall and Cathedral
+<center class ='img'>
+  <img src="IMG_0096.jpeg" width="32%"> <img src="IMG_0098.jpeg" width="32%"> <img src="IMG_0100.jpeg" width="32%">
+</center>
 
 Oxford City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church)
 
