@@ -162,4 +162,22 @@ Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
   <img src="IMG_9854.jpeg" width="32%"> <img src="IMG_9845.jpeg" width="32%"> <img src="IMG_9857.jpeg" width="32%">
 </center>
 
+**01/05/2024: Glasgow and Edinburgh**
+
+St George's Tron Church and Glasgow City Chambers(George Square) 
+
+The Barony Hall, Glasgow Cathedral and James Arthur Statue
+
+Forth Bridge
+
+Scott Monument, St Giles' Cathedral and Tolbooth Kirk (The Hub, Edinburgh)
+
+Edinburgh Castle
+
+Old Town, Edinburgh(Panorama, Street View, National Library of Scotland, Augustine United Church, The Elephant House, Crown Office, Tron Kirk, Carrubbers Christian Centre, Holyrood Palace)
+
+New Town, Edinbugh(Street View, The Balmoral, National Records of Scotland)
+
+National Museum of Scotland
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
