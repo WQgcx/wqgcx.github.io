@@ -186,6 +186,10 @@ Scott Monument, St Giles' Cathedral and Tolbooth Kirk(The Hub, Edinburgh)
 </center>
 
 Edinburgh Castle
+<center class ='img'>
+  <img src="IMG_9920.jpeg" width="32%"> <img src="IMG_9921.jpeg" width="32%"> <img src="IMG_9928.jpeg" width="32%">
+  <img src="IMG_9944.jpeg" width="32%"> <img src="IMG_9947.jpeg" width="32%"> <img src="IMG_9935.jpeg" width="32%">
+</center>
 
 Old Town, Edinburgh(Panorama, Street View, National Library of Scotland, Augustine United Church, The Elephant House, Crown Office, Tron Kirk, Carrubbers Christian Centre, Holyrood Palace)
 
