@@ -1,7 +1,6 @@
 ## British Railways
 
 **Trains**
-<center class ='img'>
   <img src="IMG_9352.jpeg" width="32%" title="British Rail Class 376">
   <img src="IMG_9385.jpeg" width="32%" title="British Rail Class 707">
   <img src="IMG_9413.jpeg" width="32%" title="British Rail Class 800">
@@ -23,16 +22,19 @@
   <img src="IMG_9797.jpeg" width="32%" title="British Rail Class 43">
   <img src="IMG_9884.jpeg" width="32%" title="British Rail Class 334">
   <img src="IMG_9994.jpeg" width="32%" title="British Rail Class 397">
-</center>
+  <img src="IMG_9999.jpeg" width="32%" title="British Rail Class 185">
+  <img src="IMG_0091.jpeg" width="32%" title="British Rail Class 801">
+  <img src="IMG_0131.jpeg" width="32%" title="British Rail Class 700">
+  <img src="IMG_0138.jpeg" width="32%" title="British Rail Class 66">
 
 **Stations**
-<center class ='img'>
+
   <img src="IMG_9244.jpeg" width="32%" title="Baker Street Station">
   <img src="IMG_9431.jpeg" width="32%" title="Basingstoke Station">
   <img src="IMG_9516.jpeg" width="32%" title="London Waterloo Station">
   <img src="IMG_9660.jpeg" width="32%" title="Deansgate Station">
   <img src="IMG_9736.jpeg" width="32%" title="Stoke-on-Trent Station">
   <img src="IMG_9909.jpeg" width="32%" title="Edinburgh Waverley Station">
-</center>
+  <img src="IMG_0130.jpeg" width="32%" title="Cambridge Station">
   
 **Click [here](https://wqgcx.github.io/transport/20240426UK/) to go back.**
