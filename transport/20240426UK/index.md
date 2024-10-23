@@ -251,7 +251,7 @@ University of Cambridge
 
 Oxford City Centre(Wesley Memorial Church, Clarendon Building and Martyrs' Memorial)
 <center class ='img'>
-  <img src="IMG_0146.jpeg" width="32%"> <img src="IMG_0150.jpeg" width="32%"> <img src="IMG_0173.jpeg" width="32%">
+  <img src="IMG_0146.jpeg" width="18%"> <img src="IMG_0150.jpeg" width="32%"> <img src="IMG_0173.jpeg" width="32%">
 </center>
 
 University of Oxford
