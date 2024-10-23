@@ -21,6 +21,8 @@
   <img src="IMG_9794.jpeg" width="32%" title="British Rail Class 222">
   <img src="IMG_9796.jpeg" width="32%" title="British Rail Class 69">
   <img src="IMG_9797.jpeg" width="32%" title="British Rail Class 43">
+  <img src="IMG_9884.jpeg" width="32%" title="British Rail Class 334">
+  <img src="IMG_9994.jpeg" width="32%" title="British Rail Class 397">
 </center>
 
 **Stations**
@@ -30,6 +32,7 @@
   <img src="IMG_9516.jpeg" width="32%" title="London Waterloo Station">
   <img src="IMG_9660.jpeg" width="32%" title="Deansgate Station">
   <img src="IMG_9736.jpeg" width="32%" title="Stoke-on-Trent Station">
+  <img src="IMG_9909.jpeg" width="32%" title="Edinburgh Waverley Station">
 </center>
   
 **Click [here](https://wqgcx.github.io/transport/20240426UK/) to go back.**
