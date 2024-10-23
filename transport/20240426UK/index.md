@@ -263,7 +263,7 @@ University of Oxford
 HMS Belfast
 <center class ='img'>
   <img src="IMG_0182.jpeg" width="32%"> <img src="IMG_0197.jpeg" width="18%"> <img src="IMG_0200.jpeg" width="32%">
-  <img src="IMG_0188.jpeg" width="32%"> <img src="IMG_0194.jpeg" width="32%"> <img src="IMG_0187.jpeg" width="32%">
+  <img src="IMG_0194.jpeg" width="32%"> <img src="IMG_0188.jpeg" width="18%"> <img src="IMG_0187.jpeg" width="32%">
 </center>
 
 **Fly Tianjin Airlines to Tianjin(GS7988)**
