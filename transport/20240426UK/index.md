@@ -221,13 +221,13 @@ The Ivy Colletion: Traditional British Cuisine
 
 Peterborough Guildhall and Cathedral
 
-Oxford City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church Cambridge)
+Oxford City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church)
 
 University of Cambridge
 
 **03/05/2024: Oxford, London**
 
-Oxford City Centre(Wesley Memorial Church Oxford, Clarendon Building and Martyrs' Memorial)
+Oxford City Centre(Wesley Memorial Church, Clarendon Building and Martyrs' Memorial)
 
 University of Oxford
 
