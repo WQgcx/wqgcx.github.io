@@ -166,12 +166,18 @@ Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
 **01/05/2024: Glasgow and Edinburgh**
 
 St George's Tron Church and Glasgow City Chambers(George Square) 
+<center class ='img'>
+  <img src="IMG_9861.jpeg" width="32%"> <img src="IMG_9868.jpeg" width="32%"> <img src="IMG_9865.jpeg" width="32%">
+</center>
 
 The Barony Hall, Glasgow Cathedral and James Arthur Statue
+<center class ='img'>
+  <img src="IMG_9861.jpeg" width="32%"> <img src="IMG_9868.jpeg" width="32%"> <img src="IMG_9865.jpeg" width="32%">
+</center>
 
 Forth Bridge
 <center class ='img'>
-  <img src="IMG_9889.jpeg" width="32%"> <img src="IMG_9892.jpeg" width="32%"> <img src="IMG_9896.jpeg" width="32%">
+  <img src="IMG_9875.jpeg" width="32%"> <img src="IMG_9878.jpeg" width="32%"> <img src="IMG_9876.jpeg" width="32%">
 </center>
 
 Scott Monument, St Giles' Cathedral and Tolbooth Kirk(The Hub, Edinburgh)
