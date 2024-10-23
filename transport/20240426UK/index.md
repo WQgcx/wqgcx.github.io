@@ -194,12 +194,19 @@ Edinburgh Castle
 Old Town, Edinburgh(Panorama, St Columba's Free Church of Scotland, National Library of Scotland, Augustine United Church, The Elephant House, Crown Office, Tron Kirk, Carrubbers Christian Centre, Holyrood Palace)
 <center class ='img'>
   <img src="IMG_9945.jpeg" width="32%"> <img src="IMG_9948.jpeg" width="32%"> <img src="IMG_9954.jpeg" width="32%">
-  <img src="IMG_9956.jpeg" width="32%"> <img src="IMG_9958.jpeg" width="32%"> <img src="IMG_9978.jpeg" width="32%">
+  <img src="IMG_9956.jpeg" width="18%"> <img src="IMG_9958.jpeg" width="32%"> <img src="IMG_9978.jpeg" width="32%">
   <img src="IMG_9982.jpeg" width="32%"> <img src="IMG_9984.jpeg" width="32%"> <img src="IMG_9986.jpeg" width="32%">
 </center>
 
 New Town, Edinbugh(Street View, The Balmoral, National Records of Scotland)
+<center class ='img'>
+  <img src="IMG_9903.jpeg" width="32%"> <img src="IMG_9906.jpeg" width="32%"> <img src="IMG_9992.jpeg" width="32%">
+</center>
 
 National Museum of Scotland
+<center class ='img'>
+  <img src="IMG_9981.jpeg" width="32%"> <img src="IMG_9959.jpeg" width="32%"> <img src="IMG_9966.jpeg" width="32%">
+  <img src="IMG_9973.jpeg" width="32%"> <img src="IMG_9974.jpeg" width="32%"> <img src="IMG_9977.jpeg" width="32%">
+</center>
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
