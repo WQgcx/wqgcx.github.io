@@ -2,7 +2,7 @@
 
 **[<font color=red size=5><u>BRITISH RAILWAYS</u></font>](https://wqgcx.github.io/transport/20240426UK/NR/)**
 
-**25/04/2024: Fly Royal Brunei to London(BI624, BI97)**
+**Fly Royal Brunei to London(BI624, BI97)**
 
 <center class ='img'>
   <img src="IMG_9196.jpeg" width="32%"> <img src="IMG_9200.jpeg" width="32%"> <img src="IMG_9204.jpeg" width="32%">
@@ -208,5 +208,31 @@ National Museum of Scotland
   <img src="IMG_9981.jpeg" width="32%"> <img src="IMG_9959.jpeg" width="32%"> <img src="IMG_9966.jpeg" width="32%">
   <img src="IMG_9973.jpeg" width="32%"> <img src="IMG_9974.jpeg" width="32%"> <img src="IMG_9977.jpeg" width="32%">
 </center>
+
+**02/05/2024: York, Peterborough and Cambridge**
+
+National Railway Museum
+
+York Minster and Shambles
+
+Clifford's tower, York Castle Museum and York Crown Court
+
+The Ivy Colletion: Traditional British Cuisine
+
+Peterborough Guildhall and Cathedral
+
+Oxford City Centre(Our Lady and the English Martyrs, St Andrew's Street Baptist Church and St Botolph's Church Cambridge)
+
+University of Cambridge
+
+**03/05/2024: Oxford, London**
+
+Oxford City Centre(Wesley Memorial Church Oxford, Clarendon Building and Martyrs' Memorial)
+
+University of Oxford
+
+HMS Belfast
+
+**Fly Tianjin Airlines to Tianjin(GS7988)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
