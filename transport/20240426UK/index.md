@@ -212,8 +212,15 @@ National Museum of Scotland
 **02/05/2024: York, Peterborough and Cambridge**
 
 National Railway Museum
+<center class ='img'>
+  <img src="IMG_0002.jpeg" width="32%"> <img src="IMG_0004.jpeg" width="32%"> <img src="IMG_0008.jpeg" width="32%">
+  <img src="IMG_0017.jpeg" width="32%"> <img src="IMG_0022.jpeg" width="32%"> <img src="IMG_0033.jpeg" width="32%">
+</center>
 
 York Minster and Shambles
+<center class ='img'>
+  <img src="IMG_0039.jpeg" width="32%"> <img src="IMG_0040.jpeg" width="32%"> <img src="IMG_0063.jpeg" width="32%">
+</center>
 
 Clifford's tower, York Castle Museum and York Crown Court
 
