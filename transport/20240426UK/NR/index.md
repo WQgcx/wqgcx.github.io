@@ -1,5 +1,7 @@
 ## British Railways
 
+Hover over the image to find out the type of the train or which train station it is.
+
 **Trains**
 
 <img src="IMG_9352.jpeg" width="32%" title="British Rail Class 376">
