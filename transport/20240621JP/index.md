@@ -192,7 +192,6 @@ Tateyama Kurobe Alpine Route(立山黒部アルペンルート), from Tateyama(�
 <img src="../20240621JP_photos/IMG_1325.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1328.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1329.jpeg" width="32%">
-<img src="../20240621JP_photos/IMG_1320.jpeg" width="32%">
 
 Matsumoto Castle(松本城)
 
