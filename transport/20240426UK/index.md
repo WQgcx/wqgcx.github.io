@@ -21,14 +21,14 @@ Palace of Westminster(Big Ben) and the London Eye
   <img src="IMG_9270.jpeg" width="32%"> <img src="IMG_9282.jpeg" width="32%"> <img src="IMG_9269.jpeg" width="32%">
 </center>
 
-Buckingham Palace, St Paul's Cathedral and Tower Bridge
+Buckingham Palace, the Queen Victoria Memorial and Tower Bridge
 <center class ='img'>
-  <img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9328.jpeg" width="32%"> <img src="IMG_9342.jpeg" width="32%">
+  <img src="IMG_9309.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="32%"> <img src="IMG_9342.jpeg" width="32%">
 </center>
 
-The Collegiate Church of St Peter at Westminster, the Queen Victoria Memorial and the Monument to the Great Fire of London
+The Collegiate Church of St Peter at Westminster, St Paul's Cathedral and the Monument to the Great Fire of London
 <center class ='img'>
-  <img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9310.jpeg" width="32%"> <img src="IMG_9335.jpeg" width="32%">
+  <img src="IMG_9291.jpeg" width="32%"> <img src="IMG_9328.jpeg" width="32%"> <img src="IMG_9335.jpeg" width="32%">
 </center>
 
 Red Telephone Box, Red Bus and the Shard
