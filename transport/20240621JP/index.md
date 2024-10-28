@@ -90,6 +90,34 @@ Takayama Jinya(高山陣屋)
 <img src="../20240621JP_photos/IMG_1060.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1062.jpeg" width="18%">
 
+Traditional Japanese Cuisine with Soba Noodles(蕎麦), Hida Beef Sushi(飛騨牛握り寿司) and Tempura(天婦羅).
+
+<img src="../20240621JP_photos/IMG_1065.jpeg" width="32%">
+
+Takayama Street View
+
+<img src="../20240621JP_photos/IMG_1070.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1071.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1072.jpeg" width="32%">
+
+Sakurayama Hachimangu Shrine(櫻山八幡宮)
+
+<img src="../20240621JP_photos/IMG_1100.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1091.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1094.jpeg" width="32%">
+
+Hida Kokubun-ji(飛騨国分寺)
+
+<img src="../20240621JP_photos/IMG_1108.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1105.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1106.jpeg" width="18%">
+
+Gasshōzukuri(合掌造り)
+
+<img src="../20240621JP_photos/IMG_1114.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1127.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1121.jpeg" width="32%">
+
 **23/06/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
 
 **24/06/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto-shi(松本市)**
