@@ -172,6 +172,37 @@ Toyama Castle(富山城)
 
 **24/06/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto-shi(松本市)**
 
+Tateyama Kurobe Alpine Route(立山黒部アルペンルート), from Tateyama(立山) to Ōgizawa(扇沢)
+
+<img src="../20240621JP_photos/IMG_1248.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1249.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1250.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1255.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1260.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1263.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1293.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1300.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1307.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1309.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1312.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1314.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1315.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1320.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1321.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1325.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1328.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1329.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1320.jpeg" width="32%">
+
+Matsumoto Castle(松本城)
+
+<img src="../20240621JP_photos/IMG_1336.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1337.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1347.jpeg" width="32%">
+
 **Fly China Eastern to Beijing(MU530, MU5195)**
+
+<img src="../20240621JP_photos/IMG_1372.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1377.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
