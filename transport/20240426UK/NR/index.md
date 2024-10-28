@@ -1,4 +1,4 @@
-## Railways in British
+## Railways in UK
 
 Hover over the image to find out the type of the train or which train station it is.
 
