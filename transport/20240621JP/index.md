@@ -1,6 +1,6 @@
 ## Japan, 21/06/2024-24/06/2024
 
-**[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20240426UK/JR/)**
+**[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20240621JP/JR/)**
 
 **Fly China Eastern to Nagoya(MU5196, MU291)**
 
