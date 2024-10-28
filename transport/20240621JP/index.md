@@ -56,7 +56,16 @@ Nagoya City View(Chubu Electric Power MIRAI TOWER, 中部電力 MIRAI TOWER)
 
 Izakaya(居酒屋) 
 
+<img src="../20240621JP_photos/IMG_0992.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0993.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0994.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0995.jpeg" width="32%">
+
 Nagoya Night View
+
+<img src="../20240621JP_photos/IMG_1002.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1012.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1015.jpeg" width="32%">
 
 **22/06/2024: Takayama-shi(高山市), Shirakawa-mura(白川村)**
 
