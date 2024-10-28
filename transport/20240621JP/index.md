@@ -120,6 +120,56 @@ Gasshōzukuri(合掌造り)
 
 **23/06/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
 
+Saigawa Bridge(犀川大橋) and Myouryuji(妙立寺)
+
+<img src="../20240621JP_photos/IMG_1141.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1142.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1143.jpeg" width="32%">
+
+Kenrokuen(兼六園)
+
+<img src="../20240621JP_photos/IMG_1154.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1157.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1158.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1162.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1164.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1165.jpeg" width="32%">
+
+Kanazawa Castle(金沢城)
+
+<img src="../20240621JP_photos/IMG_1171.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1173.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1175.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1176.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1178.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1184.jpeg" width="32%">
+
+Zuiryūji(瑞龍寺)
+
+<img src="../20240621JP_photos/IMG_1200.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1206.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1207.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1210.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1211.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1213.jpeg" width="32%">
+
+Great Buddha of Takaoka(高岡大仏)
+
+<img src="../20240621JP_photos/IMG_1216.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1217.jpeg" width="32%">
+
+Takaoka Kojyo Park(高岡古城公園) 
+
+<img src="../20240621JP_photos/IMG_1220.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1225.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1226.jpeg" width="32%">
+
+Toyama Castle(富山城)
+
+<img src="../20240621JP_photos/IMG_1229.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1233.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1234.jpeg" width="32%">
+
 **24/06/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto-shi(松本市)**
 
 **Fly China Eastern to Beijing(MU530, MU5195)**
