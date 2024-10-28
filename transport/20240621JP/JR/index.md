@@ -13,10 +13,10 @@ Hover over the image to find out the type of the train or which train station it
 
 **Stations**
 
-<img src="../../20240621JP_photos/JR/IMG_0933.jpeg" width="32%" title="Futaminoura Railway Station(二見浦駅)">
-<img src="../../20240621JP_photos/JR/IMG_0949.jpeg" width="32%" title="Iseshi Railway Station(伊勢市駅)">
-<img src="../../20240621JP_photos/JR/IMG_1028.jpeg" width="32%" title="(Shin) Unuma Railway Station((新)鵜沼駅)">
-<img src="../../20240621JP_photos/JR/IMG_1035.jpeg" width="32%" title="Takayama Railway Station(高山駅)">
-<img src="../../20240621JP_photos/JR/IMG_1189.jpeg" width="32%" title="Kanazawa Railway Station(金沢駅)">
+<img src="../../20240621JP_photos/JR/IMG_0933.jpeg" width="32%" title="Futaminoura Station(二見浦駅)">
+<img src="../../20240621JP_photos/JR/IMG_0949.jpeg" width="32%" title="Iseshi Station(伊勢市駅)">
+<img src="../../20240621JP_photos/JR/IMG_1028.jpeg" width="32%" title="(Shin) Unuma Station((新)鵜沼駅)">
+<img src="../../20240621JP_photos/JR/IMG_1035.jpeg" width="32%" title="Takayama Station(高山駅)">
+<img src="../../20240621JP_photos/JR/IMG_1189.jpeg" width="32%" title="Kanazawa Station(金沢駅)">
 
 **Click [here](https://wqgcx.github.io/transport/20240621JP/) to go back.**
