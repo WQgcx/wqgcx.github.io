@@ -108,9 +108,9 @@ Sakurayama Hachimangu Shrine(櫻山八幡宮)
 
 Hida Kokubun-ji(飛騨国分寺)
 
+<img src="../20240621JP_photos/IMG_1109.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1108.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1105.jpeg" width="32%">
-<img src="../20240621JP_photos/IMG_1106.jpeg" width="18%">
 
 Gasshōzukuri(合掌造り)
 
