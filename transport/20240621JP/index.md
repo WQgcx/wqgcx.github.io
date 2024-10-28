@@ -36,6 +36,28 @@ Atsuta Shrine(熱田神宮)
 <img src="../20240621JP_photos/IMG_0965.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0966.jpeg" width="32%">
 
+Nagoya Castle(名古屋城)
+
+<img src="../20240621JP_photos/IMG_0969.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0978.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0982.jpeg" width="32%">
+
+Tōgan-ji(桃嚴寺)
+
+<img src="../20240621JP_photos/IMG_0984.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0985.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0987.jpeg" width="32%">
+
+Nagoya City View(Chubu Electric Power MIRAI TOWER, 中部電力 MIRAI TOWER)
+
+<img src="../20240621JP_photos/IMG_0988.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0989.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0990.jpeg" width="32%">
+
+Izakaya(居酒屋) 
+
+Nagoya Night View
+
 **22/06/2024: Takayama-shi(高山市), Shirakawa-mura(白川村)**
 
 **23/06/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
