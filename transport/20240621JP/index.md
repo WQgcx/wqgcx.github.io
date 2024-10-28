@@ -13,6 +13,16 @@ Futamiokitama Shrine(二見興玉神社)
   <img src="../20240621JP_photos/IMG_0932.jpeg" width="32%">
 </center>
 
+Ise Shrine(伊勢神宮)
+<center class ='img'>
+  <img src="../20240621JP_photos/IMG_0935.jpeg" width="32%">
+  <img src="../20240621JP_photos/IMG_0936.jpeg" width="32%">
+  <img src="../20240621JP_photos/IMG_0939.jpeg" width="32%">
+  <img src="../20240621JP_photos/IMG_0943.jpeg" width="32%">
+  <img src="../20240621JP_photos/IMG_0944.jpeg" width="32%">
+  <img src="../20240621JP_photos/IMG_0947.jpeg" width="32%">
+</center>
+
 **22/06/2024: Takayama-shi(高山市), Shirakawa-mura(白川村)**
 
 **23/06/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
