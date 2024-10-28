@@ -3,17 +3,20 @@
 **[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20240621JP/JR/)**
 
 **Fly China Eastern to Nagoya(MU5196, MU291)**
+
 <img src="../20240621JP_photos/IMG_0888.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0895.jpeg" width="32%">
 
 **21/06/2024: Ise-shi(伊勢市), Nagoya-shi(名古屋市)**
 
 Futamiokitama Shrine(二見興玉神社)
+
 <img src="../20240621JP_photos/IMG_0925.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0927.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0932.jpeg" width="32%">
 
 Ise Shrine(伊勢神宮)
+
 <img src="../20240621JP_photos/IMG_0935.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0936.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0939.jpeg" width="32%">
@@ -22,11 +25,13 @@ Ise Shrine(伊勢神宮)
 <img src="../20240621JP_photos/IMG_0947.jpeg" width="32%">
 
 Atsuta Shrine(熱田神宮)
+
 <img src="../20240621JP_photos/IMG_0957.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0955.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0936.jpeg" width="32%">
 
 Ōsu Kannon(大須観音)
+
 <img src="../20240621JP_photos/IMG_0963.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0965.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0966.jpeg" width="32%">
