@@ -69,6 +69,27 @@ Nagoya Night View
 
 **22/06/2024: Takayama-shi(高山市), Shirakawa-mura(白川村)**
 
+Hida Tenmangu Shrine(飛騨天滿宮)
+
+<img src="../20240621JP_photos/IMG_1036.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1037.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1038.jpeg" width="32%">
+
+Hie Shrine(飛騨山王宮 日枝神社)
+
+<img src="../20240621JP_photos/IMG_1047.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1041.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1042.jpeg" width="32%">
+
+Takayama Jinya(高山陣屋)
+
+<img src="../20240621JP_photos/IMG_1050.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1051.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1053.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1058.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1060.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_1062.jpeg" width="18%">
+
 **23/06/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
 
 **24/06/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto-shi(松本市)**
