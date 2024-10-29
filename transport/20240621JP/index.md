@@ -28,7 +28,7 @@ Atsuta Shrine(熱田神宮)
 
 <img src="../20240621JP_photos/IMG_0957.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0955.jpeg" width="32%">
-<img src="../20240621JP_photos/IMG_0936.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_0956.jpeg" width="32%">
 
 Ōsu Kannon(大須観音)
 
