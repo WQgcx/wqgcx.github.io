@@ -20,7 +20,6 @@ Hover over the image to find out the type of the train or which train station it
 <img src="../../20240426UK_photos/NR/IMG_9667.jpeg" width="32%" title="Manchester Tram">
 <img src="../../20240426UK_photos/NR/IMG_9637.jpeg" width="32%" title="British Rail Class 195">
 <img src="../../20240426UK_photos/NR/IMG_9704.jpeg" width="32%" title="British Rail Class 331">
-<img src="../../20240426UK_photos/NR/IMG_9704.jpeg" width="32%" title="British Rail Class 331">
 <img src="../../20240426UK_photos/NR/IMG_9733.jpeg" width="32%" title="British Rail Class 390">
 <img src="../../20240426UK_photos/NR/IMG_9794.jpeg" width="32%" title="British Rail Class 222">
 <img src="../../20240426UK_photos/NR/IMG_9796.jpeg" width="32%" title="British Rail Class 69">
