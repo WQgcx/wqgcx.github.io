@@ -268,4 +268,8 @@ HMS Belfast
 
 **Fly Tianjin Airlines to Tianjin(GS7988)**
 
+<center class ='img'>
+  <img src="../20240426UK_photos/IMG_0213.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_0215.jpeg" width="32%">
+</center>
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
