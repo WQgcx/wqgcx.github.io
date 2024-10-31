@@ -57,6 +57,18 @@ Gyeongbokgung(경복궁)
 <img src="../20240828KR_photos/IMG_2449.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2450.jpeg" width="32%">
 
+Myeong-dong(명동)
+
+<img src="../20240828KR_photos/IMG_2455.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2460.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2461.jpeg" width="32%">
+
+Seoul Night View
+
+<img src="../20240828KR_photos/IMG_2473.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2475.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2478.jpeg" width="32%">
+
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
