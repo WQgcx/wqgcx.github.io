@@ -6,7 +6,7 @@
 
 **28/08/2024: Gyeonggido(경기도), Seoul(서울)**
 
-Suwon Hwaseong(수원 화성)
+Suwon Hwaseong(수원화성)
 
 <img src="../20240828KR_photos/IMG_2343.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2345.jpeg" width="32%">
@@ -17,6 +17,45 @@ Suwon Hwaseong(수원 화성)
 <img src="../20240828KR_photos/IMG_2357.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2364.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2366.jpeg" width="32%">
+
+Namhansanseong(남한산성)
+
+<img src="../20240828KR_photos/IMG_2368.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2371.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2374.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2378.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2381.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2383.jpeg" width="32%">
+
+Jongmyo(종묘)
+
+<img src="../20240828KR_photos/IMG_2392.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2393.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2396.jpeg" width="32%">
+
+Changgyeonggung(창경궁)
+
+<img src="../20240828KR_photos/IMG_2400.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2403.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2408.jpeg" width="32%">
+
+Changdeokgung(창덕궁)
+
+<img src="../20240828KR_photos/IMG_2420.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2413.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2416.jpeg" width="32%">
+
+Gyeongbokgung(경복궁)
+
+<img src="../20240828KR_photos/IMG_2432.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2436.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2437.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2440.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2443.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2445.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2446.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2449.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2450.jpeg" width="32%">
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
