@@ -4,7 +4,7 @@
 
 **Fly Shandong Airlines to Seoul(SC7954, SC7683)**
 
-**28/08/2024: Gyeonggido(경기도), Seoul(서울)**
+**28/08/2024: Gyeonggi Province(경기도), Seoul(서울)**
 
 Suwon Hwaseong(수원화성)
 
@@ -68,6 +68,44 @@ Seoul Night View
 <img src="../20240828KR_photos/IMG_2473.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2475.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2478.jpeg" width="32%">
+
+**29/08/2024: Gwangju(광주), Jeonbuk State(전북특별자치도), South Jeolla Province(전라남도)**
+
+Yangnimdong History and Culture Village(양림동역사문화마을)
+
+<img src="../20240828KR_photos/IMG_2484.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2485.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2488.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2489.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2491.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2495.jpeg" width="32%">
+
+5·18 Memorial Park(5·18기념공원)
+
+<img src="../20240828KR_photos/IMG_2497.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2500.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2506.jpeg" width="32%">
+
+Wanggung-ri Ruins, Iksan(익산왕궁리유적)
+
+<img src="../20240828KR_photos/IMG_2509.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2513.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2514.jpeg" width="32%">
+
+Mireuksa Ruins, Iksan(미륵사유적)
+
+<img src="../20240828KR_photos/IMG_2528.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2533.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2536.jpeg" width="32%">
+
+Gokseong Seomjin Train Village(섬진강기차마을)
+
+<img src="../20240828KR_photos/IMG_2546.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2547.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2552.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2553.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2555.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2556.jpeg" width="32%">
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
