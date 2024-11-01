@@ -155,6 +155,7 @@ Jeolla Gamyoung(전라감영)
 Bulguksa(불국사)
 
 <img src="../20240828KR_photos/IMG_2610.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2611.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2612.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2615.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2617.jpeg" width="32%">
@@ -231,6 +232,7 @@ Pyeongsan Books(평산책방)
 <img src="../20240828KR_photos/IMG_2790.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2792.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2799.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2800.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2804.jpeg" width="32%">
 
 Ancient Tombs in Bullo-dong(불로동고분군)
