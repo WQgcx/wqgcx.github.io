@@ -150,6 +150,47 @@ Jeolla Gamyoung(전라감영)
 <img src="../20240828KR_photos/IMG_2600.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2601.jpeg" width="32%">
 
+**30/08/2024: Gyeongju(경주), Busan(부산)**
+
+Bulguksa(불국사)
+
+<img src="../20240828KR_photos/IMG_2610.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2612.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2615.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2617.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2621.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2628.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2630.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2632.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2634.jpeg" width="32%">
+
+Gyeongju National Museum
+
+<img src="../20240828KR_photos/IMG_2636.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2641.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2646.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2649.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2651.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2653.jpeg" width="32%">
+
+Donggung Palace and Wolji Pond, Gyeongju(경주동궁과월지)
+
+<img src="../20240828KR_photos/IMG_2655.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2658.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2662.jpeg" width="32%">
+
+Gyeongju Seokbinggo(경주석빙고) and Cheomseongdae(첨성대)
+
+<img src="../20240828KR_photos/IMG_2664.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2668.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2673.jpeg" width="32%">
+
+Daereungwon Ancient Tombs(대릉원)
+
+<img src="../20240828KR_photos/IMG_2677.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2678.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2679.jpeg" width="32%">
+
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
