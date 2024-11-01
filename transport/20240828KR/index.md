@@ -161,8 +161,8 @@ Bulguksa(불국사)
 <img src="../20240828KR_photos/IMG_2621.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2628.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2630.jpeg" width="32%">
-<img src="../20240828KR_photos/IMG_2632.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2634.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2632.jpeg" width="18%">
 
 Gyeongju National Museum
 
@@ -190,6 +190,37 @@ Daereungwon Ancient Tombs(대릉원)
 <img src="../20240828KR_photos/IMG_2677.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2678.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2679.jpeg" width="32%">
+
+Ocean Views in Busan
+
+<img src="../20240828KR_photos/IMG_2685.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2686.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2691.jpeg" width="32%">
+
+Haedong Yonggungsa(해동용궁사)
+
+<img src="../20240828KR_photos/IMG_2702.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2704.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2706.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2713.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2714.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2715.jpeg" width="32%">
+
+Haeundae Blue Line Park(해운대블루라인파크)
+
+<img src="../20240828KR_photos/IMG_2727.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2734.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2741.jpeg" width="32%">
+
+Dwaeji Gukbap(돼지국밥)
+
+<img src="../20240828KR_photos/IMG_2750.jpeg" width="32%">
+
+Busan Night View
+
+<img src="../20240828KR_photos/IMG_2753.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2756.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2765.jpeg" width="32%">
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
