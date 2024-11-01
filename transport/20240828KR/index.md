@@ -124,7 +124,7 @@ Jeondong Cathedral(전동성당)
 
 Pungnammun Gate(풍남문)
 
-<img src="../20240828KR_photos/IMG_2575.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2577.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2597.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2598.jpeg" width="32%">
 
