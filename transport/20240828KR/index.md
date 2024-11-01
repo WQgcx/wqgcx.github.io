@@ -162,7 +162,7 @@ Bulguksa(불국사)
 <img src="../20240828KR_photos/IMG_2628.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2630.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2634.jpeg" width="32%">
-<img src="../20240828KR_photos/IMG_2632.jpeg" width="18%">
+<img src="../20240828KR_photos/IMG_2632.jpeg" width="32%">
 
 Gyeongju National Museum
 
@@ -221,6 +221,35 @@ Busan Night View
 <img src="../20240828KR_photos/IMG_2753.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2756.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2765.jpeg" width="32%">
+
+**31/08/2024: South Gyeongsang Province(경상남도), Daegu(대구)**
+
+Pyeongsan Books(평산책방)
+
+<img src="../20240828KR_photos/IMG_2771.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2772.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2790.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2792.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2799.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2804.jpeg" width="32%">
+
+Ancient Tombs in Bullo-dong(불로동고분군)
+
+<img src="../20240828KR_photos/IMG_2816.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2818.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2819.jpeg" width="32%">
+
+Gyeongsang-gamyeong Park(경상감영공원)
+
+<img src="../20240828KR_photos/IMG_2823.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2827.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2828.jpeg" width="32%">
+
+West Gate of Daegu Yangnyeong Market(대구약령시), Our Lady of Lourdes Cathedral, Daegu(계산동성당) and Daegu Jeil Church(대구제일교회)
+
+<img src="../20240828KR_photos/IMG_2830.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2831.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2835.jpeg" width="32%">
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
