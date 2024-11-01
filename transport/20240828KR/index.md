@@ -69,7 +69,7 @@ Seoul Night View
 <img src="../20240828KR_photos/IMG_2475.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2478.jpeg" width="32%">
 
-**29/08/2024: Gwangju(광주), Jeonbuk State(전북특별자치도), South Jeolla Province(전라남도)**
+**29/08/2024: Gwangju(광주), North Jeolla Province(전라북도), South Jeolla Province(전라남도)**
 
 Yangnimdong History and Culture Village(양림동역사문화마을)
 
