@@ -89,14 +89,14 @@ Yangnimdong History and Culture Village(양림동역사문화마을)
 Wanggung-ri Ruins, Iksan(익산왕궁리유적)
 
 <img src="../20240828KR_photos/IMG_2509.jpeg" width="32%">
-<img src="../20240828KR_photos/IMG_2513.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2514.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2513.jpeg" width="32%">
 
 Mireuksa Ruins, Iksan(미륵사유적)
 
 <img src="../20240828KR_photos/IMG_2528.jpeg" width="32%">
-<img src="../20240828KR_photos/IMG_2533.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2536.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2533.jpeg" width="32%">
 
 Gokseong Seomjin Train Village(섬진강기차마을)
 
@@ -106,6 +106,49 @@ Gokseong Seomjin Train Village(섬진강기차마을)
 <img src="../20240828KR_photos/IMG_2553.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2555.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2556.jpeg" width="32%">
+
+Gyeonggijeon Shrine(경기전)
+
+<img src="../20240828KR_photos/IMG_2563.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2566.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2567.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2568.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2569.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2572.jpeg" width="32%">
+
+Jeondong Cathedral(전동성당)
+
+<img src="../20240828KR_photos/IMG_2575.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2578.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2596.jpeg" width="32%">
+
+Pungnammun Gate(풍남문)
+
+<img src="../20240828KR_photos/IMG_2575.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2597.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2598.jpeg" width="32%">
+
+Jeonju Hanok Village(전주한옥마을)
+
+<img src="../20240828KR_photos/IMG_2583.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2584.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2594.jpeg" width="32%">
+
+Omokdae(오목대)
+
+<img src="../20240828KR_photos/IMG_2587.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2586.jpeg" width="32%">
+
+Korean Pancake Set
+
+<img src="../20240828KR_photos/IMG_2590.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2591.jpeg" width="32%">
+
+Jeolla Gamyoung(전라감영)
+
+<img src="../20240828KR_photos/IMG_2599.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2600.jpeg" width="32%">
+<img src="../20240828KR_photos/IMG_2601.jpeg" width="32%">
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
