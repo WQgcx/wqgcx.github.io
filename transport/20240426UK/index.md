@@ -1,4 +1,4 @@
-## United Kingdom, 26/04/2024-03/05/2024
+## United Kingdom, 26/Apr/2024-03/May/2024
 
 **[<font color=red size=5><u>RAILWAYS IN UK</u></font>](https://wqgcx.github.io/transport/20240426UK/NR/)**
 
@@ -9,7 +9,7 @@
   <img src="../20240426UK_photos/IMG_9206.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9216.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9227.jpeg" width="32%">
 </center>
 
-**26/04/2024: London**
+**26/Apr/2024: London**
 
 The Sherlock Holmes Museum
 <center class ='img'>
@@ -51,7 +51,7 @@ Tower of London
   <img src="../20240426UK_photos/IMG_9406.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9403.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9408.jpeg" width="32%">
 </center>
 
-**27/04/2024: Reading, Salisbury and Windsor**
+**27/Apr/2024: Reading, Salisbury and Windsor**
 
 Reading Town Hall, Church of England and Queen Victoria's Statue
 <center class ='img'>
@@ -73,7 +73,7 @@ Windsor Castle
   <img src="../20240426UK_photos/IMG_9499.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9498.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9495.jpeg" width="32%">
 </center>
 
-**28/04/2024: London, Swindon, Gloucester and Birmingham**
+**28/Apr/2024: London, Swindon, Gloucester and Birmingham**
 
 The British Museum(Main Gate, Easter Island Head, Rosetta Stone, Parthenon Temple, Tang Tri-Color Glazed Ceramics, Shiva Nataraja, Egyptian Mummies, Lewis Chessmen, Holy Thorn Reliquary)
 <center class ='img'>
@@ -98,7 +98,7 @@ Birmingham Cathedral, Unett Memorial and Bullring & Grand Central
   <img src="../20240426UK_photos/IMG_9629.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9630.jpeg" width="18%"> <img src="../20240426UK_photos/IMG_9633.jpeg" width="32%">
 </center>
 
-**29/04/2024: Manchester**
+**29/Apr/2024: Manchester**
 
 Science and Industry Museum
 <center class ='img'>
@@ -126,7 +126,7 @@ Old Trafford
   <img src="../20240426UK_photos/IMG_9713.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9719.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9725.jpeg" width="32%">
 </center>
 
-**30/04/2024: Nottingham, Sheffield, Leeds, Bradford**
+**30/Apr/2024: Nottingham, Sheffield, Leeds, Bradford**
 
 City of Caves
 <center class ='img'>
@@ -163,7 +163,7 @@ Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
   <img src="../20240426UK_photos/IMG_9854.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9845.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9857.jpeg" width="32%">
 </center>
 
-**01/05/2024: Glasgow and Edinburgh**
+**01/May/2024: Glasgow and Edinburgh**
 
 St George's Tron Church and Glasgow City Chambers(George Square) 
 <center class ='img'>
@@ -209,7 +209,7 @@ National Museum of Scotland
   <img src="../20240426UK_photos/IMG_9973.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9974.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9977.jpeg" width="32%">
 </center>
 
-**02/05/2024: York, Peterborough and Cambridge**
+**02/May/2024: York, Peterborough and Cambridge**
 
 National Railway Museum
 <center class ='img'>
@@ -247,7 +247,7 @@ University of Cambridge
   <img src="../20240426UK_photos/IMG_0116.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_0114.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_0121.jpeg" width="32%">
 </center>
 
-**03/05/2024: Oxford, London**
+**03/May/2024: Oxford, London**
 
 Oxford City Centre(Wesley Memorial Church, Clarendon Building and Martyrs' Memorial)
 <center class ='img'>
