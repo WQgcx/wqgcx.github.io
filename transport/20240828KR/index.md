@@ -1,10 +1,10 @@
-## Republic of Korea, 28/08/2024-31/08/2024
+## Republic of Korea, 28/Aug/2024-31/Aug/2024
 
 **[<font color=red size=5><u>RAILWAYS IN REPUBLIC OF KOREA</u></font>](https://wqgcx.github.io/transport/20240828KR/KR/)**
 
 **Fly Shandong Airlines to Seoul(SC7954, SC7683)**
 
-**28/08/2024: Gyeonggi Province(경기도), Seoul(서울)**
+**28/Aug/2024: Gyeonggi Province(경기도), Seoul(서울)**
 
 Suwon Hwaseong(수원화성)
 
@@ -69,7 +69,7 @@ Seoul Night View
 <img src="../20240828KR_photos/IMG_2475.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2478.jpeg" width="32%">
 
-**29/08/2024: Gwangju(광주), North Jeolla Province(전라북도), South Jeolla Province(전라남도)**
+**29/Aug/2024: Gwangju(광주), North Jeolla Province(전라북도), South Jeolla Province(전라남도)**
 
 Yangnimdong History and Culture Village(양림동역사문화마을)
 
@@ -150,7 +150,7 @@ Jeolla Gamyoung(전라감영)
 <img src="../20240828KR_photos/IMG_2600.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2601.jpeg" width="32%">
 
-**30/08/2024: Gyeongju(경주), Busan(부산)**
+**30/Aug/2024: Gyeongju(경주), Busan(부산)**
 
 Bulguksa(불국사)
 
@@ -223,7 +223,7 @@ Busan Night View
 <img src="../20240828KR_photos/IMG_2756.jpeg" width="32%">
 <img src="../20240828KR_photos/IMG_2765.jpeg" width="32%">
 
-**31/08/2024: South Gyeongsang Province(경상남도), Daegu(대구)**
+**31/Aug/2024: South Gyeongsang Province(경상남도), Daegu(대구)**
 
 Pyeongsan Books(평산책방)
 
