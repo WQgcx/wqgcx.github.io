@@ -1,6 +1,6 @@
 ## Republic of Malaysia, 27/Sep/2024-29/Sep/2024
 
-**[<font color=red size=5><u>RAILWAYS IN REPUBLIC OF MALAYSIA</u></font>](https://wqgcx.github.io/transport/20240927MYS/KTMB)**
+**[<font color=red size=5><u>RAILWAYS IN MALAYSIA</u></font>](https://wqgcx.github.io/transport/20240927MYS/KTMB)**
 
 **Fly China Eastern Airlines and AirAsia to Penang(MU2969, AK6112)**
 
