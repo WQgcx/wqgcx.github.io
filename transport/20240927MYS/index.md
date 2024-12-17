@@ -118,6 +118,12 @@ Kellie's Castle
 <img src="../20240927MYS_photos/IMG_3248.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3249.jpeg" width="32%">
 
+Little India
+
+<img src="../20240927MYS_photos/IMG_3263.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3268.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3272.jpeg" width="32%">
+
 Night View of Kuala Lumpur
 
 <img src="../20240927MYS_photos/IMG_3283.jpeg" width="32%">
@@ -177,6 +183,15 @@ Batu Caves
 <img src="../20240927MYS_photos/IMG_3393.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3395.jpeg" width="32%">
 
+Putra Mosque, Putra Square and Perdana Putra
+
+<img src="../20240927MYS_photos/IMG_3402.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3405.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3406.jpeg" width="32%">
+
 **Fly Emirates to Paris(EK347, EK71)**
+
+<img src="../20240927MYS_photos/IMG_3410.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3413.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
