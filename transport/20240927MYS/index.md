@@ -118,7 +118,7 @@ Kellie's Castle
 <img src="../20240927MYS_photos/IMG_3248.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3249.jpeg" width="32%">
 
-**29/Sep/2024: Kuala Lumpur**
+**29/Sep/2024: Kuala Lumpur, Putrajaya**
 
 **Fly Emirates to Paris(EK347, EK71)**
 
