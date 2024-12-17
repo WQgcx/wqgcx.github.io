@@ -81,7 +81,7 @@ Night View of George Town
 <img src="../20240927MYS_photos/IMG_3208.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3207.jpeg" width="32%">
 
-**28/Sep/2024: IPoh, Kuala Lumpur**
+**28/Sep/2024: Ipoh, Kuala Lumpur**
 
 Town Hall, Birch Memorial Clock Tower and Sultan Idris Shah II Mosque
 
