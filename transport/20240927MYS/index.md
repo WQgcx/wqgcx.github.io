@@ -40,7 +40,7 @@ Yap Kongsi Temple(叶宗祠), Seh Tek Tong Cheah Kongsi(世德堂谢公司) and 
 <img src="../20240927MYS_photos/IMG_3137.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3142.jpeg" width="32%">
 
-Penang's Hainan Temple, Arulmigu Sri Mahamariamman Temple and Ayer Itam Mahamariamman Temple
+Hainan Temple(天后宫), Arulmigu Sri Mahamariamman Temple and Ayer Itam Mahamariamman Temple
 
 <img src="../20240927MYS_photos/IMG_3125.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3166.jpeg" width="32%">
