@@ -10,7 +10,7 @@
 
 **27/Sep/2024: Penang**
 
-British Colonial Territory in Penang(Malayan Railway Building, Jubilee Clock Tower, Ocean View, City Hall, Town Hall, Logan Memorial)
+British Colonial Area(Wisma Kastam, Jubilee Clock Tower, Ocean View, City Hall, Town Hall, Logan Memorial)
 
 <img src="../20240927MYS_photos/IMG_3093.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3097.jpeg" width="32%">
