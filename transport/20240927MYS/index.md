@@ -11,3 +11,5 @@
 **29/Sep/2024: Kuala Lumpur**
 
 **Fly Emirates to Paris(EK347, EK71)**
+
+**Click [here](https://wqgcx.github.io/transport/) to go back.**
