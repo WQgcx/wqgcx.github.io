@@ -118,7 +118,64 @@ Kellie's Castle
 <img src="../20240927MYS_photos/IMG_3248.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3249.jpeg" width="32%">
 
+Night View of Kuala Lumpur
+
+<img src="../20240927MYS_photos/IMG_3283.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3285.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3280.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3279.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3287.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3293.jpeg" width="32%">
+
 **29/Sep/2024: Kuala Lumpur, Putrajaya**
+
+National Museum
+
+<img src="../20240927MYS_photos/IMG_3300.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3313.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3314.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3320.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3332.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3334.jpeg" width="32%">
+
+TV Alhijrah, National Mosque of Malaysia and Malayan Railway Building
+
+<img src="../20240927MYS_photos/IMG_3341.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3342.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3344.jpeg" width="32%">
+
+National Textile Museum and Sultan Abdul Samad Building
+
+<img src="../20240927MYS_photos/IMG_3347.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3348.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3357.jpeg" width="32%">
+
+Independence Square and Jamek Mosque
+
+<img src="../20240927MYS_photos/IMG_3353.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3358.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3365.jpeg" width="32%">
+
+Sin Sze Si Ya Tample, Guan Di Temple and Sri Mahamariamman Temple
+
+<img src="../20240927MYS_photos/IMG_3366.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3367.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3370.jpeg" width="32%">
+
+Batu Caves
+
+<img src="../20240927MYS_photos/IMG_3376.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3377.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3378.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3379.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3383.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3387.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3388.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3389.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3390.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3391.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3393.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3395.jpeg" width="32%">
 
 **Fly Emirates to Paris(EK347, EK71)**
 
