@@ -75,13 +75,48 @@ Sri Aruloli Thirumurugan, Masjid Bukit Bendera, Panorama of George Town
 <img src="../20240927MYS_photos/IMG_3190.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3192.jpeg" width="32%">
 
-Night View of Goerge Town
+Night View of George Town
 
 <img src="../20240927MYS_photos/IMG_3202.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3208.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3207.jpeg" width="32%">
 
 **28/Sep/2024: IPoh, Kuala Lumpur**
+
+Town Hall, Birch Memorial Clock Tower and Sultan Idris Shah II Mosque
+
+<img src="../20240927MYS_photos/IMG_3214.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3215.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3216.jpeg" width="32%">
+
+Ipoh Street Art
+
+<img src="../20240927MYS_photos/IMG_3217.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3222.jpeg" width="32%">
+
+Ipoh Padang, Concubine Lane and Han Chin Pet Soo
+
+<img src="../20240927MYS_photos/IMG_3218.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3221.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3223.jpeg" width="32%">
+
+Perak Cave Temple
+
+<img src="../20240927MYS_photos/IMG_3228.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3229.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3230.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3231.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3232.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3233.jpeg" width="32%">
+
+Kellie's Castle
+
+<img src="../20240927MYS_photos/IMG_3239.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3240.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3244.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3245.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3248.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3249.jpeg" width="32%">
 
 **29/Sep/2024: Kuala Lumpur**
 
