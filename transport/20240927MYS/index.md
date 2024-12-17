@@ -118,7 +118,7 @@ Kellie's Castle
 <img src="../20240927MYS_photos/IMG_3248.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3249.jpeg" width="32%">
 
-Little India
+Little India (in Kuala Lumpur)
 
 <img src="../20240927MYS_photos/IMG_3263.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3268.jpeg" width="32%">
