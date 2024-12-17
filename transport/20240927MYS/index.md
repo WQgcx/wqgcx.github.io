@@ -40,7 +40,7 @@ Yap Kongsi temple, Seh Tek Tong Cheah Kongsi and Qing Yang Gong
 <img src="../20240927MYS_photos/IMG_3137.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3142.jpeg" width="32%">
 
-Penang's Hainan Temple, Arulmigu Sri Mahamariamman Temple and Sri Ruthra Veeramuthu Maha Mariamman Devasthanam
+Penang's Hainan Temple, Arulmigu Sri Mahamariamman Temple and Ayer Itam Mahamariamman Temple
 
 <img src="../20240927MYS_photos/IMG_3125.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3166.jpeg" width="32%">
