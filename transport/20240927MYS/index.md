@@ -19,7 +19,7 @@ British Colonial Territory in Penang(Malayan Railway Building, Jubilee Clock Tow
 <img src="../20240927MYS_photos/IMG_3108.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3110.jpeg" width="32%">
 
-Cheong Fatt Tze Mansion
+Cheong Fatt Tze Mansion(张弼时故居)
 
 <img src="../20240927MYS_photos/IMG_3122.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3115.jpeg" width="32%">
@@ -34,7 +34,7 @@ Nagore Durgha Sheriff and Kapitan Keling Mosque
 <img src="../20240927MYS_photos/IMG_3131.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3133.jpeg" width="32%">
 
-Yap Kongsi temple, Seh Tek Tong Cheah Kongsi and Qing Yang Gong
+Yap Kongsi Temple(叶宗祠), Seh Tek Tong Cheah Kongsi(世德堂谢公司) and Qing Yang Gong(清岩宫)
 
 <img src="../20240927MYS_photos/IMG_3134.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3137.jpeg" width="32%">
@@ -94,7 +94,7 @@ Ipoh Street Art
 <img src="../20240927MYS_photos/IMG_3217.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3222.jpeg" width="32%">
 
-Ipoh Padang, Concubine Lane and Han Chin Pet Soo
+Ipoh Padang, Concubine Lane(二奶巷) and Han Chin Pet Soo(闲真别墅)
 
 <img src="../20240927MYS_photos/IMG_3218.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3221.jpeg" width="32%">
@@ -162,7 +162,7 @@ Independence Square and Jamek Mosque
 <img src="../20240927MYS_photos/IMG_3358.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3365.jpeg" width="32%">
 
-Sin Sze Si Ya Temple, Guan Di Temple and Sri Mahamariamman Temple
+Sin Sze Si Ya Temple(仙四师爷宫), Guan Di Temple(关帝庙) and Sri Mahamariamman Temple
 
 <img src="../20240927MYS_photos/IMG_3366.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3367.jpeg" width="32%">
