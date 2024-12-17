@@ -4,6 +4,10 @@
 
 **Fly China Eastern Airlines and AirAsia to Penang(MU2969, AK6112)**
 
+<img src="../20240927MYS_photos/IMG_3088.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3090.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3092.jpeg" width="32%">
+
 **27/Sep/2024: Penang**
 
 British Colonial Territory in Penang(Malayan Railway Building, Jubilee Clock Tower, Ocean View, City Hall, Town Hall, Logan Memorial)
@@ -23,6 +27,23 @@ Cheong Fatt Tze Mansion
 <img src="../20240927MYS_photos/IMG_3116.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3118.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3119.jpeg" width="32%">
+
+Penang's Hainan Temple and Kapitan Keling Mosque
+
+<img src="../20240927MYS_photos/IMG_3125.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3131.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3133.jpeg" width="32%">
+
+Yap Kongsi temple, Seh Tek Tong Cheah Kongsi and Qing Yang Gong
+
+<img src="../20240927MYS_photos/IMG_3134.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3137.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3142.jpeg" width="32%">
+
+Penang Street Art
+
+<img src="../20240927MYS_photos/IMG_3139.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3128.jpeg" width="32%">
 
 **28/Sep/2024: IPoh, Kuala Lumpur**
 
