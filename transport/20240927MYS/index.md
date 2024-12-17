@@ -69,7 +69,7 @@ Penang Hill Railway
 <img src="../20240927MYS_photos/IMG_3176.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3177.jpeg" width="32%">
 
-Sri Aruloli Thirumurugan, Masjid Bukit Bendera, Panorama of George Town
+Penang Hill Hindu Temple, Penang Hill Mosque, Panorama of George Town
 
 <img src="../20240927MYS_photos/IMG_3189.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3190.jpeg" width="32%">
@@ -162,7 +162,7 @@ Independence Square and Jamek Mosque
 <img src="../20240927MYS_photos/IMG_3358.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3365.jpeg" width="32%">
 
-Sin Sze Si Ya Tample, Guan Di Temple and Sri Mahamariamman Temple
+Sin Sze Si Ya Temple, Guan Di Temple and Sri Mahamariamman Temple
 
 <img src="../20240927MYS_photos/IMG_3366.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3367.jpeg" width="32%">
