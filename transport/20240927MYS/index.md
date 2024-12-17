@@ -28,9 +28,9 @@ Cheong Fatt Tze Mansion
 <img src="../20240927MYS_photos/IMG_3118.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3119.jpeg" width="32%">
 
-Penang's Hainan Temple and Kapitan Keling Mosque
+Nagore Durgha Sheriff and Kapitan Keling Mosque
 
-<img src="../20240927MYS_photos/IMG_3125.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3168.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3131.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3133.jpeg" width="32%">
 
@@ -40,10 +40,46 @@ Yap Kongsi temple, Seh Tek Tong Cheah Kongsi and Qing Yang Gong
 <img src="../20240927MYS_photos/IMG_3137.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3142.jpeg" width="32%">
 
+Penang's Hainan Temple, Arulmigu Sri Mahamariamman Temple and Sri Ruthra Veeramuthu Maha Mariamman Devasthanam
+
+<img src="../20240927MYS_photos/IMG_3125.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3166.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3169.jpeg" width="32%">
+
 Penang Street Art
 
 <img src="../20240927MYS_photos/IMG_3139.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3128.jpeg" width="32%">
+
+Burmese Buddhist Temple
+
+<img src="../20240927MYS_photos/IMG_3146.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3149.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3151.jpeg" width="32%">
+
+Thai Buddhist Temple
+
+<img src="../20240927MYS_photos/IMG_3163.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3158.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3161.jpeg" width="32%">
+
+Penang Hill Railway
+
+<img src="../20240927MYS_photos/IMG_3171.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3176.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3177.jpeg" width="32%">
+
+Sri Aruloli Thirumurugan, Masjid Bukit Bendera, Panorama of George Town
+
+<img src="../20240927MYS_photos/IMG_3189.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3190.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3192.jpeg" width="32%">
+
+Night View of Goerge Town
+
+<img src="../20240927MYS_photos/IMG_3202.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3208.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3207.jpeg" width="32%">
 
 **28/Sep/2024: IPoh, Kuala Lumpur**
 
