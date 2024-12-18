@@ -66,6 +66,36 @@ Bateaux Mouches and Night View of Paris(along the Seine River)
 
 **01/Oct/2024: Geneva, Lausanne, Bern**
 
+Palace of Nations
+
+<img src="../20240930EU_photos/IMG_3550.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3545.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3546.jpeg" width="32%">
+
+Grand Théâtre de Genève, Musée Rath and Monument to the Reformation
+
+<img src="../20240930EU_photos/IMG_3557.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3560.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3561.jpeg" width="32%">
+
+Evangelical Lutheran Church Of Geneva, Palais de Justice and St. Pierre Cathedral
+
+<img src="../20240930EU_photos/IMG_3564.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3566.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3567.jpeg" width="32%">
+
+Street View of Geneva, The Flower Clock and Basilica of Our Lady of Geneva(日内瓦圣母圣殿)
+
+<img src="../20240930EU_photos/IMG_3568.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3578.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3585.jpeg" width="32%">
+
+Lake Geneva
+
+<img src="../20240930EU_photos/IMG_3575.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3577.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3582.jpeg" width="32%">
+
 **02/Oct/2024: Zurich, Schwyz, Lucerne, Bern**
 
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
