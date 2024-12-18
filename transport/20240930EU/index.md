@@ -72,13 +72,13 @@ Palace of Nations
 <img src="../20240930EU_photos/IMG_3545.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3546.jpeg" width="32%">
 
-Grand Théâtre de Genève, Musée Rath and Monument to the Reformation
+Grand Théâtre de Genève(日内瓦大剧院), Musée Rath(拉特美术馆) and Monument to the Reformation
 
 <img src="../20240930EU_photos/IMG_3557.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3560.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3561.jpeg" width="32%">
 
-Evangelical Lutheran Church Of Geneva, Palais de Justice and St. Pierre Cathedral
+Evangelical Lutheran Church of Geneva(日内瓦福音路德教会), Palais de Justice(司法宫) and St. Pierre Cathedral(圣彼得大教堂)
 
 <img src="../20240930EU_photos/IMG_3564.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3566.jpeg" width="32%">
