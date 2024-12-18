@@ -6,6 +6,21 @@
 
 **30/Sep/2024: Paris**
 
+Arc de Triomphe
+
+<img src="../20240621JP_photos/IMG_3417.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_3421.jpeg" width="32%">
+
+Eiffel Tower
+
+<img src="../20240621JP_photos/IMG_3428.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_3435.jpeg" width="32%">
+<img src="../20240621JP_photos/IMG_3439.jpeg" width="32%">
+
+Flame of Liberty Memorial
+
+<img src="../20240621JP_photos/IMG_3444.jpeg" width="32%">
+
 **01/Oct/2024: Geneva, Lausanne, Bern**
 
 **02/Oct/2024: Zurich, Schwyz, Lucerne, Bern**
