@@ -6,7 +6,7 @@
 
 **30/Sep/2024: Paris**
 
-Arc de Triomphe(凯旋门) and Flame of Liberty Memorial(自由之火)
+Arc de Triomphe(凯旋门) and Flame of Liberty Memorial
 
 <img src="../20240930EU_photos/IMG_3417.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3421.jpeg" width="32%">
