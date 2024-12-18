@@ -6,20 +6,63 @@
 
 **30/Sep/2024: Paris**
 
-Arc de Triomphe
+Arc de Triomphe(凯旋门) and Flame of Liberty Memorial(自由之火)
 
 <img src="../20240930EU_photos/IMG_3417.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3421.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3444.jpeg" width="32%">
+
+Trocadéro Palace(特罗卡德罗宫)
+
+<img src="../20240930EU_photos/IMG_3426.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3427.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3430.jpeg" width="32%">
 
 Eiffel Tower
 
 <img src="../20240930EU_photos/IMG_3428.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3435.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3439.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3506.jpeg" width="32%">
 
-Flame of Liberty Memorial
+Pont Alexandre III(亚历山大三世桥) and Palais Garnier(巴黎歌剧院)
 
-<img src="../20240930EU_photos/IMG_3444.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3475.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3476.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3497.jpeg" width="32%">
+
+Hôtel des Invalides(荣军院)
+
+<img src="../20240930EU_photos/IMG_3458.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3460.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3465.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3466.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3467.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3468.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3469.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3470.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3472.jpeg" width="32%">
+
+Place de la Concorde(协和广场) and Vendôme Column(旺多姆圆柱)
+
+<img src="../20240930EU_photos/IMG_3486.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3487.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3499.jpeg" width="32%">
+
+Grand Palais(大皇宫), Petit Palais(小皇宫) and National Assembly
+
+<img src="../20240930EU_photos/IMG_3481.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3484.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3500.jpeg" width="32%">
+
+Bateaux Mouches and Night View of Paris(along the Seine River)
+
+<img src="../20240930EU_photos/IMG_3512.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3517.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3525.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3526.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3527.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3532.jpeg" width="32%">
 
 **01/Oct/2024: Geneva, Lausanne, Bern**
 
