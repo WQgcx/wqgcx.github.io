@@ -194,4 +194,16 @@ Putra Mosque, Putra Square and Perdana Putra
 <img src="../20240927MYS_photos/IMG_3410.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3413.jpeg" width="32%">
 
+**Cuisine in Malaysia**
+
+<img src="../20240927MYS_photos/IMG_3143.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3179.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3194.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3227.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3274.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3276.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3277.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3373.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3374.jpeg" width="32%">
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
