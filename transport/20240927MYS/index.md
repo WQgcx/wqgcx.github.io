@@ -197,7 +197,6 @@ Putra Mosque, Putra Square and Perdana Putra
 **Cuisine in Malaysia**
 
 <img src="../20240927MYS_photos/IMG_3143.jpeg" width="32%">
-<img src="../20240927MYS_photos/IMG_3179.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3194.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3227.jpeg" width="32%">
 <img src="../20240927MYS_photos/IMG_3274.jpeg" width="32%">
