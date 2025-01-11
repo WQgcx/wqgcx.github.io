@@ -183,13 +183,13 @@ GoldenPass Line
 
 <img src="../20240930EU_photos/IMG_3798.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3802.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3704.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3804.jpeg" width="32%">
 
 Street View of Thun
 
-<img src="../20240930EU_photos/IMG_3798.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3802.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3704.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3811.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3812.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3814.jpeg" width="32%">
 
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
 
