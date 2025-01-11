@@ -102,7 +102,7 @@ Lausanne Cathedral
 <img src="../20240930EU_photos/IMG_3600.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3606.jpeg" width="32%">
 
-Street View
+Street View of Lausanne
 
 <img src="../20240930EU_photos/IMG_3607.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3608.jpeg" width="32%">
@@ -132,7 +132,7 @@ Bern Minster and Einsteinhaus
 <img src="../20240930EU_photos/IMG_3669.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3659.jpeg" width="32%">
 
-Street View
+Street View of Bern
 
 <img src="../20240930EU_photos/IMG_3658.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3651.jpeg" width="32%">
@@ -159,13 +159,37 @@ Lake Lucerne
 
 <img src="../20240930EU_photos/IMG_3747.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3750.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3751.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3777.jpeg" width="32%">
 
 Chapel Bridge
 
 <img src="../20240930EU_photos/IMG_3754.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3757.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3761.jpeg" width="32%">
+
+Street View of Lucerne
+
+<img src="../20240930EU_photos/IMG_3759.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3763.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3767.jpeg" width="32%">
+
+Hotel Château Gütsch, The Lion Monument and Church of St. Leodegar(Lucerne)
+
+<img src="../20240930EU_photos/IMG_3764.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3769.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3776.jpeg" width="32%">
+
+GoldenPass Line
+
+<img src="../20240930EU_photos/IMG_3798.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3802.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3704.jpeg" width="32%">
+
+Street View of Thun
+
+<img src="../20240930EU_photos/IMG_3798.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3802.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3704.jpeg" width="32%">
 
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
 
