@@ -140,6 +140,33 @@ Street View
 
 **02/Oct/2024: Zurich, Schwyz, Lucerne, Bern**
 
+Zurich Old Town(St. Peter, Fraumünster, Grossmünster, Opernhaus, Limmat River)
+
+<img src="../20240930EU_photos/IMG_3685.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3686.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3687.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3702.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3693.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3696.jpeg" width="32%">
+
+Mountain Rigi
+
+<img src="../20240930EU_photos/IMG_3719.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3724.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3732.jpeg" width="32%">
+
+Lake Lucerne
+
+<img src="../20240930EU_photos/IMG_3747.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3750.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3751.jpeg" width="32%">
+
+Chapel Bridge
+
+<img src="../20240930EU_photos/IMG_3754.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3757.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3761.jpeg" width="32%">
+
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
 
 **04/Oct/2024: Paris**
