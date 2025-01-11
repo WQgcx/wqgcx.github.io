@@ -136,7 +136,7 @@ Street View
 
 <img src="../20240930EU_photos/IMG_3658.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3651.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3670.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3672.jpeg" width="32%">
 
 **02/Oct/2024: Zurich, Schwyz, Lucerne, Bern**
 
