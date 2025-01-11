@@ -96,6 +96,48 @@ Lake Geneva
 <img src="../20240930EU_photos/IMG_3577.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3582.jpeg" width="32%">
 
+Lausanne Cathedral
+
+<img src="../20240930EU_photos/IMG_3597.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3600.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3606.jpeg" width="32%">
+
+Street View
+
+<img src="../20240930EU_photos/IMG_3607.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3608.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3610.jpeg" width="32%">
+
+Olympic Museum
+
+<img src="../20240930EU_photos/IMG_3616.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3618.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3622.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3630.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3632.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3633.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3634.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3638.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3640.jpeg" width="32%">
+
+Church of the Holy Spirit and Käfigturm(狱塔)
+
+<img src="../20240930EU_photos/IMG_3645.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3650.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3662.jpeg" width="32%">
+
+Bern Minster and Einsteinhaus
+
+<img src="../20240930EU_photos/IMG_3666.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3669.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3659.jpeg" width="32%">
+
+Street View
+
+<img src="../20240930EU_photos/IMG_3658.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3651.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3670.jpeg" width="32%">
+
 **02/Oct/2024: Zurich, Schwyz, Lucerne, Bern**
 
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
