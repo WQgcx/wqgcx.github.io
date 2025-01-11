@@ -167,15 +167,15 @@ Chapel Bridge
 <img src="../20240930EU_photos/IMG_3757.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3761.jpeg" width="32%">
 
-Street View of Lucerne
+Street View of Lucerne(City Hall, Jesuit Church and Hotel Château Gütsch)
 
 <img src="../20240930EU_photos/IMG_3759.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3763.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3767.jpeg" width="32%">
-
-Hotel Château Gütsch, The Lion Monument and Church of St. Leodegar(Lucerne)
-
 <img src="../20240930EU_photos/IMG_3764.jpeg" width="32%">
+
+Panoramic of Lucerne, The Lion Monument and Church of St. Leodegar
+
+<img src="../20240930EU_photos/IMG_3767.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3769.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3776.jpeg" width="32%">
 
