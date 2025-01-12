@@ -120,7 +120,7 @@ Olympic Museum
 <img src="../20240930EU_photos/IMG_3638.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3640.jpeg" width="32%">
 
-Church of the Holy Spirit and Käfigturm(狱塔)
+Church of the Holy Spirit, Käfigturm(狱塔) and Clock Tower
 
 <img src="../20240930EU_photos/IMG_3645.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3650.jpeg" width="32%">
