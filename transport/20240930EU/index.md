@@ -4,6 +4,9 @@
 
 **Fly Emirates to Paris(EK347, EK71)**
 
+<img src="../20240927MYS_photos/IMG_3410.jpeg" width="32%">
+<img src="../20240927MYS_photos/IMG_3413.jpeg" width="32%">
+
 **30/Sep/2024: Paris**
 
 Arc de Triomphe and Flame of Liberty Memorial
