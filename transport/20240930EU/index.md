@@ -229,11 +229,11 @@ Kunstmuseum Basel
 
 <img src="../20240930EU_photos/IMG_3939.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3952.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3955.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3977.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3953.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3954.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3955.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3960.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_3977.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3978.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3967.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3970.jpeg" width="32%">
