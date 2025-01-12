@@ -25,13 +25,13 @@ Eiffel Tower
 <img src="../20240930EU_photos/IMG_3439.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3506.jpeg" width="32%">
 
-Pont Alexandre III(亚历山大三世桥) and Palais Garnier(巴黎歌剧院)
+Pont Alexandre III and Palais Garnier
 
 <img src="../20240930EU_photos/IMG_3475.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3476.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3497.jpeg" width="32%">
 
-Hôtel des Invalides(荣军院)
+Hôtel des Invalides
 
 <img src="../20240930EU_photos/IMG_3458.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3460.jpeg" width="32%">
@@ -43,13 +43,13 @@ Hôtel des Invalides(荣军院)
 <img src="../20240930EU_photos/IMG_3470.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3472.jpeg" width="32%">
 
-Place de la Concorde(协和广场) and Vendôme Column(旺多姆圆柱)
+Place de la Concorde and Vendôme Column
 
 <img src="../20240930EU_photos/IMG_3486.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3487.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3499.jpeg" width="32%">
 
-Grand Palais(大皇宫), Petit Palais(小皇宫) and National Assembly
+Grand Palais, Petit Palais and National Assembly
 
 <img src="../20240930EU_photos/IMG_3481.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3484.jpeg" width="32%">
@@ -72,19 +72,19 @@ Palace of Nations
 <img src="../20240930EU_photos/IMG_3545.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3546.jpeg" width="32%">
 
-Grand Théâtre de Genève(日内瓦大剧院), Musée Rath(拉特美术馆) and Monument to the Reformation
+Grand Théâtre de Genève, Musée Rath and Monument to the Reformation
 
 <img src="../20240930EU_photos/IMG_3557.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3560.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3561.jpeg" width="32%">
 
-Evangelical Lutheran Church of Geneva(日内瓦福音路德教会), Palais de Justice(司法宫) and St. Pierre Cathedral(圣彼得大教堂)
+Evangelical Lutheran Church of Geneva, Palais de Justice and St. Pierre Cathedral
 
 <img src="../20240930EU_photos/IMG_3564.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3566.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3567.jpeg" width="32%">
 
-Street View of Geneva, The Flower Clock and Basilica of Our Lady of Geneva(日内瓦圣母圣殿)
+City View of Geneva, The Flower Clock and Basilica of Our Lady of Geneva
 
 <img src="../20240930EU_photos/IMG_3568.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3578.jpeg" width="32%">
@@ -102,7 +102,7 @@ Lausanne Cathedral
 <img src="../20240930EU_photos/IMG_3600.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3606.jpeg" width="32%">
 
-Street View of Lausanne
+City View of Lausanne
 
 <img src="../20240930EU_photos/IMG_3607.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3608.jpeg" width="32%">
@@ -132,7 +132,7 @@ Bern Minster and Einsteinhaus
 <img src="../20240930EU_photos/IMG_3669.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3659.jpeg" width="32%">
 
-Street View of Bern
+City View of Bern
 
 <img src="../20240930EU_photos/IMG_3658.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3651.jpeg" width="32%">
@@ -167,7 +167,7 @@ Chapel Bridge
 <img src="../20240930EU_photos/IMG_3757.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3761.jpeg" width="32%">
 
-Street View of Lucerne(City Hall, Jesuit Church and Hotel Château Gütsch)
+City View of Lucerne(City Hall, Jesuit Church and Hotel Château Gütsch)
 
 <img src="../20240930EU_photos/IMG_3759.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3763.jpeg" width="32%">
@@ -185,13 +185,66 @@ GoldenPass Line
 <img src="../20240930EU_photos/IMG_3802.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3804.jpeg" width="32%">
 
-Street View of Thun
+City View of Thun
 
 <img src="../20240930EU_photos/IMG_3811.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3812.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_3814.jpeg" width="32%">
 
 **03/Oct/2024: Schaffhausen, Zurich, Basel**
+
+Rhine Falls
+
+<img src="../20240930EU_photos/IMG_3830.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3857.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3864.jpeg" width="32%">
+
+City View of Schaffhausen(Haus zum Ritter, Church of St. Johann, Panorama)
+
+<img src="../20240930EU_photos/IMG_3836.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3837.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3846.jpeg" width="32%">
+
+Munot
+
+<img src="../20240930EU_photos/IMG_3839.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3842.jpeg" width="32%">
+
+Swiss National Museum
+
+<img src="../20240930EU_photos/IMG_3867.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3888.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3897.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3870.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3871.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3900.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3901.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3902.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3905.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3916.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3923.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3924.jpeg" width="32%">
+
+Kunstmuseum Basel
+
+<img src="../20240930EU_photos/IMG_3939.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3952.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3953.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3954.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3955.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3960.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3977.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3978.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3967.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3970.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3973.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3975.jpeg" width="32%">
+
+Basel Minster, Basel Town Hall, Gate of Spalen
+
+<img src="../20240930EU_photos/IMG_3987.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3989.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3993.jpeg" width="32%">
 
 **04/Oct/2024: Paris**
 
