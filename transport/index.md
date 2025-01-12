@@ -10,6 +10,6 @@
 
 [27/Sep/2024-29/Sep/2024, Malaysia](https://wqgcx.github.io/transport/20240927MYS).
 
-[30/Sep/2024-08/Oct/2024, Schengen Area](https://wqgcx.github.io/transport/20240930EU).
+[30/Sep/2024-08/Oct/2024, Schengen Area(FR, CH, BE, DK)](https://wqgcx.github.io/transport/20240930EU).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
