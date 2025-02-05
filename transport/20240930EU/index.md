@@ -251,6 +251,24 @@ Basel Minster, Basel Town Hall, Gate of Spalen
 
 **04/Oct/2024: Paris**
 
+Palais de Louvre
+
+<img src="../20240930EU_photos/IMG_4002.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_3999.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4003.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4006.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4014.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4016.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4018.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4022.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4024.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4041.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4044.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4045.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4052.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4057.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4059.jpeg" width="32%">
+
 **05/Oct/2024: Brussels, Antwerp, Ghent**
 
 **06/Oct/2024: Paris**
