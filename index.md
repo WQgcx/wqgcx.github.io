@@ -1,15 +1,15 @@
 ## Welcome to Chengxin Gong's Homepage!
 
-**Chengxin Gong** 
-
 <div class="container">
     <div class="text">
-        <p>Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html) </p>
+        <p> **Chengxin Gong** </p>
     </div>
     <div class="image">
-        <img src="self.jpeg">
+        <img src="self.jpeg" width="33%">
     </div>
 </div>
+
+Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html) 
 
 [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
