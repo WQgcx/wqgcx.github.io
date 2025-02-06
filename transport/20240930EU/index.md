@@ -259,12 +259,10 @@ Palais de Louvre
 <img src="../20240930EU_photos/IMG_4006.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4014.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4016.jpeg" width="32%">
-
 <center>
 <img src="../20240930EU_photos/IMG_4018.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4022.jpeg" width="32%">
 </center>
-
 <img src="../20240930EU_photos/IMG_4024.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4027.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4029.jpeg" width="32%">
