@@ -273,6 +273,42 @@ Palais de Louvre
 <img src="../20240930EU_photos/IMG_4057.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4059.jpeg" width="32%">
 
+Church of Saint-Germain l'Auxerrois, Place du Châtelet and Hôtel de Ville(City Hall)
+
+<img src="../20240930EU_photos/IMG_4063.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4072.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4077.jpeg" width="32%">
+
+Church Saint-Gervais-Saint-Protais, Church Saint-Paul-Saint-Lous and Place de la Bastille
+
+<img src="../20240930EU_photos/IMG_4078.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4079.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4094.jpeg" width="32%">
+
+Maison de Victor Hugo(Victor Hugo's House)
+
+<img src="../20240930EU_photos/IMG_4085.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4086.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4088.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4089.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4090.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4091.jpeg" width="32%">
+
+Château de Vincennes
+
+<img src="../20240930EU_photos/IMG_4098.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4105.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4106.jpeg" width="32%">
+
+Night View of Paris(on the Tour Montparnasse)
+
+<img src="../20240930EU_photos/IMG_4119.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4126.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4127.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4134.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4136.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4140.jpeg" width="32%">
+
 **05/Oct/2024: Brussels, Antwerp, Ghent**
 
 **06/Oct/2024: Paris**
