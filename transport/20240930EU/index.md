@@ -288,7 +288,7 @@ Church Saint-Gervais-Saint-Protais, Church Saint-Paul-Saint-Lous and Place de la
 Maison de Victor Hugo(Victor Hugo's House)
 
 <img src="../20240930EU_photos/IMG_4085.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4086.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4087.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4088.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4089.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4090.jpeg" width="32%">
