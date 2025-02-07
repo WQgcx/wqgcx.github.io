@@ -353,6 +353,48 @@ Atomium
 <img src="../20240930EU_photos/IMG_4223.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4226.jpeg" width="32%">
 
+Cathedral of Our Lady(Antwerp) and St. Paul's Church(Antwerp)
+
+<img src="../20240930EU_photos/IMG_4242.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4263.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4265.jpeg" width="32%">
+
+St. Charles Borromeo Church(Antwerp), Antwerp City Hall and Brabo's Monument
+
+<img src="../20240930EU_photos/IMG_4251.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4259.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4261.jpeg" width="32%">
+
+Het Steen, Royal Antwerp Atheneum and Antwerp Chinatown
+
+<img src="../20240930EU_photos/IMG_4266.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4267.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4268.jpeg" width="32%">
+
+St. James' Church(Ghent), Gravensteen(Castle of Counts) and St. Michael's Church(Ghent)
+
+<img src="../20240930EU_photos/IMG_4274.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4278.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4282.jpeg" width="32%">
+
+St. Nicholas Church(Ghent) and St. Bavo's Cathedral(Ghent)
+
+<img src="../20240930EU_photos/IMG_4285.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4298.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4289.jpeg" width="32%">
+
+Belfry of Ghent and Royal Dutch Theatre(Ghent)
+
+<img src="../20240930EU_photos/IMG_4287.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4293.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4295.jpeg" width="32%">
+
+River View of Ghent
+
+<img src="../20240930EU_photos/IMG_4277.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4279.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4300.jpeg" width="32%">
+
 **06/Oct/2024: Paris**
 
 **07/Oct/2024: Copenhagen**
