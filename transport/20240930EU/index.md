@@ -327,7 +327,7 @@ Brussels Town Hall, Royal Saint-Hubert Galleries and Manneken Pis
 
 <img src="../20240930EU_photos/IMG_4179.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4203.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4183.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4182.jpeg" width="32%">
 
 Grand-Place(the Central Square of Brussels)
 
