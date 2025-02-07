@@ -311,6 +311,48 @@ Night View of Paris(on the Tour Montparnasse)
 
 **05/Oct/2024: Brussels, Antwerp, Ghent**
 
+Halle Gate, Palace of Justice(Brussels) and Minimes Church
+
+<img src="../20240930EU_photos/IMG_4156.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4160.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4164.jpeg" width="32%">
+
+Church of Our Lady of Victories at the Sablon, Oldmasters Museum and Church of St. James on Coudenberg
+
+<img src="../20240930EU_photos/IMG_4168.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4172.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4176.jpeg" width="32%">
+
+Brussels Town Hall and Manneken Pis
+
+<img src="../20240930EU_photos/IMG_4179.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4183.jpeg" width="32%">
+
+Grand-Place(the Central Square of Brussels)
+
+<img src="../20240930EU_photos/IMG_4192.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4194.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4197.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4200.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4202.jpeg" width="32%">
+
+Royal Saint-Hubert Galleries, Cathedral of St. Michael and St. Gudula, and Berlaymont Building(European Commission)
+
+<img src="../20240930EU_photos/IMG_4203.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4211.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4214.jpeg" width="32%">
+
+Cinquantenaire Park
+
+<img src="../20240930EU_photos/IMG_4216.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4220.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4221.jpeg" width="32%">
+
+Atomium
+
+<img src="../20240930EU_photos/IMG_4223.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4226.jpeg" width="32%">
+
 **06/Oct/2024: Paris**
 
 **07/Oct/2024: Copenhagen**
