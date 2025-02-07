@@ -311,7 +311,7 @@ Night View of Paris(on the Tour Montparnasse)
 
 **05/Oct/2024: Brussels, Antwerp, Ghent**
 
-Halle Gate, Palace of Justice(Brussels) and Minimes Church
+Halle Gate, Palace of Justice(Brussels) and Church of the Minimes(Brussels)
 
 <img src="../20240930EU_photos/IMG_4156.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4160.jpeg" width="32%">
