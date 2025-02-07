@@ -323,9 +323,10 @@ Church of Our Lady of Victories at the Sablon, Oldmasters Museum and Church of S
 <img src="../20240930EU_photos/IMG_4172.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4176.jpeg" width="32%">
 
-Brussels Town Hall and Manneken Pis
+Brussels Town Hall, Royal Saint-Hubert Galleries and Manneken Pis
 
 <img src="../20240930EU_photos/IMG_4179.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4203.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4183.jpeg" width="32%">
 
 Grand-Place(the Central Square of Brussels)
@@ -336,9 +337,8 @@ Grand-Place(the Central Square of Brussels)
 <img src="../20240930EU_photos/IMG_4200.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4202.jpeg" width="32%">
 
-Royal Saint-Hubert Galleries, Cathedral of St. Michael and St. Gudula, and Berlaymont Building(European Commission)
+Cathedral of St. Michael and St. Gudula, and Berlaymont Building(European Commission)
 
-<img src="../20240930EU_photos/IMG_4203.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4211.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4214.jpeg" width="32%">
 
