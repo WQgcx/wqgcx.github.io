@@ -6,7 +6,7 @@
 
 <center class ='img'>
   <img src="../20240426UK_photos/IMG_9196.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9200.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9216.jpeg" width="32%">
-  <img src="../20240426UK_photos/IMG_9227.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9232.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9230.jpeg" width="32%">
+  <img src="../20240426UK_photos/IMG_9230.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9232.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9227.jpeg" width="32%">
 </center>
 
 **26/Apr/2024: London**
