@@ -560,11 +560,10 @@ Copenhagen City Hall(and City Hall Square)
 
 The Round Tower and City View of Copenhagen on It 
 
-<center>
-<img src="../20240930EU_photos/IMG_4615.jpeg" width="32%">
-</center>
+<img src="../20240930EU_photos/IMG_4614.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4616.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4617.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4620.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4621.jpeg" width="32%">
 
 Rosenborg Castle
