@@ -544,9 +544,6 @@ National Museum of Denmark
 <img src="../20240930EU_photos/IMG_4587.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4588.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4589.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4591.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4592.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4595.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4596.jpeg" width="32%">
 
 Ny Carlsberg Glyptotek, The Statue of H.C. Andersen and Church of Our Lady(Copenhagen)
