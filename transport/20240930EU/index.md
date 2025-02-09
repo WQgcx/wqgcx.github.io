@@ -457,11 +457,72 @@ Luxembourg Garden(and Luxembourg Palace)
 <img src="../20240930EU_photos/IMG_4443.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4447.jpeg" width="32%">
 
-Panthéon
+Panthéon(Twilight View)
 
 <img src="../20240930EU_photos/IMG_4452.jpeg" width="32%">
 
 **07/Oct/2024: Copenhagen**
+
+**Fly EasyJet Europe to Copenhagen(EC4647)**
+
+Swedish Gustaf's Church, Nordic Seaplanes and The Little Mermaid
+
+<img src="../20240930EU_photos/IMG_4470.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4474.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4475.jpeg" width="32%">
+
+Kastellet(and St. Alban's Church)
+
+<img src="../20240930EU_photos/IMG_4473.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4479.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4480.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4482.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4483.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4485.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4487.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4491.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4492.jpeg" width="32%">
+
+Alexander Nevsky Church(Copenhagen), The Kissing Stairs and Church of Our Saviour(Copenhagen)
+
+<img src="../20240930EU_photos/IMG_4498.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4507.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4527.jpeg" width="32%">
+
+Amalienborg
+
+<img src="../20240930EU_photos/IMG_4502.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4505.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4506.jpeg" width="32%">
+
+Nyhavn
+
+<img src="../20240930EU_photos/IMG_4508.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4509.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4510.jpeg" width="32%">
+
+Freetown Christiania
+
+<img src="../20240930EU_photos/IMG_4521.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4523.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4524.jpeg" width="32%"
+
+Holmen Church and St. Nicholas Church(Nikolaj Art Gallery)
+
+<img src="../20240930EU_photos/IMG_4528.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4535.jpeg" width="32%">
+
+Christianborg Palace(and Equestrian statue of Christian IX)
+
+<img src="../20240930EU_photos/IMG_4533.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4536.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4538.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4545.jpeg" width="32%">
+
+River View of Copenhagen
+
+<img src="../20240930EU_photos/IMG_4547.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4551.jpeg" width="32%">
 
 **08/Oct/2024: Paris**
 
