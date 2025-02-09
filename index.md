@@ -1,12 +1,12 @@
 ## Welcome to Chengxin Gong's Homepage!
 
-<img src="self.jpeg" width="50%">
+<img src="self/self.jpeg" width="50%">
 
 Doctoral Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html) 
 
 [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
-Here is my [CV](https://wqgcx.github.io/CV.pdf).
+Here is my [CV](https://wqgcx.github.io/self/CV.pdf).
   
 ## Research Interests
 
