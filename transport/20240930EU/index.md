@@ -436,6 +436,31 @@ The Petit Trianon
 <img src="../20240930EU_photos/IMG_4394.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4390.jpeg" width="32%">
 
+Longchamp Racecourse(Prix de l'Arc de Triomphe)
+
+<img src="../20240930EU_photos/IMG_4400.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4402.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4416.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4423.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4426.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4429.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4431.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4434.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4438.jpeg" width="32%">
+
+Luxembourg Garden(and Luxembourg Palace)
+
+<img src="../20240930EU_photos/IMG_4441.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4448.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4449.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4440.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4443.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4447.jpeg" width="32%">
+
+Panthéon
+
+<img src="../20240930EU_photos/IMG_4452.jpeg" width="32%">
+
 **07/Oct/2024: Copenhagen**
 
 **08/Oct/2024: Paris**
