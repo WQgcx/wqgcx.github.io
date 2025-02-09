@@ -558,7 +558,7 @@ Copenhagen City Hall(and City Hall Square)
 <img src="../20240930EU_photos/IMG_4604.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4606.jpeg" width="32%">
 
-The Round Tower and City View of Copenhagen on It 
+The Round Tower and City View of Copenhagen on It
 
 <img src="../20240930EU_photos/IMG_4614.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4616.jpeg" width="32%">
@@ -584,6 +584,41 @@ National Gallery of Denmark, Dansekapellet and Grundtvig's Church
 
 **08/Oct/2024: Paris**
 
+Panthéon
+
+<img src="../20240930EU_photos/IMG_4657.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4659.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4664.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4666.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4667.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4670.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4674.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4675.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4677.jpeg" width="32%">
+
+Church of Saint-Séverin, Cathédrale Notre-Dame de Paris and Palais de Justice(Paris)
+
+<img src="../20240930EU_photos/IMG_4680.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4681.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4687.jpeg" width="32%">
+
+Basilique du Sacré-Cœur and City View of Paris at It 
+
+<img src="../20240930EU_photos/IMG_4703.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4697.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4706.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4708.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4704.jpeg" width="32%">
+
+Opéra de Paris and Wall of Love
+
+<img src="../20240930EU_photos/IMG_4714.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4709.jpeg" width="32%">
+
 **Fly Emirates and China Eastern Airlines to Beijing(EK76, EK342, MU796)**
+
+<img src="../20240930EU_photos/IMG_4723.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4728.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4733.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
