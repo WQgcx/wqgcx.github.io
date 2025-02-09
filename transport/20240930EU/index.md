@@ -397,6 +397,45 @@ River View of Ghent
 
 **06/Oct/2024: Paris**
 
+Château de Versailles
+
+<img src="../20240930EU_photos/IMG_4304.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4305.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4312.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4315.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4317.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4318.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4320.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4324.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4325.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4341.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4343.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4346.jpeg" width="32%">
+
+Park of Versailles
+
+<img src="../20240930EU_photos/IMG_4360.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4364.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4369.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4370.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4373.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4374.jpeg" width="32%">
+
+The Grand Trianon
+
+<img src="../20240930EU_photos/IMG_4377.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4379.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4381.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4384.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4386.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4388.jpeg" width="32%">
+
+The Petit Trianon
+
+<img src="../20240930EU_photos/IMG_4391.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4394.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4390.jpeg" width="32%">
+
 **07/Oct/2024: Copenhagen**
 
 **08/Oct/2024: Paris**
