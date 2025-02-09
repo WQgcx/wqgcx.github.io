@@ -69,6 +69,8 @@ Bateaux Mouches and Night View of Paris(along the Seine River)
 
 **01/Oct/2024: Geneva, Lausanne, Bern**
 
+**Fly EasyJet Switzerland to Geneva(DS1338)**
+
 Palace of Nations
 
 <img src="../20240930EU_photos/IMG_3550.jpeg" width="32%">
@@ -250,6 +252,8 @@ Basel Minster, Basel Town Hall, Gate of Spalen
 <img src="../20240930EU_photos/IMG_3993.jpeg" width="32%">
 
 **04/Oct/2024: Paris**
+
+**Fly EasyJet Switzerland to Paris(DS1337)**
 
 Palais de Louvre
 
