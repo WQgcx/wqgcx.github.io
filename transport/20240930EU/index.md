@@ -505,7 +505,7 @@ Freetown Christiania
 
 <img src="../20240930EU_photos/IMG_4521.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4523.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4524.jpeg" width="32%"
+<img src="../20240930EU_photos/IMG_4524.jpeg" width="32%">
 
 Holmen Church and St. Nicholas Church(Nikolaj Art Gallery)
 
