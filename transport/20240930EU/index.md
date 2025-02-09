@@ -478,8 +478,8 @@ Kastellet(and St. Alban's Church)
 <img src="../20240930EU_photos/IMG_4480.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4482.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4483.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4485.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4487.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4485.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4491.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4492.jpeg" width="32%">
 
