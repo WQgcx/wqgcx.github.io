@@ -589,12 +589,12 @@ Panthéon
 <img src="../20240930EU_photos/IMG_4657.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4659.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4664.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4670.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4677.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4666.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4667.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4670.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4674.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4675.jpeg" width="32%">
-<img src="../20240930EU_photos/IMG_4677.jpeg" width="32%">
 
 Church of Saint-Séverin, Cathédrale Notre-Dame de Paris and Palais de Justice(Paris)
 
