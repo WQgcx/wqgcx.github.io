@@ -44,4 +44,4 @@ Hover over the image to find out the type of the train or which train station it
 <img src="../../20240930EU_photos/ER/IMG_4302.jpeg" width="32%" title="Gent-Sint-Pieters Station">
 <img src="../../20240930EU_photos/ER/IMG_4646.jpeg" width="32%" title="Copenhagen Central Station">
 
-**Click [here](https://wqgcx.github.io/transport/20240930ER/) to go back.**
+**Click [here](https://wqgcx.github.io/transport/20240930EU/) to go back.**
