@@ -528,6 +528,63 @@ River View of Copenhagen
 <img src="../20240930EU_photos/IMG_4547.jpeg" width="32%">
 <img src="../20240930EU_photos/IMG_4551.jpeg" width="32%">
 
+National Museum of Denmark
+
+<img src="../20240930EU_photos/IMG_4561.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4562.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4564.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4567.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4570.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4572.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4573.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4575.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4577.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4581.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4586.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4587.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4588.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4589.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4591.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4592.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4595.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4596.jpeg" width="32%">
+
+Ny Carlsberg Glyptotek, The Statue of H.C. Andersen and Church of Our Lady(Copenhagen)
+
+<img src="../20240930EU_photos/IMG_4599.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4605.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4613.jpeg" width="32%">
+
+Copenhagen City Hall(and City Hall Square)
+
+<img src="../20240930EU_photos/IMG_4603.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4604.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4606.jpeg" width="32%">
+
+The Round Tower and City View of Copenhagen on it 
+
+<img src="../20240930EU_photos/IMG_4615.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4616.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4617.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4620.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4621.jpeg" width="32%">
+
+Rosenborg Castle
+
+<img src="../20240930EU_photos/IMG_4624.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4628.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4630.jpeg" width="32%">
+
+National Gallery of Denmark, Dansekapellet and Grundtvig's Church
+
+<img src="../20240930EU_photos/IMG_4634.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4635.jpeg" width="32%">
+<img src="../20240930EU_photos/IMG_4640.jpeg" width="32%">
+
+**Fly Transavia France to Paris(TO4319)**
+
+<img src="../20240930EU_photos/IMG_4647.jpeg" width="32%">
+
 **08/Oct/2024: Paris**
 
 **Fly Emirates and China Eastern Airlines to Beijing(EK76, EK342, MU796)**
