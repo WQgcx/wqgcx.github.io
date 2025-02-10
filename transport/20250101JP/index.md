@@ -25,6 +25,62 @@ Kabukichō(歌舞伎町)
 
 **Fly All Nippon Airways to Hokkaido(NH53)**
 
+Sumiyoshi Shrine(住吉神社)
+
+<img src="../20250101JP_photos/IMG_5858.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5859.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5860.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5861.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5862.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5864.jpeg" width="32%">
+
+Marchen Intersection(メルヘン交差点)
+
+<img src="../20250101JP_photos/IMG_5866.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5868.jpeg" width="32%">
+
+Otaru Music Box Museum(小樽オルゴール堂)
+
+<img src="../20250101JP_photos/IMG_5872.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5876.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5878.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5881.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5882.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5885.jpeg" width="32%">
+
+Kitaichi Glass Otaru(北一硝子館)
+
+<img src="../20250101JP_photos/IMG_5887.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5888.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5891.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5893.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5894.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5895.jpeg" width="32%">
+
+Street View of Otaru
+
+<img src="../20250101JP_photos/IMG_5898.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5899.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5905.jpeg" width="32%">
+
+Otaru Canal(小樽運河)
+
+<img src="../20250101JP_photos/IMG_5903.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5907.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5910.jpeg" width="32%">
+
+Tenguyama(天狗山)
+
+<img src="../20250101JP_photos/IMG_5931.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5918.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5919.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5920.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5922.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5923.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5926.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5928.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5932.jpeg" width="32%">
+
 **03/Jan/2025: Wakkanai-shi(稚内市)**
 
 **04/Jan/2025: Biei-chō(美瑛町), Furano-shi(富良野市)**
