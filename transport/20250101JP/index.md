@@ -31,7 +31,7 @@ Kabukichō(歌舞伎町)
 
 **05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
 
-**06/Jan/2025: Hakodate-shi(函館市), Tōyako-chō（洞爺湖町)**
+**06/Jan/2025: Hakodate-shi(函館市), Tōyako-chō(洞爺湖町), Noboribetsu-shi(登別市)**
 
 **07/Jan/2025: Noboribetsu-shi(登別市), Sapporo-shi(札幌市)**
 
