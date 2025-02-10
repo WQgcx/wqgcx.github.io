@@ -6,7 +6,7 @@
 
 <img src="../20250101JP_photos/IMG_5833.jpeg" width="32%">
 
-**01/Jan/2025: **
+**01/Jan/2025: Tokyo Metropolis(東京都)**
 
 Kabukichō(歌舞伎町)
 
