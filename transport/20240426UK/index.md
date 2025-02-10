@@ -51,7 +51,7 @@ Tower of London
   <img src="../20240426UK_photos/IMG_9406.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9403.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9408.jpeg" width="32%">
 </center>
 
-**27/Apr/2024: Reading, Salisbury and Windsor**
+**27/Apr/2024: Reading, Salisbury, Windsor**
 
 Reading Town Hall, Church of England and Queen Victoria's Statue
 <center class ='img'>
@@ -73,7 +73,7 @@ Windsor Castle
   <img src="../20240426UK_photos/IMG_9499.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9498.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9495.jpeg" width="32%">
 </center>
 
-**28/Apr/2024: London, Swindon, Gloucester and Birmingham**
+**28/Apr/2024: London, Swindon, Gloucester, Birmingham**
 
 The British Museum(Main Gate, Easter Island Head, Rosetta Stone, Parthenon Temple, Tang Tri-Color Glazed Ceramics, Shiva Nataraja, Egyptian Mummies, Lewis Chessmen, Holy Thorn Reliquary)
 <center class ='img'>
@@ -163,7 +163,7 @@ Bradford Cathedral, Bradford City Hall and the Great Victoria Hotel
   <img src="../20240426UK_photos/IMG_9854.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9845.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9857.jpeg" width="32%">
 </center>
 
-**01/May/2024: Glasgow and Edinburgh**
+**01/May/2024: Glasgow, Edinburgh**
 
 St George's Tron Church and Glasgow City Chambers(George Square) 
 <center class ='img'>
@@ -209,7 +209,7 @@ National Museum of Scotland
   <img src="../20240426UK_photos/IMG_9973.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9974.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_9977.jpeg" width="32%">
 </center>
 
-**02/May/2024: York, Peterborough and Cambridge**
+**02/May/2024: York, Peterborough, Cambridge**
 
 National Railway Museum
 <center class ='img'>
