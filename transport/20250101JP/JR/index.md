@@ -19,7 +19,7 @@ Hover over the image to find out the type of the train or which train station it
 <img src="../../20250101JP_photos/JR/IMG_5857.jpeg" width="32%" title="Minami-otaru Station(南小樽駅)">
 <img src="../../20250101JP_photos/JR/IMG_5934.jpeg" width="32%" title="Otaru Station(小樽駅)">
 <img src="../../20250101JP_photos/JR/IMG_6017.jpeg" width="32%" title="Minami-wakkanai Station(南稚内駅)">
-<img src="../../20250101JP_photos/JR/IMG_5941.jpeg" width="32%" title="Wakkanai Station(稚内駅)">
+<img src="../../20250101JP_photos/JR/IMG_5978.jpeg" width="32%" title="Wakkanai Station(稚内駅)">
 <img src="../../20250101JP_photos/JR/IMG_5940.jpeg" width="32%" title="Wakkanai Station(稚内駅)">
 <img src="../../20250101JP_photos/JR/IMG_5938.jpeg" width="32%" title="Wakkanai Station(稚内駅)">
 <img src="../../20250101JP_photos/JR/IMG_6022.jpeg" width="32%" title="Asahikawa Station(旭川駅)">
