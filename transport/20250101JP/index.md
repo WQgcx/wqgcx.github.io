@@ -120,6 +120,44 @@ Cape Sōya(宗谷岬)
 
 **04/Jan/2025: Biei-chō(美瑛町), Furano-shi(富良野市)**
 
+Christmas Tree no Ki(クリスマスツリーの木)
+
+<img src="../20250101JP_photos/IMG_6038.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6040.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6043.jpeg" width="32%">
+
+Love Neil's Bell(ラヴニールの鐘)
+
+<img src="../20250101JP_photos/IMG_6054.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6076.jpeg" width="32%">
+
+Shirahige Waterfalls(白ひげの滝)
+
+<img src="../20250101JP_photos/IMG_6055.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6056.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6059.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6060.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6062.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6064.jpeg" width="32%">
+
+Blue Pond(青い池)
+
+<img src="../20250101JP_photos/IMG_6066.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6068.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6069.jpeg" width="32%">
+
+Ningle Terrace(ニングルテラス)
+
+<img src="../20250101JP_photos/IMG_6084.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6088.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6089.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6090.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6091.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6092.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6094.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6095.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6096.jpeg" width="32%">
+
 **05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
 
 **06/Jan/2025: Hakodate-shi(函館市), Tōyako-chō(洞爺湖町), Noboribetsu-shi(登別市)**
