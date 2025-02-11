@@ -103,6 +103,21 @@ Hokumon Shrine(北門神社)
 <img src="../20250101JP_photos/IMG_5968.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5974.jpeg" width="32%">
 
+Cape Sōya(宗谷岬)
+
+<img src="../20250101JP_photos/IMG_5995.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5999.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6001.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5993.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5988.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5990.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6004.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6007.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6009.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6010.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6011.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6014.jpeg" width="32%">
+
 **04/Jan/2025: Biei-chō(美瑛町), Furano-shi(富良野市)**
 
 **05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
