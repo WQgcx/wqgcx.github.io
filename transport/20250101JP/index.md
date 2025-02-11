@@ -80,6 +80,29 @@ Tenguyama(天狗山)
 
 **03/Jan/2025: Wakkanai-shi(稚内市)**
 
+North Breakwater Dome(北防波堤ドーム)
+
+<img src="../20250101JP_photos/IMG_5948.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5952.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5966.jpeg" width="32%">
+
+Wakkanai Centennial Memorial Tower(開基百年記念塔) and Chihaku Koro Monument(稚泊航路記念碑)
+
+<img src="../20250101JP_photos/IMG_5960.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5961.jpeg" width="32%">
+
+Japan Coast Guard PL11 Rishiri(日本海上保安庁巡視船 PL11 りしり)
+
+<img src="../20250101JP_photos/IMG_5963.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5964.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5965.jpeg" width="32%">
+
+Hokumon Shrine(北門神社)
+
+<img src="../20250101JP_photos/IMG_5967.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5968.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_5974.jpeg" width="32%">
+
 **04/Jan/2025: Biei-chō(美瑛町), Furano-shi(富良野市)**
 
 **05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
