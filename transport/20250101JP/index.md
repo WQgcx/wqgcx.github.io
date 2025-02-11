@@ -71,15 +71,12 @@ Otaru Canal(小樽運河)
 
 Tenguyama(天狗山)
 
-<img src="../20250101JP_photos/IMG_5931.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5918.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5919.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5920.jpeg" width="32%">
-<img src="../20250101JP_photos/IMG_5922.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5923.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5926.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5928.jpeg" width="32%">
-<img src="../20250101JP_photos/IMG_5932.jpeg" width="32%">
 
 **03/Jan/2025: Wakkanai-shi(稚内市)**
 
