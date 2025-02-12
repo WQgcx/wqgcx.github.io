@@ -207,11 +207,16 @@ Former Hakodate Branch Office of Hokkaido Government(旧北海道庁函館支庁
 <img src="../20250101JP_photos/IMG_6216.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6212.jpeg" width="32%">
 
-Former British Consulate of Hakodate(函館市旧イギリス領事館) and Goryōkaku(五稜郭)
+Former British Consulate of Hakodate(函館市旧イギリス領事館)
 
+<img src="../20250101JP_photos/IMG_6217.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6224.jpeg" width="32%">
+
+Goryōkaku(五稜郭)
+
 <img src="../20250101JP_photos/IMG_6225.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6227.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6243.jpeg" width="32%">
 
 Hakodate Magistrate's Office(箱館奉行所)
 
@@ -222,7 +227,37 @@ Hakodate Magistrate's Office(箱館奉行所)
 <img src="../20250101JP_photos/IMG_6238.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6241.jpeg" width="32%">
 
+Lake Tōya(洞爺湖)
+
+<img src="../20250101JP_photos/IMG_6247.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6248.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6249.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6250.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6251.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6252.jpeg" width="32%">
+
+Dai-ichi Takimotokan: Kaiseki(第一滝本館: 懐石)
+
+<img src="../20250101JP_photos/IMG_6260.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6261.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6262.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6263.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6264.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6265.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6267.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6268.jpeg" width="32%">
+
 **07/Jan/2025: Noboribetsu-shi(登別市), Sapporo-shi(札幌市)**
+
+Dai-ichi Takimotokan: Breakfast
+
+<img src="../20250101JP_photos/IMG_6271.jpeg" width="32%">
+
+Jigokudani(地獄谷)
+
+<img src="../20250101JP_photos/IMG_6279.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6282.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6294.jpeg" width="32%">
 
 **Fly AirDo to Tokyo(HD38)**
 
