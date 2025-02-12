@@ -160,7 +160,67 @@ Ningle Terrace(ニングルテラス)
 
 **05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
 
+Asahikawa Shrine(旭川神社)
+
+<img src="../20250101JP_photos/IMG_6111.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6112.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6114.jpeg" width="32%">
+
+Asahiyama Zoo (旭山動物園)
+
+<img src="../20250101JP_photos/IMG_6125.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6133.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6142.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6149.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6152.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6155.jpeg" width="32%">
+
+Mount Hakodate (函館山)
+
+<img src="../20250101JP_photos/IMG_6167.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6172.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6178.jpeg" width="32%">
+
 **06/Jan/2025: Hakodate-shi(函館市), Tōyako-chō(洞爺湖町), Noboribetsu-shi(登別市)**
+
+Meijikan(明治館), Kanemori Red Brick Warehouse(金森赤レンガ倉庫) and Hachimanzaka Slope(八幡坂)
+
+<img src="../20250101JP_photos/IMG_6193.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6196.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6199.jpeg" width="32%">
+
+Motomachi Church(元町教会), St. John's Church(聖ヨハネ教会) and Holy Resurrection Orthodox Church(ハリストス正教会)
+
+<img src="../20250101JP_photos/IMG_6201.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6204.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6205.jpeg" width="32%">
+
+Old Public Hall of Hakodate Ward(旧函館区公会堂)
+
+<img src="../20250101JP_photos/IMG_6209.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6213.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6222.jpeg" width="32%">
+
+Former Hakodate Branch Office of Hokkaido Government(旧北海道庁函館支庁庁舎) and Former Storehouse for Books of the Hakodate Branch of the Colonial Bureau(旧開拓使函館支庁書籍庫)
+
+<img src="../20250101JP_photos/IMG_6211.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6216.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6212.jpeg" width="32%">
+
+Former British Consulate of Hakodate(函館市旧イギリス領事館) and Goryōkaku(五稜郭)
+
+<img src="../20250101JP_photos/IMG_6224.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6225.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6227.jpeg" width="32%">
+
+Hakodate Magistrate's Office(箱館奉行所)
+
+<img src="../20250101JP_photos/IMG_6234.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6242.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6235.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6236.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6238.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6241.jpeg" width="32%">
 
 **07/Jan/2025: Noboribetsu-shi(登別市), Sapporo-shi(札幌市)**
 
@@ -169,5 +229,9 @@ Ningle Terrace(ニングルテラス)
 **08/Jan/2025: Tokyo Metropolis(東京都)**
 
 **Fly All Nippon Airways to Beijing(NH961)**
+
+Ramen in Hokkaido(Soy Sauce Ramen, )
+
+<img src="../20250101JP_photos/IMG_6103.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
