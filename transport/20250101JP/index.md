@@ -265,7 +265,7 @@ Former Hokkaido Government Office(北海道庁旧本庁舎), Sapporo CClock Towe
 <img src="../20250101JP_photos/IMG_6301.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6304.jpeg" width="32%">
 
-Hokkaido Shrine (北海道神宮)
+Hokkaido Shrine(北海道神宮)
 
 <img src="../20250101JP_photos/IMG_6308.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6309.jpeg" width="32%">
@@ -298,7 +298,7 @@ Night View of Sapporo
 <img src="../20250101JP_photos/IMG_6338.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6337.jpeg" width="32%">
 
-**Ramen in Hokkaido(Soy Sauce Ramen and Miso ramen)**
+**Ramen in Hokkaido(Asahikawa Soy Sauce Ramen and Sapporo Miso ramen)**
 
 <img src="../20250101JP_photos/IMG_6103.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6325.jpeg" width="32%">
