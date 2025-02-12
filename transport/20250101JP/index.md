@@ -284,7 +284,7 @@ Night View of Sapporo
 
 <img src="../20250101JP_photos/IMG_6324.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6326.jpeg" width="32%">
-<img src="../20250101JP_photos/IMG_6329.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6328.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6330.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6333.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6334.jpeg" width="32%">
