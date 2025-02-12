@@ -259,14 +259,48 @@ Jigokudani(地獄谷)
 <img src="../20250101JP_photos/IMG_6282.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6294.jpeg" width="32%">
 
+Former Hokkaido Government Office(北海道庁旧本庁舎), Sapporo CClock Tower(札幌市時計台) and Sapporo TV Tower(さっぽろテレビ塔)
+
+<img src="../20250101JP_photos/IMG_6300.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6301.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6304.jpeg" width="32%">
+
+Hokkaido Shrine (北海道神宮)
+
+<img src="../20250101JP_photos/IMG_6308.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6309.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6306.jpeg" width="32%">
+
+Shiroi Koibito Park(白い恋人パーク)
+
+<img src="../20250101JP_photos/IMG_6318.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6320.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6321.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6314.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6315.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6312.jpeg" width="32%">
+
+Night View of Sapporo
+
+<img src="../20250101JP_photos/IMG_6324.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6326.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6329.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6330.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6333.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6334.jpeg" width="32%">
+
 **Fly AirDo to Tokyo(HD38)**
 
 **08/Jan/2025: Tokyo Metropolis(東京都)**
 
 **Fly All Nippon Airways to Beijing(NH961)**
 
-Ramen in Hokkaido(Soy Sauce Ramen, )
+<img src="../20250101JP_photos/IMG_6338.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6337.jpeg" width="32%">
+
+**Ramen in Hokkaido(Soy Sauce Ramen and Miso ramen)**
 
 <img src="../20250101JP_photos/IMG_6103.jpeg" width="32%">
+<img src="../20250101JP_photos/IMG_6325.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
