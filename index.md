@@ -16,7 +16,7 @@ Here is my [CV](https://wqgcx.github.io/self/CV.pdf).
 
 ## Courses
 
-Here are my [lecture notes](https://wqgcx.github.io/courses/). Available for research and non-commercial purposes only.
+Here are my [lecture notes](https://wqgcx.github.io/notes/). Available for research and non-commercial purposes only.
 
 ## Travel and Transport 
 
