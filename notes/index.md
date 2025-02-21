@@ -86,6 +86,8 @@
 
 [Advanced Mathematics A (II)](https://wqgcx.github.io/courses/advmathA2.pdf).
 
-[Mathematical Analysis (II)](https://wqgcx.github.io/courses/calculus2.pdf).
+[Mathematical Analysis (II), v1](https://wqgcx.github.io/courses/calculus2.pdf).
+
+[Mathematical Analysis (II), v2](https://wqgcx.github.io/courses/calculus2(lpd).pdf).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
