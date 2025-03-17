@@ -12,4 +12,4 @@ Hover over the image to find out which train station it is.
 <img src="../../20250227CN_photos/CR/IMG_7603.jpeg" width="32%" title="台州西站">
 <img src="../../20250227CN_photos/CR/IMG_7604.jpeg" width="32%" title="台州站">
 
-**Click [here](https://wqgcx.github.io/transport/20250227CR/) to go back.**
+**Click [here](https://wqgcx.github.io/transport/20250227CN/) to go back.**
