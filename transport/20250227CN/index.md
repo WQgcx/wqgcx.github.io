@@ -124,6 +124,19 @@
 
 **01/Mar/2025: 温州**
 
+百丈漈
+
+<img src="../20250227CN_photos/IMG_7476.jpeg" width="49%">
+<img src="../20250227CN_photos/IMG_7478.jpeg" width="49%">
+<img src="../20250227CN_photos/IMG_7489.jpeg" width="49%">
+<img src="../20250227CN_photos/IMG_7493.jpeg" width="49%">
+<img src="../20250227CN_photos/IMG_7500.jpeg" width="49%">
+<img src="../20250227CN_photos/IMG_7508.jpeg" width="49%">
+
+<img src="../20250227CN_photos/IMG_7497.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7502.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7512.jpeg" width="32%">
+
 **02/Mar/2025: 台州**
 
 **Fly China United Airlines to Beijing(KN5982)**
