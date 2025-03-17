@@ -154,6 +154,48 @@
 
 **02/Mar/2025: 台州**
 
+台州府(兴善门, 龙兴寺)
+
+<img src="../20250227CN_photos/IMG_7541.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7545.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7548.jpeg" width="32%">
+
+台州府(巾山塔群)
+
+<img src="../20250227CN_photos/IMG_7549.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7551.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7553.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7555.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7596.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7542.jpeg" width="32%">
+
+台州府(中国人民银行旧址, 千佛井)
+
+<img src="../20250227CN_photos/IMG_7556.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7561.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7562.jpeg" width="32%">
+
+台州府(大生布庄旧址, 紫阳街, 台州府文庙)
+
+<img src="../20250227CN_photos/IMG_7564.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7568.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7574.jpeg" width="32%">
+
+台州府(鼓楼, 恩泽药局旧址)
+
+<img src="../20250227CN_photos/IMG_7575.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7577.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7576.jpeg" width="32%">
+
+台州府(城墙)
+
+<img src="../20250227CN_photos/IMG_7580.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7582.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7583.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7586.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7595.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7578.jpeg" width="32%">
+
 **Fly China United Airlines to Beijing(KN5982)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
