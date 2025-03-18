@@ -169,17 +169,18 @@
 <img src="../20250227CN_photos/IMG_7596.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7542.jpeg" width="32%">
 
-台州府(中国人民银行旧址, 千佛井)
+台州府(中国人民银行旧址, 大生布庄旧址, 文庙)
 
 <img src="../20250227CN_photos/IMG_7556.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7564.jpeg" width="32%">
+<img src="../20250227CN_photos/IMG_7574.jpeg" width="32%">
+
+
+台州府(千佛井, 紫阳街)
+
 <img src="../20250227CN_photos/IMG_7561.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7562.jpeg" width="32%">
-
-台州府(大生布庄旧址, 紫阳街, 台州府文庙)
-
-<img src="../20250227CN_photos/IMG_7564.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7568.jpeg" width="32%">
-<img src="../20250227CN_photos/IMG_7574.jpeg" width="32%">
 
 台州府(鼓楼, 恩泽药局旧址)
 
