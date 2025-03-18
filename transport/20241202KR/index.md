@@ -76,6 +76,8 @@ Woljeongri Beach(월정리해변)
 <img src="../20241202KR_photos/IMG_5421.jpeg" width="32%">
 <img src="../20241202KR_photos/IMG_5422.jpeg" width="32%">
 
+**05/Dec/2024: Jeju Island**
+
 **Fly Spring Airlines to Beijing(9C7206)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
