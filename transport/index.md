@@ -6,11 +6,13 @@
 
 [21/Jun/2024-24/Jun/2024, Japan(Aichi, Gifu, Kanazawa, Takayama and Nagano)](https://wqgcx.github.io/transport/20240621JP).
 
-[28/Aug/2024-31/Aug/2024, Republic of Korea](https://wqgcx.github.io/transport/20240828KR).
+[28/Aug/2024-31/Aug/2024, Republic of Korea(Mainland)](https://wqgcx.github.io/transport/20240828KR).
 
 [27/Sep/2024-29/Sep/2024, Malaysia](https://wqgcx.github.io/transport/20240927MYS).
 
 [30/Sep/2024-08/Oct/2024, Schengen Area(FR, CH, BE, DK)](https://wqgcx.github.io/transport/20240930EU).
+
+[02/Dec/2024-05/Dec/2024, Republic of Korea(Jeju Island)](https://wqgcx.github.io/transport/20241202KR).
 
 **2025**
 
