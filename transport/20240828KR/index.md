@@ -1,4 +1,4 @@
-## Republic of Korea, 28/Aug/2024-31/Aug/2024
+## Republic of Korea(Mainland), 28/Aug/2024-31/Aug/2024
 
 **[<font color=red size=5><u>RAILWAYS IN REPUBLIC OF KOREA</u></font>](https://wqgcx.github.io/transport/20240828KR/KR/)**
 
