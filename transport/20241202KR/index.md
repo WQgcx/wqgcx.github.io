@@ -61,6 +61,21 @@ U Island(우도)
 <img src="../20241202KR_photos/IMG_5402.jpeg" width="32%">
 <img src="../20241202KR_photos/IMG_5403.jpeg" width="32%">
 
+Seopjikoji(섭지코지)
+
+<img src="../20241202KR_photos/IMG_5409.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5411.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5412.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5413.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5416.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5417.jpeg" width="32%">
+
+Woljeongri Beach(월정리해변)
+
+<img src="../20241202KR_photos/IMG_5420.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5421.jpeg" width="32%">
+<img src="../20241202KR_photos/IMG_5422.jpeg" width="32%">
+
 **Fly Spring Airlines to Beijing(9C7206)**
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
