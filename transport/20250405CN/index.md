@@ -53,6 +53,10 @@
 <img src="../20250405CN_photos/IMG_8271.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8274.jpeg" width="32%">
 
+牛肉丸子面
+
+<img src="../20250405CN_photos/IMG_8268.jpeg" width="32%">
+
 **06/Apr/2025: 临汾**
 
 壶口瀑布
@@ -99,16 +103,66 @@
 <img src="../20250405CN_photos/IMG_8353.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8349.jpeg" width="32%">
 
-汾城古建筑群
+汾城古建筑群(监察坊, 文庙, 城隍庙, 汾城鼓楼, 建国初期商业建筑)
+
+<img src="../20250405CN_photos/IMG_8354.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8359.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8360.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8362.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8363.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8364.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8366.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8367.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8368.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8371.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8370.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8372.jpeg" width="32%">
 
 新绛福胜寺
 
+<img src="../20250405CN_photos/IMG_8374.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8388.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8377.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8381.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8383.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8386.jpeg" width="32%">
+
 稷山稷王庙
+
+<img src="../20250405CN_photos/IMG_8393.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8395.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8397.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8398.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8399.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8400.jpeg" width="32%">
 
 马村砖雕墓
 
+<img src="../20250405CN_photos/IMG_8409.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8417.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8418.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8423.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8424.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8425.jpeg" width="32%">
+
 稷山青龙寺
 
+<img src="../20250405CN_photos/IMG_8427.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8428.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8429.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8430.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8432.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8434.jpeg" width="32%">
+
 万荣东岳庙
+
+<img src="../20250405CN_photos/IMG_8438.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8439.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8452.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8443.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8445.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8447.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8449.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8450.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
