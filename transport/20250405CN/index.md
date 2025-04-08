@@ -2,7 +2,7 @@
 
 **[<font color=red size=5><u>RAILWAYS IN SHANXI, CHINA</u></font>](https://wqgcx.github.io/transport/20250405CN/CR/)**
 
-**05/Apr/2025: 临汾**
+**05/Apr/2025: Linfen(临汾)**
 
 洪洞广胜寺
 
@@ -57,7 +57,7 @@
 
 <img src="../20250405CN_photos/IMG_8268.jpeg" width="32%">
 
-**06/Apr/2025: 临汾**
+**06/Apr/2025: Linfen(临汾)**
 
 壶口瀑布
 
@@ -95,7 +95,7 @@
 <img src="../20250405CN_photos/IMG_8335.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8336.jpeg" width="32%">
 
-**07/Apr/2025: 临汾, 运城**
+**07/Apr/2025: Linfen(临汾), Yuncheng(运城)**
 
 灵光寺琉璃塔
 
