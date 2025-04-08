@@ -6,7 +6,7 @@
 
 <img src="../20250227CN_photos/IMG_7298.jpeg" width="32%">
 
-**27/Feb/2025: 温州**
+**27/Feb/2025: Wenzhou(温州)**
 
 江心屿(外景)
 
@@ -64,7 +64,7 @@
 <img src="../20250227CN_photos/IMG_7363.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7367.jpeg" width="32%">
 
-**28/Feb/2025: 温州**
+**28/Feb/2025: Wenzhou(温州)**
 
 雁荡山(大龙湫)
 
@@ -122,7 +122,7 @@
 <img src="../20250227CN_photos/IMG_7463.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7464.jpeg" width="32%">
 
-**01/Mar/2025: 温州**
+**01/Mar/2025: Wenzhou(温州)**
 
 百丈漈
 
@@ -152,7 +152,7 @@
 <img src="../20250227CN_photos/IMG_7533.jpeg" width="32%">
 <img src="../20250227CN_photos/IMG_7536.jpeg" width="32%">
 
-**02/Mar/2025: 台州**
+**02/Mar/2025: Taizhou(台州)**
 
 台州府(兴善门, 龙兴寺)
 
