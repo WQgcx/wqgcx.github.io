@@ -4,7 +4,7 @@
 
 **05/Apr/2025: 临汾**
 
-广胜寺
+洪洞广胜寺
 
 <img src="../20250405CN_photos/IMG_8187.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8188.jpeg" width="32%">
@@ -22,7 +22,7 @@
 <img src="../20250405CN_photos/IMG_8223.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8226.jpeg" width="32%">
 
-铁佛寺
+临汾大云寺(铁佛寺)
 
 <img src="../20250405CN_photos/IMG_8236.jpeg" width="32%">
 <img src="../20250405CN_photos/IMG_8237.jpeg" width="32%">
