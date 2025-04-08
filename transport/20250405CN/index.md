@@ -57,13 +57,47 @@
 
 壶口瀑布
 
+<img src="../20250405CN_photos/IMG_8277.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8279.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8285.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8287.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8292.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8297.jpeg" width="32%">
+
 隰县小西天
 
+<img src="../20250405CN_photos/IMG_8301.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8302.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8303.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8304.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8305.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8306.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8307.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8309.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8311.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8316.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8317.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8318.jpeg" width="32%">
+
 蒲县东岳庙
+
+<img src="../20250405CN_photos/IMG_8339.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8323.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8324.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8326.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8328.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8332.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8333.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8335.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8336.jpeg" width="32%">
 
 **07/Apr/2025: 临汾, 运城**
 
 灵光寺琉璃塔
+
+<img src="../20250405CN_photos/IMG_8351.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8353.jpeg" width="32%">
+<img src="../20250405CN_photos/IMG_8349.jpeg" width="32%">
 
 汾城古建筑群
 
