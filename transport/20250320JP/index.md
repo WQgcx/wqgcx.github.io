@@ -216,4 +216,54 @@ Gosho Aoyama Manga Factory(青山剛昌ふるさと館)
 
 <img src="../20250320JP_photos/IMG_8082.jpeg" width="32%">
 
+Kawagoe Hachimangu(川越八幡宮)
+
+<img src="../20250320JP_photos/IMG_8089.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8095.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8094.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8091.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8092.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8093.jpeg" width="32%">
+
+Kitain Temple(喜多院)
+
+<img src="../20250320JP_photos/IMG_8112.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8099.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8101.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8102.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8103.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8106.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8107.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8108.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8110.jpeg" width="32%">
+
+Kawagoe Castle(川越城)
+
+<img src="../20250320JP_photos/IMG_8113.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8114.jpeg" width="32%">
+
+Kawagoe Hikawa Shrine(川越氷川神社)
+
+<img src="../20250320JP_photos/IMG_8117.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8120.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8118.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8119.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8121.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8124.jpeg" width="32%">
+
+City View of Kawagoe
+
+<img src="../20250320JP_photos/IMG_8125.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8127.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8131.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8132.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8133.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8134.jpeg" width="32%">
+
+Kawagoe Kumano Shrine(川越熊野神社)
+
+<img src="../20250320JP_photos/IMG_8135.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8136.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8137.jpeg" width="32%">
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
