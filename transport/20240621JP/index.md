@@ -1,4 +1,4 @@
-## Japan, 21/Jun/2024-24/Jun/2024
+## Japan(Aichi, Gifu, Kanazawa, Takayama and Nagano), 21/Jun/2024-24/Jun/2024
 
 **[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20240621JP/JR/)**
 
