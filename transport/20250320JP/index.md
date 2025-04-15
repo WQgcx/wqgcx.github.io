@@ -86,4 +86,46 @@ Inasa Beach(稲佐の浜)
 <img src="../20250320JP_photos/IMG_7905.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_7904.jpeg" width="32%">
 
+Momotaro at Yonago Station(米子駅の桃太郎)
+
+<img src="../20250320JP_photos/IMG_7915.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7916.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7917.jpeg" width="32%">
+
+Momotaro-Painting Train(桃太郎塗装電車)
+
+<img src="../20250320JP_photos/IMG_7918.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7945.jpeg" width="32%">
+
+Mizuki Shigeru Road(水木しげるロード)
+
+<img src="../20250320JP_photos/IMG_7919.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7920.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7921.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7922.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7924.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7926.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7937.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7938.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7939.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7940.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7942.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7943.jpeg" width="32%">
+
+Youkai Shrine(妖怪神社)
+
+<img src="../20250320JP_photos/IMG_7928.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7929.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7941.jpeg" width="32%">
+
+Mizuki Shigeru Museum(水木しげる記念館)
+
+<img src="../20250320JP_photos/IMG_7930.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7931.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7932.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7933.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7934.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7935.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7936.jpeg" width="32%">
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
