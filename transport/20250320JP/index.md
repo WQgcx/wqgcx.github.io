@@ -1,4 +1,4 @@
-## Japan, 20/Mar/2025-24/Mar/2025
+## Japan(Tottori, Shimane and Saitama), 20/Mar/2025-24/Mar/2025
 
 **[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20250320JP/JR/)**
 
