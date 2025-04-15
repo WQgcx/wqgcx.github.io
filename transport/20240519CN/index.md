@@ -119,8 +119,37 @@
 
 **21/May/2024: Kizilsu Kyrgyz(克孜勒苏柯尔克孜)**
 
+天山山脉与昆仑山山脉
+
+<img src="../20240519CN_photos/1001.jpg" width="32%">
+<img src="../20240519CN_photos/1002.jpg" width="32%">
+<img src="../20240519CN_photos/1003.jpg" width="32%">
+<img src="../20240519CN_photos/1004.jpg" width="32%">
+<img src="../20240519CN_photos/1005.jpg" width="32%">
+<img src="../20240519CN_photos/1006.jpg" width="32%">
+<img src="../20240519CN_photos/1007.jpg" width="32%">
+<img src="../20240519CN_photos/1008.jpg" width="32%">
+<img src="../20240519CN_photos/1009.jpg" width="32%">
+
+伊尔克什坦口岸, 中国西极村
+
+<img src="../20240519CN_photos/1011.jpg" width="32%">
+<img src="../20240519CN_photos/1012.jpg" width="32%">
+<img src="../20240519CN_photos/1013.jpg" width="32%">
+
+中国西极
+
+<img src="../20240519CN_photos/1014.jpg" width="32%">
+<img src="../20240519CN_photos/1015.jpg" width="32%">
+<img src="../20240519CN_photos/1016.jpg" width="32%">
+<img src="../20240519CN_photos/1018.jpg" width="32%">
+<img src="../20240519CN_photos/1020.jpg" width="32%">
+<img src="../20240519CN_photos/1017.jpg" width="32%">
+
 **22/May/2024: Aksu(阿克苏)**
 
 **Fly Tianjin Airlines and China United Airlines to Beijing(GS7478, KN5612)**
+
+<img src="../20240519CN_photos/1010.jpg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
