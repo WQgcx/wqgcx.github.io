@@ -4,6 +4,8 @@
 
 [26/Apr/2024-03/May/2024, United Kingdom](https://wqgcx.github.io/transport/20240426UK).
 
+[19/May/2024-22/May/2024, China(Kashgar and Kizilsu Kyrgyz)](https://wqgcx.github.io/transport/20240519CN).
+
 [21/Jun/2024-24/Jun/2024, Japan(Aichi, Gifu, Kanazawa, Takayama and Nagano)](https://wqgcx.github.io/transport/20240621JP).
 
 [28/Aug/2024-31/Aug/2024, Republic of Korea(Mainland)](https://wqgcx.github.io/transport/20240828KR).
