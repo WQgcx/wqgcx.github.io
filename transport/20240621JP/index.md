@@ -2,7 +2,7 @@
 
 **[<font color=red size=5><u>RAILWAYS IN JAPAN</u></font>](https://wqgcx.github.io/transport/20240621JP/JR/)**
 
-**Fly China Eastern to Nagoya(MU5196, MU291)**
+**Fly China Eastern Airlines to Nagoya(MU5196, MU291)**
 
 <img src="../20240621JP_photos/IMG_0888.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0895.jpeg" width="32%">
@@ -199,7 +199,7 @@ Matsumoto Castle(松本城)
 <img src="../20240621JP_photos/IMG_1337.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1347.jpeg" width="32%">
 
-**Fly China Eastern to Beijing(MU530, MU5195)**
+**Fly China Eastern Airlines to Beijing(MU530, MU5195)**
 
 <img src="../20240621JP_photos/IMG_1372.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1377.jpeg" width="32%">
