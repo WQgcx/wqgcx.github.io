@@ -128,4 +128,46 @@ Mizuki Shigeru Museum(水木しげる記念館)
 <img src="../20250320JP_photos/IMG_7935.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_7936.jpeg" width="32%">
 
+**23/Mar/2025: Shimane(島根), Tottori(鳥取)**
+
+Mastue Castle(松江城)
+
+<img src="../20250320JP_photos/IMG_7955.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7960.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7961.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7962.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7963.jpeg" width="32%">
+
+Mastue Shrine(松江神社)
+
+<img src="../20250320JP_photos/IMG_7959.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7957.jpeg" width="32%">
+
+Panorama of Mastue
+
+<img src="../20250320JP_photos/IMG_7965.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7966.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7967.jpeg" width="32%">
+
+Samurai Residence(武家屋敷)
+
+<img src="../20250320JP_photos/IMG_7978.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7977.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7975.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7972.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7973.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7974.jpeg" width="32%">
+
+Adachi Museum of Art(足立美術館)
+
+<img src="../20250320JP_photos/IMG_8003.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7983.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7990.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7993.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7994.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_7999.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8004.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8008.jpeg" width="32%">
+<img src="../20250320JP_photos/IMG_8007.jpeg" width="32%">
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
