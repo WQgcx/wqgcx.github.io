@@ -1,5 +1,7 @@
 ## China(Kashgar and Kizilsu Kyrgyz), 19/May/2024-22/May/2024
 
+**[<font color=red size=5><u>RAILWAYS IN XINJIANG, CHINA</u></font>](https://wqgcx.github.io/transport/20240519CN/CR/)**
+
 **Fly China United Airlines and China Southern Airlines to Kashgar(KN5611, CZ6998)**
 
 **19/May/2024: Kashgar(喀什)**
