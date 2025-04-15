@@ -266,4 +266,8 @@ Kawagoe Kumano Shrine(川越熊野神社)
 <img src="../20250320JP_photos/IMG_8136.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_8137.jpeg" width="32%">
 
+**Fly All Nippon Airways to Beijing(NH963)**
+
+<img src="../20250320JP_photos/IMG_8143.jpeg" width="32%">
+
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
