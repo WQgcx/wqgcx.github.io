@@ -59,6 +59,64 @@
 
 **Fly China Southern Airlines to Tashkurgan(CZ8601)**
 
+<img src="../20240519CN_photos/41.jpg" width="32%">
+<img src="../20240519CN_photos/46.jpg" width="32%">
+<img src="../20240519CN_photos/42.jpg" width="32%">
+<img src="../20240519CN_photos/43.jpg" width="32%">
+<img src="../20240519CN_photos/44.jpg" width="32%">
+<img src="../20240519CN_photos/45.jpg" width="32%">
+
+帕米尔旅游区(瓦罕走廊, 盘龙古道, 斑迪尔蓝湖, 慕士塔格峰, 喀拉库勒湖, 白沙湖)
+
+<img src="../20240519CN_photos/47.jpg" width="32%">
+<img src="../20240519CN_photos/48.jpg" width="32%">
+<img src="../20240519CN_photos/49.jpg" width="32%">
+<img src="../20240519CN_photos/50.jpg" width="32%">
+<img src="../20240519CN_photos/51.jpg" width="32%">
+<img src="../20240519CN_photos/52.jpg" width="32%">
+<img src="../20240519CN_photos/53.jpg" width="32%">
+<img src="../20240519CN_photos/54.jpg" width="32%">
+<img src="../20240519CN_photos/55.jpg" width="32%">
+<img src="../20240519CN_photos/56.jpg" width="32%">
+<img src="../20240519CN_photos/57.jpg" width="32%">
+<img src="../20240519CN_photos/58.jpg" width="32%">
+<img src="../20240519CN_photos/59.jpg" width="32%">
+<img src="../20240519CN_photos/60.jpg" width="32%">
+<img src="../20240519CN_photos/61.jpg" width="32%">
+<img src="../20240519CN_photos/62.jpg" width="32%">
+<img src="../20240519CN_photos/63.jpg" width="32%">
+<img src="../20240519CN_photos/64.jpg" width="32%">
+<img src="../20240519CN_photos/65.jpg" width="32%">
+<img src="../20240519CN_photos/66.jpg" width="32%">
+<img src="../20240519CN_photos/67.jpg" width="32%">
+<img src="../20240519CN_photos/68.jpg" width="32%">
+<img src="../20240519CN_photos/69.jpg" width="32%">
+<img src="../20240519CN_photos/70.jpg" width="32%">
+<img src="../20240519CN_photos/71.jpg" width="32%">
+<img src="../20240519CN_photos/72.jpg" width="32%">
+<img src="../20240519CN_photos/73.jpg" width="32%">
+<img src="../20240519CN_photos/74.jpg" width="32%">
+<img src="../20240519CN_photos/75.jpg" width="32%">
+<img src="../20240519CN_photos/81.jpg" width="32%">
+<img src="../20240519CN_photos/82.jpg" width="32%">
+<img src="../20240519CN_photos/83.jpg" width="32%">
+<img src="../20240519CN_photos/84.jpg" width="32%">
+<img src="../20240519CN_photos/85.jpg" width="32%">
+<img src="../20240519CN_photos/86.jpg" width="32%">
+<img src="../20240519CN_photos/87.jpg" width="32%">
+<img src="../20240519CN_photos/88.jpg" width="32%">
+<img src="../20240519CN_photos/89.jpg" width="32%">
+<img src="../20240519CN_photos/90.jpg" width="32%">
+<img src="../20240519CN_photos/91.jpg" width="32%">
+<img src="../20240519CN_photos/92.jpg" width="32%">
+<img src="../20240519CN_photos/93.jpg" width="32%">
+<img src="../20240519CN_photos/94.jpg" width="32%">
+<img src="../20240519CN_photos/95.jpg" width="32%">
+<img src="../20240519CN_photos/96.jpg" width="32%">
+<img src="../20240519CN_photos/97.jpg" width="32%">
+<img src="../20240519CN_photos/98.jpg" width="32%">
+<img src="../20240519CN_photos/99.jpg" width="32%">
+
 **21/May/2024: Kizilsu Kyrgyz(克孜勒苏柯尔克孜)**
 
 **22/May/2024: Aksu(阿克苏)**
