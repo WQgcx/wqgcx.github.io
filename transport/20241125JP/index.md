@@ -10,7 +10,7 @@
 
 **26/Nov/2024: Kurashiki(倉敷), Okayama(岡山), Onomichi(尾道)**
 
-**27/Nov/2024: Hiroshima(広島), Fukuoka(岡山), Onomichi(福岡)**
+**27/Nov/2024: Hiroshima(広島), Fukuoka(福岡)**
 
 **Fly China Eastern Airlines to Beijing(MU5088, MU5165)**
 
