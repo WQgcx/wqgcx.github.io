@@ -67,7 +67,7 @@ Nagoya Night View
 <img src="../20240621JP_photos/IMG_1012.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1015.jpeg" width="32%">
 
-**22/Jun/2024: Takayama(高山), Shirakawa(白川)**
+**22/Jun/2024: Takayama(高山), Shirakawa(白川村)**
 
 Hida Tenmangu Shrine(飛騨天滿宮)
 
