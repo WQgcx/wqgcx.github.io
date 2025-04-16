@@ -7,7 +7,7 @@
 <img src="../20240621JP_photos/IMG_0888.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_0895.jpeg" width="32%">
 
-**21/Jun/2024: Ise-shi(伊勢市), Nagoya-shi(名古屋市)**
+**21/Jun/2024: Ise(伊勢), Nagoya(名古屋)**
 
 Futamiokitama Shrine(二見興玉神社)
 
@@ -67,7 +67,7 @@ Nagoya Night View
 <img src="../20240621JP_photos/IMG_1012.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1015.jpeg" width="32%">
 
-**22/Jun/2024: Takayama-shi(高山市), Shirakawa-mura(白川村)**
+**22/Jun/2024: Takayama(高山), Shirakawa(白川)**
 
 Hida Tenmangu Shrine(飛騨天滿宮)
 
@@ -118,7 +118,7 @@ Gasshōzukuri(合掌造り)
 <img src="../20240621JP_photos/IMG_1127.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1121.jpeg" width="32%">
 
-**23/Jun/2024: Kanazawa-shi(金沢市), Takaoka-shi(高岡市), Toyama-shi(富山市)**
+**23/Jun/2024: Kanazawa(金沢), Takaoka(高岡), Toyama(富山)**
 
 Saigawa Bridge(犀川大橋) and Myouryuji(妙立寺)
 
@@ -170,7 +170,7 @@ Toyama Castle(富山城)
 <img src="../20240621JP_photos/IMG_1233.jpeg" width="32%">
 <img src="../20240621JP_photos/IMG_1234.jpeg" width="32%">
 
-**24/Jun/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto-shi(松本市)**
+**24/Jun/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto(松本)**
 
 Tateyama Kurobe Alpine Route(立山黒部アルペンルート), from Tateyama(立山) to Ōgizawa(扇沢)
 
