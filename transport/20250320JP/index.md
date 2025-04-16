@@ -6,7 +6,7 @@
 
 <img src="../20250320JP_photos/IMG_7812.jpeg" width="32%">
 
-**21/Mar/2025: Tottori(鳥取), Shimane(島根)**
+**21/Mar/2025: Tottori(鳥取), Matsue(松江)**
 
 Tottori Sand Dunes Conan Airport(鳥取砂丘コナン空港)
 
@@ -66,7 +66,7 @@ Matsue Castle(松江城)
 <img src="../20250320JP_photos/IMG_7883.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_7884.jpeg" width="32%">
 
-**22/Mar/2025: Shimane(島根), Tottori(鳥取)**
+**22/Mar/2025: Izumo(出雲), Yonago(米子), Sakaiminato(境港)**
 
 Izumo Oyashiro Shrine(出雲大社)
 
@@ -128,7 +128,7 @@ Mizuki Shigeru Museum(水木しげる記念館)
 <img src="../20250320JP_photos/IMG_7935.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_7936.jpeg" width="32%">
 
-**23/Mar/2025: Shimane(島根), Tottori(鳥取)**
+**23/Mar/2025: Mastue(松江), Yasugi(安来), Hokuei(北栄町)**
 
 Mastue Castle(松江城)
 
@@ -210,7 +210,7 @@ Gosho Aoyama Manga Factory(青山剛昌ふるさと館)
 <img src="../20250320JP_photos/IMG_8053.jpeg" width="32%">
 <img src="../20250320JP_photos/IMG_8055.jpeg" width="32%">
 
-**24/Mar/2025: Saitama(埼玉)**
+**24/Mar/2025: Kawagoe(川越)**
 
 **Fly All Nippon Airways to Tokyo(NH294)**
 
