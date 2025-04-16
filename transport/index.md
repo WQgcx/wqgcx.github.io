@@ -14,6 +14,8 @@
 
 [30/Sep/2024-08/Oct/2024, Schengen Area(FR, CH, BE, DK)](https://wqgcx.github.io/transport/20240930EU).
 
+[25/Nov/2024-27/Nov/2024, Japan(Hiroshima, Okayama and Fukuoka)](https://wqgcx.github.io/transport/20241125JP).
+
 [02/Dec/2024-05/Dec/2024, Republic of Korea(Jeju Island)](https://wqgcx.github.io/transport/20241202KR).
 
 **2025**
