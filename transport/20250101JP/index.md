@@ -6,7 +6,7 @@
 
 <img src="../20250101JP_photos/IMG_5833.jpeg" width="32%">
 
-**01/Jan/2025: Tokyo Metropolis(東京都)**
+**01/Jan/2025: Tokyo(東京)**
 
 Kabukichō(歌舞伎町)
 
@@ -21,7 +21,7 @@ Kabukichō(歌舞伎町)
 <img src="../20250101JP_photos/IMG_5853.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5854.jpeg" width="32%">
 
-**02/Jan/2025: Otaru-shi(小樽市)**
+**02/Jan/2025: Otaru(小樽)**
 
 **Fly All Nippon Airways to Hokkaido(NH53)**
 
@@ -78,7 +78,7 @@ Tenguyama(天狗山)
 <img src="../20250101JP_photos/IMG_5926.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_5928.jpeg" width="32%">
 
-**03/Jan/2025: Wakkanai-shi(稚内市)**
+**03/Jan/2025: Wakkanai(稚内)**
 
 North Breakwater Dome(北防波堤ドーム)
 
@@ -118,7 +118,7 @@ Cape Sōya(宗谷岬)
 <img src="../20250101JP_photos/IMG_6011.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6014.jpeg" width="32%">
 
-**04/Jan/2025: Biei-chō(美瑛町), Furano-shi(富良野市)**
+**04/Jan/2025: Biei(美瑛), Furano(富良野)**
 
 Christmas Tree no Ki(クリスマスツリーの木)
 
@@ -158,7 +158,7 @@ Ningle Terrace(ニングルテラス)
 <img src="../20250101JP_photos/IMG_6095.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6096.jpeg" width="32%">
 
-**05/Jan/2025: Asahikawa-shi(旭川市), Hakodate-shi(函館市)**
+**05/Jan/2025: Asahikawa(旭川), Hakodate(函館)**
 
 Asahikawa Shrine(旭川神社)
 
@@ -181,7 +181,7 @@ Mount Hakodate (函館山)
 <img src="../20250101JP_photos/IMG_6172.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6178.jpeg" width="32%">
 
-**06/Jan/2025: Hakodate-shi(函館市), Tōyako-chō(洞爺湖町), Noboribetsu-shi(登別市)**
+**06/Jan/2025: Hakodate(函館), Tōya(洞爺), Noboribetsu(登別)**
 
 Meijikan(明治館), Kanemori Red Brick Warehouse(金森赤レンガ倉庫) and Hachimanzaka Slope(八幡坂)
 
@@ -247,7 +247,7 @@ Dai-ichi Takimotokan: Kaiseki(第一滝本館: 懐石)
 <img src="../20250101JP_photos/IMG_6267.jpeg" width="32%">
 <img src="../20250101JP_photos/IMG_6268.jpeg" width="32%">
 
-**07/Jan/2025: Noboribetsu-shi(登別市), Sapporo-shi(札幌市)**
+**07/Jan/2025: Noboribetsu(登別), Sapporo(札幌)**
 
 Dai-ichi Takimotokan: Breakfast
 
@@ -291,7 +291,7 @@ Night View of Sapporo
 
 **Fly AirDo to Tokyo(HD38)**
 
-**08/Jan/2025: Tokyo Metropolis(東京都)**
+**08/Jan/2025: Tokyo(東京)**
 
 **Fly All Nippon Airways to Beijing(NH961)**
 
