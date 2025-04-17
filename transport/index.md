@@ -22,6 +22,8 @@
 
 [01/Jan/2025-08/Jan/2025, Japan(Tokyo and Hokkaido)](https://wqgcx.github.io/transport/20250101JP).
 
+[14/Jan/2025-26/Jan/2025, Republic of Korea(Seoul), China(Xishuangbanna, Nanchang), Laos(Luang Prabang, Vientiane) and Thailand(Bangkok, Chiang Mai)](https://wqgcx.github.io/transport/20250114ASIA).
+
 [27/Feb/2025-02/Mar/2025, China(Wenzhou and Taizhou)](https://wqgcx.github.io/transport/20250227CN).
 
 [20/Mar/2025-24/Mar/2025, Japan(Tottori, Shimane and Saitama)](https://wqgcx.github.io/transport/20250320JP).
