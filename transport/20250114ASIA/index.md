@@ -4,7 +4,56 @@
 
 **Fly China Southern Airlines to Seoul, Republic of Korea(CZ317)**
 
+Seoul National Cemetery
+
+<img src="../20250114ASIA_photos/IMG_6373.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6372.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6390.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6378.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6379.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6382.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6384.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6385.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6388.jpeg" width="32%">
+
+Gyeonghuigung
+
+<img src="../20250114ASIA_photos/IMG_6391.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6392.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6393.jpeg" width="32%">
+
+Seodaemun Independence Park
+
+<img src="../20250114ASIA_photos/IMG_6399.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6402.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6408.jpeg" width="32%">
+
+Deoksugung
+
+<img src="../20250114ASIA_photos/IMG_6414.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6419.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6428.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6420.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6426.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6425.jpeg" width="32%">
+
+Namdaemun
+
+<img src="../20250114ASIA_photos/IMG_6433.jpeg" width="32%">
+
 **15/Jan/2025: Seoul, Republic of Korea**
+
+Korean Demilitarized Zone
+
+<img src="../20250114ASIA_photos/IMG_6442.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6441.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6444.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6452.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6455.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6456.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6459.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6461.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6463.jpeg" width="32%">
 
 **16/Jan/2025: Seoul, Republic of Korea**
 
