@@ -10,7 +10,7 @@
 
 [28/Aug/2024-31/Aug/2024, Republic of Korea(Mainland)](https://wqgcx.github.io/transport/20240828KR).
 
-[27/Sep/2024-29/Sep/2024, Malaysia](https://wqgcx.github.io/transport/20240927MYS).
+[27/Sep/2024-29/Sep/2024, Malaysia(Penang, Ipoh and Kuala Lumpur)](https://wqgcx.github.io/transport/20240927MYS).
 
 [30/Sep/2024-08/Oct/2024, Schengen Area(FR, CH, BE, DK)](https://wqgcx.github.io/transport/20240930EU).
 
