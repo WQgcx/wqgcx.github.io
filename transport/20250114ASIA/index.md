@@ -4,11 +4,17 @@
 
 **Fly China Southern Airlines to Seoul, Republic of Korea(CZ317)**
 
-<img src="../20250114ASIA_photos/IMG_XXXX.jpeg" width="32%">
-
 **15/Jan/2025: Seoul, Republic of Korea**
 
 **16/Jan/2025: Seoul, Republic of Korea**
+
+National Assembly of the Republic of Korea
+
+<img src="../20250114ASIA_photos/IMG_6467.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6471.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6474.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6476.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6478.jpeg" width="32%">
 
 **Fly China Southern Airlines to Shenyang, China(CZ672)**
 
