@@ -30,7 +30,10 @@ Seodaemun Independence Park
 
 Deoksugung
 
+<img src="../20250114ASIA_photos/IMG_6506.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6507.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6414.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6415.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6419.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6428.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6420.jpeg" width="32%">
@@ -64,6 +67,27 @@ National Assembly of the Republic of Korea
 <img src="../20250114ASIA_photos/IMG_6474.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6476.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6478.jpeg" width="32%">
+
+National Palace Museum of Korea
+
+<img src="../20250114ASIA_photos/IMG_6483.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6484.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6485.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6486.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6488.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6489.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6490.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6491.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6492.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6493.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6494.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6495.jpeg" width="32%">
+
+Hwangudan
+
+<img src="../20250114ASIA_photos/IMG_6503.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6497.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6504.jpeg" width="32%">
 
 **Fly China Southern Airlines to Shenyang, China(CZ672)**
 
