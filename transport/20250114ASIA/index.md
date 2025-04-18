@@ -91,11 +91,71 @@ Hwangudan
 
 **Fly China Southern Airlines to Shenyang, China(CZ672)**
 
+<img src="../20250114ASIA_photos/IMG_6512.jpeg" width="32%">
+
 **17/Jan/2025: Xishuangbanna, China**
 
 **Fly China Southern Airlines to Xishuangbanna, China(CZ8557)**
 
+<img src="../20250114ASIA_photos/IMG_6515.jpeg" width="32%">
+
+Peacock Banquet
+
+<img src="../20250114ASIA_photos/IMG_6515.jpeg" width="32%">
+
+The Great Pagoda Temple of Jinghong
+
+<img src="../20250114ASIA_photos/IMG_6535.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6529.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6531.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6523.jpeg" width="32%">
+
+Night View alongside the Lancang River
+
+<img src="../20250114ASIA_photos/IMG_6519.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6520.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6536.jpeg" width="32%">
+
 **18/Jan/2025: Xishuangbanna, China**
+
+Manting Imperial Garden
+
+<img src="../20250114ASIA_photos/IMG_6541.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6543.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6546.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6547.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6548.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6553.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6556.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6559.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6560.jpeg" width="32%">
+
+Xishuangbanna General Buddhist Temple
+
+<img src="../20250114ASIA_photos/IMG_6566.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6569.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6570.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6573.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6577.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6579.jpeg" width="32%">
+
+Bo Re Temple
+
+<img src="../20250114ASIA_photos/IMG_6582.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6586.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6583.jpeg" width="32%">
+
+Mengle Cultural Park
+
+<img src="../20250114ASIA_photos/IMG_6587.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6588.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6983.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6595.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6598.jpeg" width="32%">
+
+Sapie Rice Noodles
+
+<img src="../20250114ASIA_photos/IMG_6600.jpeg" width="32%">
 
 **19/Jan/2025: Xishuangbanna, China**
 
