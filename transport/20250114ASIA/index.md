@@ -149,7 +149,7 @@ Mengle Cultural Park
 
 <img src="../20250114ASIA_photos/IMG_6587.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6588.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_6983.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6993.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6595.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6598.jpeg" width="32%">
 
