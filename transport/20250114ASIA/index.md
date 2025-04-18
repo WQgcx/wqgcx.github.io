@@ -101,7 +101,7 @@ Hwangudan
 
 Peacock Banquet
 
-<img src="../20250114ASIA_photos/IMG_6515.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6516.jpeg" width="32%">
 
 The Great Pagoda Temple of Jinghong
 
