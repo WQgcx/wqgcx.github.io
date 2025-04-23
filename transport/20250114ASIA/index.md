@@ -157,7 +157,53 @@ Sapie Rice Noodles
 
 <img src="../20250114ASIA_photos/IMG_6600.jpeg" width="32%">
 
+Xishuangbanna Primitive Forest Park
+
+<img src="../20250114ASIA_photos/IMG_6601.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6609.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6610.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6612.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6614.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6631.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6640.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6643.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6647.jpeg" width="32%">
+
+Dai-Flavor Barbecue
+
+<img src="../20250114ASIA_photos/IMG_6653.jpeg" width="32%">
+
 **19/Jan/2025: Xishuangbanna, China**
+
+Xishuangbanna Tropical Botanical Garden
+
+<img src="../20250114ASIA_photos/IMG_6655.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6657.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6661.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6664.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6669.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6672.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6675.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6683.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6687.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6695.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6697.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6698.jpeg" width="32%">
+
+Xishuangbanna Dai Nationality Garden
+
+<img src="../20250114ASIA_photos/IMG_6699.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6701.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6706.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6709.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6711.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6712.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6716.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6718.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6720.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6721.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6733.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6735.jpeg" width="32%">
 
 **20/Jan/2025: Luang Prabang, Laos**
 
