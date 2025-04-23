@@ -207,17 +207,89 @@ Xishuangbanna Dai Nationality Garden
 
 **20/Jan/2025: Luang Prabang, Laos**
 
+Xishuangbanna Railway Station, China
+
 <img src="../20250114ASIA_photos/IMG_6740.jpeg" width="32%">
 
-**Take Train C383 to Mohan Railway Station, China**
+Take Train C383 to Mohan Railway Station, China
+
+Mohan Railway Station, China
 
 <img src="../20250114ASIA_photos/IMG_6743.jpeg" width="32%">
 
-**Take Train D85 to Luang Prabang Railway Station, Laos**
+Take Train D85 to Luang Prabang Railway Station, Laos
+
+Royal Palace, Luang Prabang
+
+<img src="../20250114ASIA_photos/IMG_6748.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6757.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6752.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6754.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6755.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6810.jpeg" width="32%">
+
+Lao-Style Pho
+
+<img src="../20250114ASIA_photos/IMG_6758.jpeg" width="32%">
+
+Wat Xieng Thong
+
+<img src="../20250114ASIA_photos/IMG_6770.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6771.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6783.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6784.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6785.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6787.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6789.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6790.jpeg" width="32%">
+
+Sunset from Mount Phousi
+
+<img src="../20250114ASIA_photos/IMG_6791.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6797.jpeg" width="32%">
+
+Night Market, Luang Prabang
+
+<img src="../20250114ASIA_photos/IMG_6798.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6800.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6802.jpeg" width="32%">
 
 **21/Jan/2025: Luang Prabang, Laos**
 
-**Take Train C83 to Vientiane Railway Station, Laos**
+Dāna
+
+<img src="../20250114ASIA_photos/IMG_6804.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6805.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6809.jpeg" width="32%">
+
+Kuang Si Falls
+
+<img src="../20250114ASIA_photos/IMG_6817.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6820.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6821.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6822.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6823.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6824.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6826.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6832.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6834.jpeg" width="32%">
+
+Mekong River
+
+<img src="../20250114ASIA_photos/IMG_6841.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6842.jpeg" width="32%">
+
+Luang Prabang Railway Station, Laos
+
+<img src="../20250114ASIA_photos/IMG_6846.jpeg" width="32%">
+
+Take Train C83(Lane Xang EMU Train) to Vientiane Railway Station, Laos
+
+<img src="../20250114ASIA_photos/IMG_6848.jpeg" width="32%">
+
+Vientiane Railway Station, Laos
+
+<img src="../20250114ASIA_photos/IMG_6850.jpeg" width="32%">
 
 **22/Jan/2025: Vientiane, Laos**
 
