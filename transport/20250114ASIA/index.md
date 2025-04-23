@@ -185,7 +185,7 @@ Xishuangbanna Tropical Botanical Garden
 <img src="../20250114ASIA_photos/IMG_6672.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6675.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6683.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_6687.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6691.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6695.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6697.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6698.jpeg" width="32%">
@@ -207,7 +207,11 @@ Xishuangbanna Dai Nationality Garden
 
 **20/Jan/2025: Luang Prabang, Laos**
 
+<img src="../20250114ASIA_photos/IMG_6740.jpeg" width="32%">
+
 **Take Train C383 to Mohan Railway Station, China**
+
+<img src="../20250114ASIA_photos/IMG_6743.jpeg" width="32%">
 
 **Take Train D85 to Luang Prabang Railway Station, Laos**
 
