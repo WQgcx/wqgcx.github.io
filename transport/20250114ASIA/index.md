@@ -356,6 +356,56 @@ Take Train 134 to Krung Thep Aphiwat Railway Station, Thailand
 
 **23/Jan/2025: Bangkok, Thailand**
 
+The Grand Palace
+
+<img src="../20250114ASIA_photos/IMG_6942.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6943.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6944.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6946.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6949.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6951.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6952.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6955.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6956.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6961.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6962.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6964.jpeg" width="32%">
+
+Wat Pho(Wat Phra Chetuphon Wimon Mangkhalaram Rajwaramahawihan)
+
+<img src="../20250114ASIA_photos/IMG_6966.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6967.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6968.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6970.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6971.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6975.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6977.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6980.jpeg" width="32%">
+
+Wat Arun Ratchawararam Ratchawaramahawihan
+
+<img src="../20250114ASIA_photos/IMG_6978.jpeg" width="32%">
+
+Bankok National Museum
+
+<img src="../20250114ASIA_photos/IMG_6983.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6987.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6988.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6991.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6993.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6996.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6997.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6998.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7003.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7006.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7007.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7008.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7009.jpeg" width="32%">
+
+Hoy Tod
+
+<img src="../20250114ASIA_photos/IMG_7013.jpeg" width="32%">
+
 **24/Jan/2025: Chiang Mai, Thailand**
 
 **Fly Thai AirAsia to Chiang Mai, Thailand(FD3443)**
