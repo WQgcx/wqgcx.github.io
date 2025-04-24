@@ -320,11 +320,9 @@ Plumeria
 
 Patuxay
 
-<center>
 <img src="../20250114ASIA_photos/IMG_6907.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_6895.jpeg" width="18%">
+<img src="../20250114ASIA_photos/IMG_6895.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6902.jpeg" width="32%">
-</center>
 
 Wat That Luang Neua
 
