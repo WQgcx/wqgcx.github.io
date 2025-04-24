@@ -301,8 +301,9 @@ Wat Si Saket
 
 <img src="../20250114ASIA_photos/IMG_6858.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6861.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_6863.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6864.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6862.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6863.jpeg" width="32%">
 
 Wat Si Muang
 
@@ -319,9 +320,9 @@ Plumeria
 
 Patuxay
 
-<img src="../20250114ASIA_photos/IMG_6895.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_6902.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6907.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6895.jpeg" width="18%">
+<img src="../20250114ASIA_photos/IMG_6902.jpeg" width="32%">
 
 Wat That Luang Neua
 
