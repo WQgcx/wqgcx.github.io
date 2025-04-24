@@ -528,32 +528,23 @@ August 1st Uprising Command Headquarters
 
 Tengwang Pavilion
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; gap: 4%;">
 
-  <!-- 左侧横图（共4张，每行两张） -->
-  <img src="../20250114ASIA_photos/IMG_7128.jpeg" style="width: 32%; margin-bottom: 5px;">
-  <img src="../20250114ASIA_photos/IMG_7129.jpeg" style="width: 32%; margin-bottom: 5px;">
-  <img src="../20250114ASIA_photos/IMG_7131.jpeg" style="width: 32%; margin-bottom: 5px;">
-  <img src="../20250114ASIA_photos/IMG_7132.jpeg" style="width: 32%; margin-bottom: 5px;">
-
-  <!-- 右侧竖图，占据一列（32%），在右边 -->
-  <img src="../20250114ASIA_photos/IMG_7130.jpeg" style="width: 32%; height: auto; margin-left: auto;">
-  
-</div>
-
-<div style="width: 66.5%; gap: 5px;">
-
-  <!-- 左侧四张横图 -->
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px; flex: 2;">
-    <img src="../20250114ASIA_photos/IMG_7128.jpeg" width="100%">
-    <img src="../20250114ASIA_photos/IMG_7129.jpeg" width="100%">
-    <img src="../20250114ASIA_photos/IMG_7131.jpeg" width="100%">
-    <img src="../20250114ASIA_photos/IMG_7132.jpeg" width="100%">
+  <!-- 左边：两行，每行两张横图 -->
+  <div style="display: flex; flex-direction: column; gap: 5px; width: 64%;">
+    <div style="display: flex; gap: 5px;">
+      <img src="../20250114ASIA_photos/IMG_7128.jpeg" style="width: 32%;">
+      <img src="../20250114ASIA_photos/IMG_7129.jpeg" style="width: 32%;">
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="../20250114ASIA_photos/IMG_7131.jpeg" style="width: 32%;">
+      <img src="../20250114ASIA_photos/IMG_7132.jpeg" style="width: 32%;">
+    </div>
   </div>
 
-  <!-- 右侧竖图 -->
+  <!-- 右边：一张竖图 -->
   <div style="width: 32%;">
-    <img src="../20250114ASIA_photos/IMG_7130.jpeg" width="100%">
+    <img src="../20250114ASIA_photos/IMG_7130.jpeg" style="width: 100%; height: auto;">
   </div>
 
 </div>
