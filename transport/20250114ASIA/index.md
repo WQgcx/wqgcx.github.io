@@ -293,7 +293,63 @@ Vientiane Railway Station, Laos
 
 **22/Jan/2025: Vientiane, Laos**
 
-**Take Train 134 to Krung Thep Aphiwat Railway Station, Thailand**
+That Dam
+
+<img src="../20250114ASIA_photos/IMG_6855.jpeg" width="32%">
+
+Wat Si Saket
+
+<img src="../20250114ASIA_photos/IMG_6858.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6861.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6863.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6864.jpeg" width="32%">
+
+Wat Si Muang
+
+<img src="../20250114ASIA_photos/IMG_6887.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6872.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6874.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6875.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6884.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6885.jpeg" width="32%">
+
+Plumeria
+
+<img src="../20250114ASIA_photos/IMG_6888.jpeg" width="32%">
+
+Patuxay
+
+<img src="../20250114ASIA_photos/IMG_6895.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6902.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6907.jpeg" width="32%">
+
+Wat That Luang Neua
+
+<img src="../20250114ASIA_photos/IMG_6908.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6917.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6911.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6915.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6919.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6920.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6921.jpeg" width="32%">
+
+Buddha Park(Xieng Khuan)
+
+<img src="../20250114ASIA_photos/IMG_6924.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6926.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6927.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6928.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6929.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6931.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6935.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6936.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_6938.jpeg" width="32%">
+
+Vientiane Khamsavath Railway Station
+
+<img src="../20250114ASIA_photos/IMG_6939.jpeg" width="32%">
+
+Take Train 134 to Krung Thep Aphiwat Railway Station, Thailand
 
 **23/Jan/2025: Bangkok, Thailand**
 
