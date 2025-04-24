@@ -531,14 +531,14 @@ Tengwang Pavilion
 <div style="display: flex; gap: 4%;">
 
   <!-- 左边：两行，每行两张横图 -->
-  <div style="display: flex; flex-direction: column; gap: 5px; width: 64%;">
+  <div style="display: flex; flex-direction: column; gap: 5px; width: 60%;">
     <div style="display: flex; gap: 5px;">
-      <img src="../20250114ASIA_photos/IMG_7128.jpeg" style="width: 32%;">
-      <img src="../20250114ASIA_photos/IMG_7129.jpeg" style="width: 32%;">
+      <img src="../20250114ASIA_photos/IMG_7128.jpeg" style="width: 50%;">
+      <img src="../20250114ASIA_photos/IMG_7129.jpeg" style="width: 50%;">
     </div>
     <div style="display: flex; gap: 5px;">
-      <img src="../20250114ASIA_photos/IMG_7131.jpeg" style="width: 32%;">
-      <img src="../20250114ASIA_photos/IMG_7132.jpeg" style="width: 32%;">
+      <img src="../20250114ASIA_photos/IMG_7131.jpeg" style="width: 50%;">
+      <img src="../20250114ASIA_photos/IMG_7132.jpeg" style="width: 50%;">
     </div>
   </div>
 
