@@ -358,6 +358,7 @@ Take Train 134 to Krung Thep Aphiwat Railway Station, Thailand
 
 The Grand Palace
 
+<img src="../20250114ASIA_photos/IMG_6941.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6942.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6943.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6944.jpeg" width="32%">
@@ -408,9 +409,60 @@ Hoy Tod
 
 **24/Jan/2025: Chiang Mai, Thailand**
 
-**Fly Thai AirAsia to Chiang Mai, Thailand(FD3443)**
+Fly Thai AirAsia to Chiang Mai, Thailand(FD3443)
 
-**Fly Nok Air to Bankok, Thailand(DD137)**
+Tha Phae Gate
+
+<img src="../20250114ASIA_photos/IMG_7023.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7024.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7077.jpeg" width="32%">
+
+Wat Phan Tao
+
+<img src="../20250114ASIA_photos/IMG_7026.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7027.jpeg" width="32%">
+
+Wat Chedi Luang
+
+<img src="../20250114ASIA_photos/IMG_7028.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7030.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7031.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7032.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7034.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7037.jpeg" width="32%">
+
+Three Kings Monument
+
+<img src="../20250114ASIA_photos/IMG_7038.jpeg" width="32%">
+
+Chiang Mai Gate
+
+<img src="../20250114ASIA_photos/IMG_7043.jpeg" width="32%">
+
+Wat Phra Singh
+
+<img src="../20250114ASIA_photos/IMG_7044.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7049.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7050.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7051.jpeg" width="32%">
+
+Wat Lok Molee
+
+<img src="../20250114ASIA_photos/IMG_7052.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7054.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7055.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7056.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7058.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7059.jpeg" width="32%">
+
+Wat Chiang Mun
+
+<img src="../20250114ASIA_photos/IMG_7060.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7061.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7072.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7073.jpeg" width="32%">
+
+Fly Nok Air to Bankok, Thailand(DD137)
 
 **25/Jan/2025: Bangkok, Thailand**
 
