@@ -416,6 +416,7 @@ Tha Phae Gate
 <img src="../20250114ASIA_photos/IMG_7023.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_7024.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_7077.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7078.jpeg" width="32%">
 
 Wat Phan Tao
 
@@ -465,14 +466,76 @@ Wat Chiang Mun
 <img src="../20250114ASIA_photos/IMG_7072.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_7073.jpeg" width="32%">
 
+Chiang Mai's Chinatown
+
+<img src="../20250114ASIA_photos/IMG_7079.jpeg" width="32%">
+
+Chiang Mai Taxi
+
+<img src="../20250114ASIA_photos/IMG_7080.jpeg" width="32%">
+
 Fly Nok Air to Bankok, Thailand(DD137)
 
 **25/Jan/2025: Bangkok, Thailand**
 
-**Fly China Eastern Airlines to Kunming, China(MU9612)**
+Democracy Monument
+
+<img src="../20250114ASIA_photos/IMG_7084.jpeg" width="32%">
+
+Bangkok's Chinatown
+
+<img src="../20250114ASIA_photos/IMG_7085.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7090.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7091.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7092.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7093.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7094.jpeg" width="32%">
+
+Victory Monument
+
+<img src="../20250114ASIA_photos/IMG_7095.jpeg" width="32%">
+
+Phra Phrom
+
+<img src="../20250114ASIA_photos/IMG_7098.jpeg" width="32%">
+
+Fly China Eastern Airlines to Kunming, China(MU9612)
 
 **26/Jan/2025: Nanchang, China**
 
-**Fly China Eastern Airlines to Nanchang, China(MU5470)**
+Fly China Eastern Airlines to Nanchang, China(MU5470)
+
+<img src="../20250114ASIA_photos/IMG_7101.jpeg" width="32%">
+
+Bayi Square(Nanchang August 1st Uprising Monument, Flag Tower, Jiangxi Provincial Art Museum)
+
+<img src="../20250114ASIA_photos/IMG_7105.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7111.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7110.jpeg" width="32%">
+
+Nanchang August 1st Uprising Memorial Hall
+
+<img src="../20250114ASIA_photos/IMG_7121.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7112.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7118.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7119.jpeg" width="32%">
+
+August 1st Uprising Command Headquarters
+
+<img src="../20250114ASIA_photos/IMG_7123.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7126.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7125.jpeg" width="32%">
+
+Tengwang Pavilion
+
+<img src="../20250114ASIA_photos/IMG_7128.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7129.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7130.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7131.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7132.jpeg" width="32%">
+
+Sunset from the Gan River
+
+<img src="../20250114ASIA_photos/IMG_7134.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
