@@ -320,7 +320,7 @@ Plumeria
 
 Patuxay
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 2px;">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 4px;">
 <img src="../20250114ASIA_photos/IMG_6907.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6895.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6902.jpeg" width="32%">
