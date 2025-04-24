@@ -528,10 +528,10 @@ August 1st Uprising Command Headquarters
 
 Tengwang Pavilion
 
-<div style="display: flex; gap: 2.5%;">
+<div style="display: flex; gap: 0.25%;">
 
   <!-- 左边：两行，每行两张横图 -->
-  <div style="display: flex; flex-direction: column; gap: 5px; width: calc(64% - 2.5px);">
+  <div style="display: flex; flex-direction: column; gap: 5px; width: 64%;">
     <div style="display: flex; gap: 5px;">
       <img src="../20250114ASIA_photos/IMG_7128.jpeg" style="width: 50%;">
       <img src="../20250114ASIA_photos/IMG_7129.jpeg" style="width: 50%;">
@@ -543,7 +543,7 @@ Tengwang Pavilion
   </div>
 
   <!-- 右边：一张竖图 -->
-  <div style="width: calc(32% - 2.5px);">
+  <div style="width: 32%;">
     <img src="../20250114ASIA_photos/IMG_7130.jpeg" style="width: 100%; height: auto;">
   </div>
 
