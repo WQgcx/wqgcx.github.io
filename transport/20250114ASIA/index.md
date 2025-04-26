@@ -470,7 +470,7 @@ Chiang Mai's Chinatown
 
 <img src="../20250114ASIA_photos/IMG_7079.jpeg" width="32%">
 
-Chiang Mai Taxi
+Chiang Mai Taxi(Songthaew)
 
 <img src="../20250114ASIA_photos/IMG_7080.jpeg" width="32%">
 
