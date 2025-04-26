@@ -450,8 +450,8 @@ Wat Phra Singh
 Wat Lok Molee
 
 <img src="../20250114ASIA_photos/IMG_7052.jpeg" width="32%">
+<img src="../20250114ASIA_photos/IMG_7053.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_7054.jpeg" width="32%">
-<img src="../20250114ASIA_photos/IMG_7058.jpeg" width="32%">
 
 <div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px;">
 <img src="../20250114ASIA_photos/IMG_7055.jpeg" width="32%">
