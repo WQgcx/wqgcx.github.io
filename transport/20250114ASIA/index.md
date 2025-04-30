@@ -2,7 +2,7 @@
 
 **14/Jan/2025: Seoul, Republic of Korea**
 
-**Fly China Southern Airlines to Seoul, Republic of Korea(CZ317)**
+Fly China Southern Airlines to Seoul, Republic of Korea(CZ317)
 
 Seoul National Cemetery
 
@@ -89,13 +89,13 @@ Hwangudan
 <img src="../20250114ASIA_photos/IMG_6497.jpeg" width="32%">
 <img src="../20250114ASIA_photos/IMG_6504.jpeg" width="32%">
 
-**Fly China Southern Airlines to Shenyang, China(CZ672)**
+Fly China Southern Airlines to Shenyang, China(CZ672)
 
 <img src="../20250114ASIA_photos/IMG_6512.jpeg" width="32%">
 
 **17/Jan/2025: Xishuangbanna, China**
 
-**Fly China Southern Airlines to Xishuangbanna, China(CZ8557)**
+Fly China Southern Airlines to Xishuangbanna, China(CZ8557)
 
 <img src="../20250114ASIA_photos/IMG_6515.jpeg" width="32%">
 
