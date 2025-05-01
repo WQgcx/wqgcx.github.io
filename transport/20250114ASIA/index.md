@@ -1,6 +1,6 @@
 ## Republic of Korea, China, Laos and Thailand, 14/Jan/2025-26/Jan/2025
 
-**Itinerary Overview**
+**<font color=red size=4>Itinerary Overview</font>**
 
 |   Date   |   Spot   |
 |:--------:|:--------:|
