@@ -3,7 +3,6 @@
 |      Itinerary      |
 |:-------------------:|
 |   Date   |   Spot   |
-|:--------:|:--------:|
 | Jan 14th - Jan 16th | Seoul, Republic of Korea |
 | Jan 17th - Jan 19th | Xishuangbanna, China |
 | Jan 20th - Jan 21st | Luang Prabang, Laos |
