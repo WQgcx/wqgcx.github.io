@@ -1,5 +1,18 @@
 ## Republic of Korea, China, Laos and Thailand, 14/Jan/2025-26/Jan/2025
 
+<font color=red size=4><u>Itinerary Overview</u></font>
+
+|   Time   |   Spot   |
+|:--------:|:--------:|
+| 14/Jan-16/Jan | Seoul, Republic of Korea |
+| 17/Jan-19/Jan | Xishuangbanna, China |
+| 20/Jan-21/Jan | Luang Prabang, Laos |
+| 22/Jan | Vientiane, Laos |
+| 23/Jan | Bankok, Thailand |
+| 24/Jan | Chiang Mai, Thailand |
+| 25/Jan  | Bankok, Thailand |
+| 26/Jan | Nanchang, China |
+
 **14/Jan/2025: Seoul, Republic of Korea**
 
 Fly China Southern Airlines to Seoul, Republic of Korea(CZ317)
