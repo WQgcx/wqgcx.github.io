@@ -1,17 +1,17 @@
 ## Republic of Korea, China, Laos and Thailand, 14/Jan/2025-26/Jan/2025
 
-<font color=red size=4><u>Itinerary Overview</u></font>
-
-|   Time   |   Spot   |
+|      Itinerary      |
+|:-------------------:|
+|   Date   |   Spot   |
 |:--------:|:--------:|
-| 14/Jan-16/Jan | Seoul, Republic of Korea |
-| 17/Jan-19/Jan | Xishuangbanna, China |
-| 20/Jan-21/Jan | Luang Prabang, Laos |
-| 22/Jan | Vientiane, Laos |
-| 23/Jan | Bankok, Thailand |
-| 24/Jan | Chiang Mai, Thailand |
-| 25/Jan  | Bankok, Thailand |
-| 26/Jan | Nanchang, China |
+| Jan 14th - Jan 16th | Seoul, Republic of Korea |
+| Jan 17th - Jan 19th | Xishuangbanna, China |
+| Jan 20th - Jan 21st | Luang Prabang, Laos |
+| Jan 22th | Vientiane, Laos |
+| Jan 23th | Bankok, Thailand |
+| Jan 24th | Chiang Mai, Thailand |
+| Jan 25th | Bankok, Thailand |
+| Jan 26th | Nanchang, China |
 
 **14/Jan/2025: Seoul, Republic of Korea**
 
