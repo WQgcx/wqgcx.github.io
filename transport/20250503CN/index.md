@@ -1,4 +1,4 @@
-## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-07/May/2025
+![image](https://github.com/user-attachments/assets/e1913f54-b653-47c8-80e2-e43ae67a945b)## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-07/May/2025
 
 **[<font color=red size=5><u>RAILWAYS IN GANSU, CHINA</u></font>](https://wqgcx.github.io/transport/20250503CN/CR/)**
 
@@ -121,7 +121,48 @@
 <img src="../20250503CN_photos/IMG_9175.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9178.jpeg" width="32%">
 
+牛肉小饭
+
+<img src="../20250503CN_photos/IMG_9181.jpeg" width="32%">
+
 **05/May/2025: Zhangye(张掖)**
+
+马蹄寺
+
+<img src="../20250503CN_photos/IMG_9193.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9198.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9200.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9199.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9203.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9205.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9208.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9214.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9216.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9219.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9222.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9223.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9227.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9229.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9231.jpeg" width="32%">
+
+手工搓鱼面
+
+<img src="../20250503CN_photos/IMG_9232.jpeg" width="32%">
+
+七彩丹霞
+
+<img src="../20250503CN_photos/IMG_9233.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9235.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9237.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9238.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9242.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9246.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9254.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9258.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9260.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9263.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9264.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9266.jpeg" width="32%">
 
 **06/May/2025: Jiuquan(酒泉)**
 
