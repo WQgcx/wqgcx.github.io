@@ -48,6 +48,21 @@
 <img src="../20250503CN_photos/IMG_9045.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9046.jpeg" width="32%">
 
+酒泉鼓楼
+
+<img src="../20250503CN_photos/IMG_9056.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9057.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9061.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9065.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9071.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9072.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9073.jpeg" width="32%">
+
+酒泉古城门
+
+<img src="../20250503CN_photos/IMG_9075.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9078.jpeg" width="32%">
+
 **04/May/2025: Zhangye(张掖)**
 
 **05/May/2025: Zhangye(张掖)**
