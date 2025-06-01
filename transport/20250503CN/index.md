@@ -65,6 +65,62 @@
 
 **04/May/2025: Zhangye(张掖)**
 
+张掖大佛寺(山西会馆)
+
+<img src="../20250503CN_photos/IMG_9090.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9098.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9100.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9102.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9104.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9107.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9109.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9110.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9111.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9113.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9114.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9116.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9117.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9118.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9120.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9123.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9125.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9126.jpeg" width="32%">
+
+张掖鼓楼
+
+<img src="../20250503CN_photos/IMG_9130.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9131.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9132.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9133.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9184.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9188.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9189.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9192.jpeg" width="32%">
+
+西来寺
+
+<img src="../20250503CN_photos/IMG_9135.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9137.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9139.jpeg" width="32%">
+
+平山湖大峡谷
+
+<img src="../20250503CN_photos/IMG_9140.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9141.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9146.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9147.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9149.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9151.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9155.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9157.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9158.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9161.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9164.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9166.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9174.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9175.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9178.jpeg" width="32%">
+
 **05/May/2025: Zhangye(张掖)**
 
 **06/May/2025: Jiuquan(酒泉)**
