@@ -169,11 +169,11 @@
 西千佛洞
 
 <img src="../20250503CN_photos/IMG_9289.jpeg" width="32%">
-<img src="../20250503CN_photos/IMG_9291.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9296.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9292.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9291.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9293.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9294.jpeg" width="32%">
-<img src="../20250503CN_photos/IMG_9296.jpeg" width="32%">
 
 阳关遗址
 
