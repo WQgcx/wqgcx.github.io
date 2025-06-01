@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1913f54-b653-47c8-80e2-e43ae67a945b)## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-07/May/2025
+## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-07/May/2025
 
 **[<font color=red size=5><u>RAILWAYS IN GANSU, CHINA</u></font>](https://wqgcx.github.io/transport/20250503CN/CR/)**
 
@@ -165,6 +165,51 @@
 <img src="../20250503CN_photos/IMG_9266.jpeg" width="32%">
 
 **06/May/2025: Jiuquan(酒泉)**
+
+西千佛洞
+
+<img src="../20250503CN_photos/IMG_9289.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9291.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9292.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9293.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9294.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9296.jpeg" width="32%">
+
+阳关遗址
+
+<img src="../20250503CN_photos/IMG_9301.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9302.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9303.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9308.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9309.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9311.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9313.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9314.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9315.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9317.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9318.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9319.jpeg" width="32%">
+
+玉门关遗址
+
+<img src="../20250503CN_photos/IMG_9323.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9352.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9354.jpeg" width="32%">
+
+小方盘城遗址
+
+<img src="../20250503CN_photos/IMG_9325.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9329.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9330.jpeg" width="32%">
+
+大方盘城遗址
+
+<img src="../20250503CN_photos/IMG_9336.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9337.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9340.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9342.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9344.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9345.jpeg" width="32%">
 
 **07/May/2025: Jiuquan(酒泉)**
 
