@@ -65,7 +65,7 @@
 
 **04/May/2025: Zhangye(张掖)**
 
-张掖大佛寺(山西会馆)
+张掖大佛寺, 山西会馆
 
 <img src="../20250503CN_photos/IMG_9090.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9098.jpeg" width="32%">
