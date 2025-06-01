@@ -55,7 +55,6 @@
 <img src="../20250503CN_photos/IMG_9061.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9065.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9071.jpeg" width="32%">
-<img src="../20250503CN_photos/IMG_9072.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9073.jpeg" width="32%">
 
 酒泉古城门
