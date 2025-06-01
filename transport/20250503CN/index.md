@@ -211,6 +211,55 @@
 <img src="../20250503CN_photos/IMG_9344.jpeg" width="32%">
 <img src="../20250503CN_photos/IMG_9345.jpeg" width="32%">
 
+雅丹地质公园
+
+<img src="../20250503CN_photos/IMG_9356.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9362.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9365.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9368.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9370.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9371.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9375.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9380.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9382.jpeg" width="32%">
+
 **07/May/2025: Jiuquan(酒泉)**
+
+鸣沙山月牙泉
+
+<img src="../20250503CN_photos/IMG_9394.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9397.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9408.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9409.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9410.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9411.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9416.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9418.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9419.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9424.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9426.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9428.jpeg" width="32%">
+
+敦煌莫高窟
+
+<img src="../20250503CN_photos/IMG_9431.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9433.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9435.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9436.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9438.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9441.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9445.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9437.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9452.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9446.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9447.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9448.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9449.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9450.jpeg" width="32%">
+<img src="../20250503CN_photos/IMG_9451.jpeg" width="32%">
+
+**Fly China Eastern Airlines to Beijing(MU9998, MU2130)**
+
+<img src="../20250503CN_photos/IMG_9453.jpeg" width="32%">
 
 **Click [here](https://wqgcx.github.io/transport/) to go back.**
