@@ -1,4 +1,4 @@
-## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-08/May/2025
+## China(Jiayuguan, Jiuquan and Zhangye), 03/May/2025-07/May/2025
 
 **[<font color=red size=5><u>RAILWAYS IN GANSU, CHINA</u></font>](https://wqgcx.github.io/transport/20250503CN/CR/)**
 
