@@ -80,7 +80,9 @@
 
 **<font color=red size=4>Lecturing Part</font>**
 
-[Advanced Algebra (I)](https://wqgcx.github.io/courses/advalgebra1.pdf).
+[Advanced Algebra (I), v1](https://wqgcx.github.io/courses/advalgebra1.pdf).
+
+[Advanced Algebra (I), v2](https://wqgcx.github.io/courses/advalgebra1(wfz).pdf).
 
 [Advanced Mathematics A (I)](https://wqgcx.github.io/courses/advmathA1.pdf).
 
