@@ -4,204 +4,204 @@
 
 **Fly China Eastern Airlines to Nagoya(MU5196, MU291)**
 
-<img src="../../transport20240621JP_photos/IMG_0888.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0895.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0888.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0895.jpeg" width="32%">
 
 **21/Jun/2024: Ise(伊勢), Nagoya(名古屋)**
 
 Futamiokitama Shrine(二見興玉神社)
 
-<img src="../../transport20240621JP_photos/IMG_0925.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0927.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0932.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0925.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0927.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0932.jpeg" width="32%">
 
 Ise Shrine(伊勢神宮)
 
-<img src="../../transport20240621JP_photos/IMG_0935.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0936.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0939.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0943.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0944.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0947.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0935.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0936.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0939.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0943.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0944.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0947.jpeg" width="32%">
 
 Atsuta Shrine(熱田神宮)
 
-<img src="../../transport20240621JP_photos/IMG_0957.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0955.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0956.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0957.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0955.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0956.jpeg" width="32%">
 
 Ōsu Kannon(大須観音)
 
-<img src="../../transport20240621JP_photos/IMG_0963.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0965.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0966.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0963.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0965.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0966.jpeg" width="32%">
 
 Nagoya Castle(名古屋城)
 
-<img src="../../transport20240621JP_photos/IMG_0969.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0978.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0982.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0969.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0978.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0982.jpeg" width="32%">
 
 Tōgan-ji(桃嚴寺)
 
-<img src="../../transport20240621JP_photos/IMG_0984.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0985.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0987.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0984.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0985.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0987.jpeg" width="32%">
 
 Nagoya City View(Chubu Electric Power MIRAI TOWER, 中部電力 MIRAI TOWER)
 
-<img src="../../transport20240621JP_photos/IMG_0988.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0989.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0990.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0988.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0989.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0990.jpeg" width="32%">
 
 Izakaya(居酒屋) 
 
-<img src="../../transport20240621JP_photos/IMG_0992.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0993.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0994.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_0995.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0992.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0993.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0994.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_0995.jpeg" width="32%">
 
 Nagoya Night View
 
-<img src="../../transport20240621JP_photos/IMG_1002.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1012.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1015.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1002.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1012.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1015.jpeg" width="32%">
 
 **22/Jun/2024: Takayama(高山), Shirakawa(白川村)**
 
 Hida Tenmangu Shrine(飛騨天滿宮)
 
-<img src="../../transport20240621JP_photos/IMG_1036.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1037.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1038.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1036.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1037.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1038.jpeg" width="32%">
 
 Hie Shrine(飛騨山王宮 日枝神社)
 
-<img src="../../transport20240621JP_photos/IMG_1047.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1041.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1042.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1047.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1041.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1042.jpeg" width="32%">
 
 Takayama Jinya(高山陣屋)
 
-<img src="../../transport20240621JP_photos/IMG_1050.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1051.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1053.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1058.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1060.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1062.jpeg" width="18%">
+<img src="../../transport/20240621JP_photos/IMG_1050.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1051.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1053.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1058.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1060.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1062.jpeg" width="18%">
 
 Traditional Japanese Cuisine with Soba Noodles(蕎麦), Hida Beef Sushi(飛騨牛握り寿司) and Tempura(天婦羅).
 
-<img src="../../transport20240621JP_photos/IMG_1065.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1065.jpeg" width="32%">
 
 Takayama Street View
 
-<img src="../../transport20240621JP_photos/IMG_1070.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1071.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1072.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1070.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1071.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1072.jpeg" width="32%">
 
 Sakurayama Hachimangu Shrine(櫻山八幡宮)
 
-<img src="../../transport20240621JP_photos/IMG_1100.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1091.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1094.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1100.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1091.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1094.jpeg" width="32%">
 
 Hida Kokubun-ji(飛騨国分寺)
 
-<img src="../../transport20240621JP_photos/IMG_1109.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1108.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1105.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1109.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1108.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1105.jpeg" width="32%">
 
 Gasshōzukuri(合掌造り)
 
-<img src="../../transport20240621JP_photos/IMG_1114.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1127.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1121.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1114.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1127.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1121.jpeg" width="32%">
 
 **23/Jun/2024: Kanazawa(金沢), Takaoka(高岡), Toyama(富山)**
 
 Saigawa Bridge(犀川大橋) and Myouryuji(妙立寺)
 
-<img src="../../transport20240621JP_photos/IMG_1141.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1142.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1143.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1141.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1142.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1143.jpeg" width="32%">
 
 Kenrokuen(兼六園)
 
-<img src="../../transport20240621JP_photos/IMG_1154.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1157.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1158.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1162.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1164.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1165.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1154.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1157.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1158.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1162.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1164.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1165.jpeg" width="32%">
 
 Kanazawa Castle(金沢城)
 
-<img src="../../transport20240621JP_photos/IMG_1171.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1173.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1175.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1176.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1178.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1184.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1171.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1173.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1175.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1176.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1178.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1184.jpeg" width="32%">
 
 Zuiryūji(瑞龍寺)
 
-<img src="../../transport20240621JP_photos/IMG_1200.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1206.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1207.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1210.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1211.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1213.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1200.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1206.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1207.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1210.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1211.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1213.jpeg" width="32%">
 
 Great Buddha of Takaoka(高岡大仏)
 
-<img src="../../transport20240621JP_photos/IMG_1216.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1217.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1216.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1217.jpeg" width="32%">
 
 Takaoka Kojyo Park(高岡古城公園) 
 
-<img src="../../transport20240621JP_photos/IMG_1220.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1225.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1226.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1220.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1225.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1226.jpeg" width="32%">
 
 Toyama Castle(富山城)
 
-<img src="../../transport20240621JP_photos/IMG_1229.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1233.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1234.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1229.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1233.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1234.jpeg" width="32%">
 
 **24/Jun/2024: Tateyama Kurobe Alpine Route(立山黒部アルペンルート), Matsumoto(松本)**
 
 Tateyama Kurobe Alpine Route(立山黒部アルペンルート), from Tateyama(立山) to Ōgizawa(扇沢)
 
-<img src="../../transport20240621JP_photos/IMG_1248.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1249.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1250.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1255.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1260.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1263.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1293.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1300.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1307.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1309.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1312.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1314.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1315.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1320.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1321.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1325.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1328.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1329.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1248.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1249.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1250.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1255.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1260.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1263.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1293.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1300.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1307.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1309.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1312.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1314.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1315.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1320.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1321.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1325.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1328.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1329.jpeg" width="32%">
 
 Matsumoto Castle(松本城)
 
-<img src="../../transport20240621JP_photos/IMG_1336.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1337.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1347.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1336.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1337.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1347.jpeg" width="32%">
 
 **Fly China Eastern Airlines to Beijing(MU530, MU5195)**
 
-<img src="../../transport20240621JP_photos/IMG_1372.jpeg" width="32%">
-<img src="../../transport20240621JP_photos/IMG_1377.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1372.jpeg" width="32%">
+<img src="../../transport/20240621JP_photos/IMG_1377.jpeg" width="32%">
 
 **Click [here](..) to go back.**
