@@ -48,6 +48,7 @@
 <img src="../../transport/20250513CN_photos/IMG_9578.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9583.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9589.jpeg" width="32%">
+<img src="../../transport/20250513CN_photos/IMG_9593.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9595.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9597.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9601.jpeg" width="32%">
