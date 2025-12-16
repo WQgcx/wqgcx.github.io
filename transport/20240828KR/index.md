@@ -255,4 +255,4 @@ West Gate of Daegu Yangnyeong Market(대구약령시), Our Lady of Lourdes Cathe
 
 **Fly Spring Airlines to Shijiazhuang(9C8790)**
 
-**Click [here](https://wqgcx.github.io/transport/) to go back.**
+**Click [here](https://wqgcx.github.io/travel/) to go back.**
