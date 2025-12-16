@@ -36,4 +36,6 @@
 
 [13/May/2025-17/May/2025, China(Urumqi, Ili and Kumul)](./20250513CN).
 
+[24/Oct/2025-27/Oct/2025, China(Bijie, Guiyang and Qiandongnan)](./20251024CN).
+
 **Click [here](..) to go back.**
