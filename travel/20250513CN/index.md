@@ -80,8 +80,6 @@
 
 回王墓
 
-<img src="../../transport/20250513CN_photos/IMG_9657.jpeg" width="32%">
-<img src="../../transport/20250513CN_photos/IMG_9659.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9668.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9670.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9671.jpeg" width="32%">
