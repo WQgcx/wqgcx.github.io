@@ -6,7 +6,7 @@ PhD Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/inde
 
 [Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 
-Here is my [CV](https://wqgcx.github.io/self/CV.pdf).
+Here is my [CV](./self/CV.pdf).
   
 ## Research Interests
 
@@ -16,11 +16,11 @@ Here is my [CV](https://wqgcx.github.io/self/CV.pdf).
 
 ## Courses
 
-Here are my [lecture notes](https://wqgcx.github.io/notes/). Available for research and non-commercial purposes only.
+Here are my [lecture notes](./notes). Available for research and non-commercial purposes only.
 
 ## Travel and Transport 
 
-Here are my [travelogues](https://wqgcx.github.io/travel/). Come, explore and enjoy this fantastic and magnificent world of travel and transport!
+Here are my [travelogues](./travel). Come, explore and enjoy this fantastic and magnificent world of travel and transport!
 
 ## Contact Me
 
