@@ -34,6 +34,6 @@
 
 [03/May/2025-07/May/2025, China(Jiayuguan, Jiuquan and Zhangye)](https://wqgcx.github.io/transport/20250503CN).
 
-[13/May/2025-17/May/2025, China(Urumuqi, ILI and Kumul)](https://wqgcx.github.io/transport/20250513CN).
+[13/May/2025-17/May/2025, China(Urumuqi, ILi and Kumul)](https://wqgcx.github.io/transport/20250513CN).
 
 **Click [here](https://wqgcx.github.io/) to go back.**
