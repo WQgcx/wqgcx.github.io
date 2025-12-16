@@ -4,7 +4,7 @@
 
 PhD Candidate, Advisor: [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/index.html) 
 
-[Center for Statistical Science](https://www.stat-center.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+[Center for Statistical Science](https://www.stat-center.pku.edu.cn), [Peking University](https://www.pku.edu.cn)
 
 Here is my [CV](./self/CV.pdf).
   
