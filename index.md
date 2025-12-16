@@ -20,7 +20,7 @@ Here are my [lecture notes](https://wqgcx.github.io/notes/). Available for resea
 
 ## Travel and Transport 
 
-Here are my [travelogues](https://wqgcx.github.io/transport/). Come, explore and enjoy this fantastic and magnificent world of travel and transport!
+Here are my [travelogues](https://wqgcx.github.io/travel/). Come, explore and enjoy this fantastic and magnificent world of travel and transport!
 
 ## Contact Me
 
