@@ -34,6 +34,6 @@
 
 [03/May/2025-07/May/2025, China(Jiayuguan, Jiuquan and Zhangye)](./20250503CN).
 
-[13/May/2025-17/May/2025, China(Urumqi, ILi and Kumul)](./20250513CN).
+[13/May/2025-17/May/2025, China(Urumqi, Ili and Kumul)](./20250513CN).
 
 **Click [here](..) to go back.**
