@@ -152,4 +152,4 @@
 
 <img src="../20240519CN_photos/1010.jpg" width="32%">
 
-**Click [here](https://wqgcx.github.io/transport/) to go back.**
+**Click [here](https://wqgcx.github.io/travel/) to go back.**
