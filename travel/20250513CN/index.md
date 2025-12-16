@@ -64,6 +64,9 @@
 喀赞其街区
 
 <img src="../../transport/20250513CN_photos/IMG_9631.jpeg" width="32%">
+<img src="../../transport/20250513CN_photos/IMG_9651.jpeg" width="32%">
+<img src="../../transport/20250513CN_photos/IMG_9653.jpeg" width="32%">
+<img src="../../transport/20250513CN_photos/IMG_9654.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9657.jpeg" width="32%">
 <img src="../../transport/20250513CN_photos/IMG_9659.jpeg" width="32%">
 
