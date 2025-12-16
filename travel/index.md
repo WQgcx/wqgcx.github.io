@@ -2,7 +2,7 @@
 
 **2024**
 
-[26/Apr/2024-03/May/2024, United Kingdom](https://wqgcx.github.io/transport/20240426UK).
+[26/Apr/2024-03/May/2024, United Kingdom](https://wqgcx.github.io/travel/20240426UK).
 
 [19/May/2024-22/May/2024, China(Kashgar and Kizilsu Kyrgyz)](https://wqgcx.github.io/transport/20240519CN).
 
