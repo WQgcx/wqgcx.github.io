@@ -38,6 +38,8 @@
 
 **25/Oct/2025: Guiyang**
 
+**Take Train D208 to Xifeng Railway Station**
+
 息烽集中营旧址
 
 <img src="../../transport/20251024CN_photos/IMG_5005.jpeg" width="32%">
@@ -55,6 +57,8 @@
 <img src="../../transport/20251024CN_photos/IMG_5026.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IMG_5027.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IMG_5029.jpeg" width="32%">
+
+**Take Train G2869 to Guiyangbei Railway Station**
 
 贵州达德学校旧址
 
@@ -178,7 +182,6 @@
 
 飞云崖
 
-
 <img src="../../transport/20251024CN_photos/IMG_5212.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IMG_5213.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IDG_20251027_120007_429.jpeg" width="32%">
@@ -187,5 +190,9 @@
 <img src="../../transport/20251024CN_photos/IMG_5217.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IMG_5218.jpeg" width="32%">
 <img src="../../transport/20251024CN_photos/IMG_5219.jpeg" width="32%">
+
+**Take Train G1421 to Guiyangbei Railway Station**
+
+**Fly Spring Airlines to Shijiazhuang(9C7164)**
 
 **Click [here](..) to go back.**
