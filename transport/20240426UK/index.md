@@ -272,4 +272,4 @@ HMS Belfast
   <img src="../20240426UK_photos/IMG_0213.jpeg" width="32%"> <img src="../20240426UK_photos/IMG_0215.jpeg" width="32%">
 </center>
 
-**Click [here](https://wqgcx.github.io/transport/) to go back.**
+**Click [here](https://wqgcx.github.io/travel/) to go back.**
