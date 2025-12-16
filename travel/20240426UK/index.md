@@ -1,6 +1,6 @@
 ## United Kingdom, 26/Apr/2024-03/May/2024
 
-**[<font color=red size=5><u>RAILWAYS IN UK</u></font>](https://wqgcx.github.io/transport/20240426UK/NR/)**
+**[<font color=red size=5><u>RAILWAYS IN UK</u></font>](/NR)**
 
 **Fly Royal Brunei to London(BI624, BI97)**
 
