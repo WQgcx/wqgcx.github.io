@@ -94,9 +94,11 @@ Ancient Roman Amphitheater
 
 Pompey's Pillar
 
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px;">
 <img src="../../travel_static/20250825ME_photos/IMG_2032.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2033.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2034.jpeg" width="32%">
+</div>
 
 Catacombs of Kom el Shoqafa
 
