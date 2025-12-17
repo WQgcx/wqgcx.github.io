@@ -309,6 +309,7 @@ Abu Simbel Temples
 
 Egyptian Cuisine
 
+<img src="../../travel_static/20250825ME_photos/IMG_2404.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2478.jpeg" width="32%">
 
 **Take Train 1903 to Luxor Railway Station**
