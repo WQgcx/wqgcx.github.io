@@ -514,21 +514,19 @@ Doner Kebab
 
 Topkapi Palace
 
+<img src="../../travel_static/20250825ME_photos/IMG_2910.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2850.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2878.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2880.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2852.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2892.jpeg" width="32%">
-
-
 <img src="../../travel_static/20250825ME_photos/IMG_2883.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2841.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2886.jpeg" width="32%">
-
 <img src="../../travel_static/20250825ME_photos/IMG_2851.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2884.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2907.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2889.jpeg" width="32%">
-
 <img src="../../travel_static/20250825ME_photos/IMG_2845.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2846.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2848.jpeg" width="32%">
@@ -541,6 +539,8 @@ Topkapi Palace
 <img src="../../travel_static/20250825ME_photos/IMG_2873.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2877.jpeg" width="32%">
 
+Haydarpaşa Railway Station
+
 <img src="../../travel_static/20250825ME_photos/IMG_2937.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2938.jpeg" width="32%">
 
@@ -551,19 +551,22 @@ Bosporus Strait
 <img src="../../travel_static/20250825ME_photos/IMG_2868.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2890.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2899.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2920.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2904.jpeg" width="97%">
 <img src="../../travel_static/20250825ME_photos/IMG_2918.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2920.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2921.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2929.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2932.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2950.jpeg""width/"32%">
-"_2954.jpeg" wid54.jpeg"<img src="../../travel_static/20250825ME_photos/IMG_2957.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2950.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2954.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2957.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2958.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2959.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2961.jpeg" width="32%">
 
 **05/Sep/2025: Istanbul**
+
+Dolmabahçe Palace
 
 **06/Sep/2025: Istanbul**
 
