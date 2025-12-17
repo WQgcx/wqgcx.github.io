@@ -379,17 +379,20 @@ Colossi of Memnon
 
 Karnak Temple
 
+<img src="../../travel_static/20250825ME_photos/IMG_2612.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2614.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2618.jpeg" width="32%">
 <div style="display: flex; gap: 10px;">
 
   <!-- 左边：两行，每行两张横图 -->
   <div style="display: flex; flex-direction: column; gap: 5px; width: 64%;">
     <div style="display: flex; gap: 5px;">
-      <img src="../../travel_static/20250825ME_photos/IMG_2612.jpeg" style="width: 50%;">
-      <img src="../../travel_static/20250825ME_photos/IMG_2614.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_2622.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_2623.jpeg" style="width: 50%;">
     </div>
     <div style="display: flex; gap: 5px;">
-      <img src="../../travel_static/20250825ME_photos/IMG_2618.jpeg" style="width: 50%;">
-      <img src="../../travel_static/20250825ME_photos/IMG_2622.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_2626.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_2627.jpeg" style="width: 50%;">
     </div>
   </div>
 
@@ -399,10 +402,6 @@ Karnak Temple
   </div>
 
 </div>
-
-<img src="../../travel_static/20250825ME_photos/IMG_2623.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2626.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2627.jpeg" width="32%">
 
 Luxor Temple
 
