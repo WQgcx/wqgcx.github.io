@@ -214,6 +214,6 @@ Nile River in Aswan
 <img src="../../travel_static/20250825ME_photos/IMG_2291.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2293.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2297.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2296.jpeg" width="96%">
+<img src="../../travel_static/20250825ME_photos/IMG_2296.jpeg" width="97%">
 
 **Click [here](..) to go back.**
