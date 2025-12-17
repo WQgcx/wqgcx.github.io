@@ -40,11 +40,12 @@ Pyramids and Sphinx
 Grand Egyptian Museum
 
 <img src="../../travel_static/20250825ME_photos/IMG_1940.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_1958.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_1998.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1945.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1950.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1956.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1957.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_1958.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1959.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1961.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1963.jpeg" width="32%">
@@ -66,7 +67,6 @@ Grand Egyptian Museum
 <img src="../../travel_static/20250825ME_photos/IMG_1994.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1996.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1997.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_1998.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_1999.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2003.jpeg" width="32%">
 
