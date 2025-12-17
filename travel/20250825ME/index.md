@@ -488,6 +488,81 @@ Red Sea
 
 **Fly AJet to Istanbul(VF252)**
 
+Sultan Ahmed Mosque(Blue Mosque)
+
+<img src="../../travel_static/20250825ME_photos/IMG_2822.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2817.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2827.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2814.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2813.jpeg" width="32%">
+
+Hagia Sophia Grand Mosque
+
+<img src="../../travel_static/20250825ME_photos/IMG_2816.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2819.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2820.jpeg" width="32%">
+
+Basilica Cistern
+
+<img src="../../travel_static/20250825ME_photos/IMG_2830.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2831.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2835.jpeg" width="32%">
+
+Doner Kebab
+
+<img src="../../travel_static/20250825ME_photos/IMG_2838.jpeg" width="32%">
+
+Topkapi Palace
+
+<img src="../../travel_static/20250825ME_photos/IMG_2850.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2878.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2880.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2852.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2892.jpeg" width="32%">
+
+
+<img src="../../travel_static/20250825ME_photos/IMG_2883.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2841.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2886.jpeg" width="32%">
+
+<img src="../../travel_static/20250825ME_photos/IMG_2851.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2884.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2889.jpeg" width="32%">
+
+<img src="../../travel_static/20250825ME_photos/IMG_2845.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2846.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2848.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2857.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2859.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2860.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2863.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2870.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2872.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2873.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2877.jpeg" width="32%">
+
+<img src="../../travel_static/20250825ME_photos/IMG_2937.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2938.jpeg" width="32%">
+
+Bosporus Strait
+
+<img src="../../travel_static/20250825ME_photos/IMG_2866.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2867.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2868.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2890.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2899.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2904.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2918.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2920.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2921.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2929.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2932.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2950.jpeg""width/"32%">
+"_2954.jpeg" wid54.jpeg"<img src="../../travel_static/20250825ME_photos/IMG_2957.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2958.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2959.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2961.jpeg" width="32%">
+
 **05/Sep/2025: Istanbul**
 
 **06/Sep/2025: Istanbul**
