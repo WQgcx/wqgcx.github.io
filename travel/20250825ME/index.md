@@ -316,19 +316,94 @@ Egyptian Cuisine
 
 **01/Sep/2025: Luxor**
 
-Nile River in Luxor
-
 Valley of the Kings
+
+<img src="../../travel_static/20250825ME_photos/IMG_2518.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2519.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2520.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2522.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2523.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2524.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2526.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2527.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2529.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2530.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2531.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2534.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2543.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2544.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2545.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2547.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2548.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2549.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2550.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2552.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2553.jpeg" width="32%">
 
 Hatshepsut Temple
 
+<img src="../../travel_static/20250825ME_photos/IMG_2555.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2556.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2557.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2558.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2560.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2561.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2562.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2565.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2566.jpeg" width="32%">
+
 Medinet Habu Temple
+
+<img src="../../travel_static/20250825ME_photos/IMG_2574.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2575.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2576.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2577.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2578.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2587.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2588.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2589.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2590.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2591.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2592.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2594.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2596.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2598.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2601.jpeg" width="32%">
 
 Colossi of Memnon
 
+<img src="../../travel_static/20250825ME_photos/IMG_2603.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2604.jpeg" width="32%">
+
 Karnak Temple
 
+<img src="../../travel_static/20250825ME_photos/IMG_2612.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2614.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2616.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2618.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2622.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2623.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2626.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2627.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2631.jpeg" width="32%">
+
 Luxor Temple
+
+<img src="../../travel_static/20250825ME_photos/IMG_2636.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2638.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2639.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2640.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2641.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2644.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2648.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2649.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2652.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2653.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2655.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2656.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2659.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2660.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2663.jpeg" width="32%">
 
 **02/Sep/2025: Luxor, Hurghada**
 
