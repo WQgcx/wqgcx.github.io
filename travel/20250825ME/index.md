@@ -136,25 +136,27 @@ Egyptian Cuisine
 
 The Egyptian Museum
 
-<img src="../../travel_static/20250825ME_photos/IMG_2123.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2134.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2137.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2143.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2119.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2148.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2149.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2169.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2174.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2121.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2126.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2133.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2138.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2144.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2150.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2152.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2153.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2155.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2158.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2163.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2165.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2123.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2129.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2134.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2137.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2143.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2148.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2149.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2169.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2174.jpeg" width="32%">
 
 The Hanging Church
 
@@ -175,19 +177,18 @@ Cairo Citadel
 <img src="../../travel_static/20250825ME_photos/IMG_2220.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2226.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2227.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2201.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2235.jpeg" width="32%">
 
 Khan el-Khalili
 
-<img src="../../travel_static/20250825ME_photos/IMG_2246.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2247.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2248.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2249.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2250.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2251.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2252.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2253.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2246.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2247.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2248.jpeg" width="32%">
 
 **29/Aug/2025: Cairo, Aswan**
 
