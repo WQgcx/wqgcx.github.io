@@ -36,6 +36,8 @@
 
 [13/May/2025-17/May/2025, China(Urumqi, Ili and Kumul)](./20250513CN).
 
+[25/Aug/2025-07/Sep/2025, UAE, Egypt, Turkey](./20250825ME).
+
 [24/Oct/2025-27/Oct/2025, China(Bijie, Guiyang and Qiandongnan)](./20251024CN).
 
 **Click [here](..) to go back.**
