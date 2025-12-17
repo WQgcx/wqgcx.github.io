@@ -427,11 +427,62 @@ Luxor Temple
 
 Hot Air Balloon
 
+<img src="../../travel_static/20250825ME_photos/IMG_2668.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2672.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2674.jpeg" width="32%">
+
 Red Sea
+
+<img src="../../travel_static/20250825ME_photos/IMG_2682.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2683.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2684.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2685.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2689.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2690.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2691.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2693.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2696.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2702.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2703.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2704.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2706.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2711.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2713.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2716.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2717.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2721.jpeg" width="32%">
 
 **03/Sep/2025: Hurghada**
 
 Red Sea
+
+<img src="../../travel_static/20250825ME_photos/IMG_2725.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2728.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2733.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2736.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2737.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2738.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2739.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2740.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2742.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2744.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2749.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2752.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2753.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2754.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2755.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2762.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2766.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2767.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2786.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2787.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2788.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2796.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2798.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2800.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2802.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2805.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2808.jpeg" width="32%">
 
 **04/Sep/2025: Istanbul**
 
