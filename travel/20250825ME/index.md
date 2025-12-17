@@ -268,7 +268,7 @@ Aswan Museum
 <img src="../../travel_static/20250825ME_photos/IMG_2390.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2392.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2394.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2395.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2396.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2397.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2400.jpeg" width="32%">
 
