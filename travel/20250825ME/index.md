@@ -570,10 +570,115 @@ Bosporus Strait
 
 Dolmabahçe Palace
 
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px;">
+<img src="../../travel_static/20250825ME_photos/IMG_2966.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2970.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2972.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2976.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2977.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2982.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2983.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2984.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2985.jpeg" width="32%">
+</div>
+
+Taksim Square and İstiklal Avenue
+
+<img src="../../travel_static/20250825ME_photos/IMG_2987.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2988.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2989.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2991.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2995.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2999.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3001.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3002.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3004.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3008.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3011.jpeg" width="32%">
+
+Galata Tower
+
+<img src="../../travel_static/20250825ME_photos/IMG_3033.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3013.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3020.jpeg" width="32%">
+
+Bosporus Strait
+
+<img src="../../travel_static/20250825ME_photos/IMG_3019.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3022.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3023.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3024.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3025.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3031.jpeg" width="32%">
+
+Mosques in Istanbul
+
+<img src="../../travel_static/20250825ME_photos/IMG_3032.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3034.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3035.jpeg" width="32%">
+
+Bazaars in Istanbul
+
+<img src="../../travel_static/20250825ME_photos/IMG_3039.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3040.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3042.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3043.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3044.jpeg" width="32%">
+
+Mid-East Cuisine
+
+<img src="../../travel_static/20250825ME_photos/IMG_2917.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3048.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3049.jpeg" width="32%">
+
 **06/Sep/2025: Istanbul**
+
+Walls of Constantinople
+
+<img src="../../travel_static/20250825ME_photos/IMG_3053.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3056.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3058.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3062.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3065.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3075.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3076.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3079.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3080.jpeg" width="32%">
+
+Istanbul Archaeology Museums
+
+<img src="../../travel_static/20250825ME_photos/IMG_3084.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3085.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3087.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3089.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3090.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3091.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3096.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3097.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3098.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3103.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3106.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3107.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3108.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3112.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3115.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3116.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3117.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3118.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3120.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3121.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3124.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3127.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3133.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3135.jpeg" width="32%">
+
+City View Alongside Bosporus Strait
 
 **07/Sep/2025: Istanbul**
 
 **Fly Flydubai and Emirates to Beijing(FZ756, EK308)**
+
+<img src="../../travel_static/20250825ME_photos/IMG_3176.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3184.jpeg" width="32%">
 
 **Click [here](..) to go back.**
