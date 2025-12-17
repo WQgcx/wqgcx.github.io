@@ -372,7 +372,7 @@ Medinet Habu Temple
 
 Colossi of Memnon
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 5px;">
 <img src="../../travel_static/20250825ME_photos/IMG_2603.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2604.jpeg" width="32%">
 </div>
