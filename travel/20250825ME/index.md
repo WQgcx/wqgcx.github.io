@@ -70,4 +70,64 @@ Grand Egyptian Museum
 <img src="../../travel_static/20250825ME_photos/IMG_1999.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2003.jpeg" width="32%">
 
+Nile River
+
+<img src="../../travel_static/20250825ME_photos/IMG_2005.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2007.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2011.jpeg" width="32%">
+
+Night View in Cairo
+
+<img src="../../travel_static/20250825ME_photos/IMG_2014.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2015.jpeg" width="32%">
+
+**27/Aug/2025: Alexandria**
+
+Ancient Roman Amphitheater
+
+<img src="../../travel_static/20250825ME_photos/IMG_2018.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2029.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2021.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2023.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2026.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2028.jpeg" width="32%">
+
+Pompey's Pillar
+
+<img src="../../travel_static/20250825ME_photos/IMG_2032.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2033.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2034.jpeg" width="32%">
+
+Catacombs of Kom el Shoqafa
+
+<img src="../../travel_static/20250825ME_photos/IMG_2058.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2043.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2055.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2046.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2047.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2048.jpeg" width="32%">
+
+Qaitbay Fort
+
+<img src="../../travel_static/20250825ME_photos/IMG_2102.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2063.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2066.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2071.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2086.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2090.jpeg" width="32%">
+
+Alexandria Port
+
+<img src="../../travel_static/20250825ME_photos/IMG_2067.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2078.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2080.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2091.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2092.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2100.jpeg" width="32%">
+
+Egyptian Cuisine
+
+<img src="../../travel_static/20250825ME_photos/IMG_2118.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2119.jpeg" width="32%">
+
 **Click [here](..) to go back.**
