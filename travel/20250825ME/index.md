@@ -70,7 +70,7 @@ Grand Egyptian Museum
 <img src="../../travel_static/20250825ME_photos/IMG_1999.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2003.jpeg" width="32%">
 
-Nile River
+Nile River in Cairo
 
 <img src="../../travel_static/20250825ME_photos/IMG_2005.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2007.jpeg" width="32%">
@@ -131,5 +131,88 @@ Egyptian Cuisine
 
 <img src="../../travel_static/20250825ME_photos/IMG_2118.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2119.jpeg" width="32%">
+
+**27/Aug/2025: Cairo**
+
+The Egyptian Museum
+
+<img src="../../travel_static/20250825ME_photos/IMG_2123.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2134.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2137.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2143.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2119.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2148.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2149.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2169.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2174.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2126.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2133.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2138.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2144.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2150.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2153.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2155.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2158.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2163.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2165.jpeg" width="32%">
+
+The Hanging Church
+
+<img src="../../travel_static/20250825ME_photos/IMG_2203.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2188.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2189.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2193.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2195.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2201.jpeg" width="32%">
+
+Cairo Citadel
+
+<img src="../../travel_static/20250825ME_photos/IMG_2205.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2206.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2239.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2211.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2216.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2220.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2226.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2227.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2201.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2235.jpeg" width="32%">
+
+Khan el-Khalili
+
+<img src="../../travel_static/20250825ME_photos/IMG_2246.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2247.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2248.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2249.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2250.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2251.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2252.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2253.jpeg" width="32%">
+
+**29/Aug/2025: Cairo, Aswan**
+
+Baron Empain Palace
+
+<img src="../../travel_static/20250825ME_photos/IMG_2267.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2274.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2275.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2276.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2277.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2269.jpeg" width="32%">
+
+Citystars Heliopolis
+
+<img src="../../travel_static/20250825ME_photos/IMG_2278.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2279.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2281.jpeg" width="32%">
+
+**Fly Air Cairo to Aswan(SM98)**
+
+Nile River in Aswan
+
+<img src="../../travel_static/20250825ME_photos/IMG_2291.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2293.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2297.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2296.jpeg" width="98%">
 
 **Click [here](..) to go back.**
