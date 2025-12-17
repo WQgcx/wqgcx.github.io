@@ -691,7 +691,7 @@ Istanbul Archaeology Museums
 <img src="../../travel_static/20250825ME_photos/IMG_3133.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3135.jpeg" width="32%">
 
-City View Alongside Bosporus Strait
+City View of Istanbul Alongside Bosporus Strait
 
 <img src="../../travel_static/20250825ME_photos/IMG_3138.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3142.jpeg" width="32%">
