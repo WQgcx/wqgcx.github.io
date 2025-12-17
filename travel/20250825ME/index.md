@@ -76,7 +76,7 @@ Nile River in Cairo
 <img src="../../travel_static/20250825ME_photos/IMG_2007.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2011.jpeg" width="32%">
 
-Night View in Cairo
+Night View of Cairo
 
 <img src="../../travel_static/20250825ME_photos/IMG_2014.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2015.jpeg" width="32%">
@@ -130,7 +130,7 @@ Alexandria Port
 Egyptian Cuisine
 
 <img src="../../travel_static/20250825ME_photos/IMG_2118.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2119.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2176.jpeg" width="32%">
 
 **27/Aug/2025: Cairo**
 
@@ -214,6 +214,6 @@ Nile River in Aswan
 <img src="../../travel_static/20250825ME_photos/IMG_2291.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2293.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2297.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2296.jpeg" width="98%">
+<img src="../../travel_static/20250825ME_photos/IMG_2296.jpeg" width="96%">
 
 **Click [here](..) to go back.**
