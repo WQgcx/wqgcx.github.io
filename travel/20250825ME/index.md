@@ -288,6 +288,29 @@ Nile River in Aswan
 
 Abu Simbel Temples
 
+<img src="../../travel_static/20250825ME_photos/IMG_2442.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2452.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2454.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2455.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2456.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2457.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2458.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2459.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2460.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2461.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2464.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2465.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2467.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2469.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2472.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2473.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2474.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2476.jpeg" width="32%">
+
+Egyptian Cuisine
+
+<img src="../../travel_static/20250825ME_photos/IMG_2478.jpeg" width="32%">
+
 **Take Train 1903 to Luxor Railway Station**
 
 **01/Sep/2025: Luxor**
