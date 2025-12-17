@@ -551,9 +551,9 @@ Bosporus Strait
 <img src="../../travel_static/20250825ME_photos/IMG_2868.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2890.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2899.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2920.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2904.jpeg" width="97%">
 <img src="../../travel_static/20250825ME_photos/IMG_2918.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2904.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2920.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2921.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2929.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2932.jpeg" width="32%">
