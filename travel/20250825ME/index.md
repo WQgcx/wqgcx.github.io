@@ -570,7 +570,7 @@ Bosporus Strait
 
 Dolmabahçe Palace
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px;">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 5px; flex-wrap: wrap;">
 <img src="../../travel_static/20250825ME_photos/IMG_2966.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2970.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2972.jpeg" width="32%">
@@ -635,27 +635,46 @@ Mid-East Cuisine
 
 Walls of Constantinople
 
-<img src="../../travel_static/20250825ME_photos/IMG_3053.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3056.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3058.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3062.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3065.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3075.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3076.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3079.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3080.jpeg" width="32%">
+<div style="display: flex; gap: 10px;">
+
+  <!-- 左边：两行，每行两张横图 -->
+  <div style="display: flex; flex-direction: column; gap: 5px; width: 64%;">
+    <div style="display: flex; gap: 5px;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3053.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3056.jpeg" style="width: 50%;">
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3062.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3065.jpeg" style="width: 50%;">
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3076.jpeg" style="width: 50%;">
+      <img src="../../travel_static/20250825ME_photos/IMG_3079.jpeg" style="width: 50%;">
+    </div>
+  </div>
+
+  <!-- 右边：一张竖图 -->
+  <div style="width: 32%;">
+    <img src="../../travel_static/20250825ME_photos/IMG_3058.jpeg" style="width: 100%; height: auto;">
+    <img src="../../travel_static/20250825ME_photos/IMG_3080.jpeg" style="width: 100%; height: auto;">
+  </div>
+
+</div>
 
 Istanbul Archaeology Museums
 
 <img src="../../travel_static/20250825ME_photos/IMG_3084.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3085.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3086.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3087.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3088.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3089.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3090.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3091.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3096.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3097.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3098.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3097.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3092.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3096.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3103.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3106.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3107.jpeg" width="32%">
