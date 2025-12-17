@@ -121,9 +121,9 @@ Qaitbay Fort
 Alexandria Port
 
 <img src="../../travel_static/20250825ME_photos/IMG_2067.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2078.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2080.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2091.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2080.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2078.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2092.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2100.jpeg" width="32%">
 
