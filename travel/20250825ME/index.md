@@ -169,7 +169,7 @@ The Hanging Church
 
 Cairo Citadel
 
-<img src="../../travel_static/20250825ME_photos/IMG_2205.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2204.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2206.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2239.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2211.jpeg" width="32%">
