@@ -220,69 +220,69 @@ Nile River in Aswan
 
 Temple of Philae
 
-<img src="../../travel_static/20250825ME_photos/IMG_2303.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2309.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2310.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2311.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2312.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2313.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2314.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2315.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2318.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2324.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2325.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2327.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2328.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2331.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2333.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2337.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2344.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2345.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2303.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2309.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2310.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2311.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2312.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2313.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2314.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2315.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2318.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2324.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2325.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2327.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2328.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2331.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2333.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2337.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2344.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2345.jpeg" width="32%">
 
 Unfinished Obelisk
 
-<img src="../../travel_static/20250825ME_photos/IMG_2352.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2353.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2355.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2352.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2353.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2355.jpeg" width="32%">
 
 Nubian Museum
 
-<img src="../../travel_static/20250825ME_photos/IMG_2357.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2359.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2361.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2362.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2363.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2367.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2368.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2369.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2370.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2374.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2376.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2377.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2357.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2359.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2361.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2362.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2363.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2367.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2368.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2369.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2370.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2374.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2376.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2377.jpeg" width="32%">
 
 Aswan Museum
 
-<img src="../../travel_static/20250825ME_photos/IMG_2386.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2388.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2389.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2390.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2392.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2394.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2395.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2397.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2400.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2386.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2388.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2389.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2390.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2392.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2394.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2395.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2397.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2400.jpeg" width="32%">
 
 Nile River in Aswan
 
-<img src="../../travel_static/20250825ME_photos/IMG_2406.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2408.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2413.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2415.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2422.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2425.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2427.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2428.jpeg" width="97%">
-<img src="../../travel_static/20250825ME_photos/IMG_2434.jpeg" width="97%">
+<img src="../../travel_static/20250825ME_photos/IMG_2406.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2408.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2413.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2415.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2422.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2425.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2427.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2428.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2434.jpeg" width="32%">
 
 **31/Aug/2025: Aswan**
 
