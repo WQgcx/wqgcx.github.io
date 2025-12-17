@@ -671,10 +671,10 @@ Istanbul Archaeology Museums
 <img src="../../travel_static/20250825ME_photos/IMG_3089.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3090.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3091.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_3098.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3097.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3092.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3096.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3098.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3103.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3106.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_3107.jpeg" width="32%">
