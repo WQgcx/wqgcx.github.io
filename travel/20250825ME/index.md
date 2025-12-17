@@ -321,7 +321,6 @@ Valley of the Kings
 <img src="../../travel_static/20250825ME_photos/IMG_2518.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2519.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2520.jpeg" width="32%">
-<img src="../../travel_static/20250825ME_photos/IMG_2522.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2523.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2524.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2526.jpeg" width="32%">
@@ -330,6 +329,7 @@ Valley of the Kings
 <img src="../../travel_static/20250825ME_photos/IMG_2530.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2531.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2534.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_2539.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2543.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2544.jpeg" width="32%">
 <img src="../../travel_static/20250825ME_photos/IMG_2545.jpeg" width="32%">
