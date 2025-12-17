@@ -693,6 +693,19 @@ Istanbul Archaeology Museums
 
 City View Alongside Bosporus Strait
 
+<img src="../../travel_static/20250825ME_photos/IMG_3138.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3142.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3146.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3148.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3153.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3156.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3161.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3163.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3164.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3165.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3166.jpeg" width="32%">
+<img src="../../travel_static/20250825ME_photos/IMG_3168.jpeg" width="32%">
+
 **07/Sep/2025: Istanbul**
 
 **Fly Flydubai and Emirates to Beijing(FZ756, EK308)**
