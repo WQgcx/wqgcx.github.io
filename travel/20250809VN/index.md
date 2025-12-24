@@ -135,7 +135,7 @@ St. Joseph's Cathedral, Hanoi
 
 Ngoc Son Temple
 
-<img src="../../travel_static/20250809VN_photos/IMG_1456.jpeg" width="32%">
+<img src="../../travel_static/20250809VN_photos/IMG_1556.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1540.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1544.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1545.jpeg" width="32%">
