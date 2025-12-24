@@ -119,6 +119,8 @@ Quan Thanh Temple
 <img src="../../travel_static/20250809VN_photos/IMG_1498.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1501.jpeg" width="32%">
 
+Tran Quoc Pagoda
+
 <img src="../../travel_static/20250809VN_photos/IMG_1515.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1517.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1525.jpeg" width="32%">
@@ -126,7 +128,12 @@ Quan Thanh Temple
 <img src="../../travel_static/20250809VN_photos/IMG_1529.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1530.jpeg" width="32%">
 
+St. Joseph's Cathedral, Hanoi
+
+<img src="../../travel_static/20250809VN_photos/IMG_1533.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1536.jpeg" width="32%">
+
+Ngoc Son Temple
 
 <img src="../../travel_static/20250809VN_photos/IMG_1456.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1540.jpeg" width="32%">
