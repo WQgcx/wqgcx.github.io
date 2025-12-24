@@ -12,7 +12,7 @@
 
 [27/Sep/2024-29/Sep/2024: Malaysia(Penang, Ipoh and Kuala Lumpur)](./20240927MYS).
 
-[30/Sep/2024-08/Oct/2024: Schengen Area(FR, CH, BE, DK)](./20240930EU).
+[30/Sep/2024-08/Oct/2024: Schengen Area(France, Switzerland, Belgium and Denmark)](./20240930EU).
 
 [25/Nov/2024-27/Nov/2024: Japan(Hiroshima, Okayama and Fukuoka)](./20241125JP).
 
@@ -35,6 +35,8 @@
 [03/May/2025-07/May/2025: China(Jiayuguan, Jiuquan and Zhangye)](./20250503CN).
 
 [13/May/2025-17/May/2025: China(Urumqi, Ili and Kumul)](./20250513CN).
+
+[09/Aug/2025-10/Sep/2025: Vietnam(Hanoi)](./20250809VN).
 
 [25/Aug/2025-07/Sep/2025: UAE, Egypt and Türkiye](./20250825ME).
 
