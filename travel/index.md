@@ -36,7 +36,7 @@
 
 [13/May/2025-17/May/2025: China(Urumqi, Ili and Kumul)](./20250513CN).
 
-[09/Aug/2025-10/Sep/2025: Vietnam(Hanoi)](./20250809VN).
+[09/Aug/2025-10/Aug/2025: Vietnam(Hanoi)](./20250809VN).
 
 [25/Aug/2025-07/Sep/2025: UAE, Egypt and Türkiye](./20250825ME).
 
