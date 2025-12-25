@@ -40,6 +40,10 @@
 
 [25/Aug/2025-07/Sep/2025: UAE, Egypt and Türkiye](./20250825ME).
 
+[13/Sep/2025-15/Sep/2025: China(Kunming and Honghe)](./20250913CN).
+
 [24/Oct/2025-27/Oct/2025: China(Bijie, Guiyang and Qiandongnan)](./20251024CN).
+
+[14/Nov/2025-19/Nov/2025: China(Bayingolin, Hotan and Kashgar)](./20251114CN).
 
 **Click [here](..) to go back.**
