@@ -44,6 +44,6 @@
 
 [24/Oct/2025-27/Oct/2025: China(Bijie, Guiyang and Qiandongnan)](./20251024CN).
 
-[14/Nov/2025-19/Nov/2025: China(Bayingolin, Hotan and Kashgar)](./20251114CN).
+[14/Nov/2025-19/Nov/2025: China(Tiemenguan, Bayingolin, Hotan and Kashgar)](./20251114CN).
 
 **Click [here](..) to go back.**
