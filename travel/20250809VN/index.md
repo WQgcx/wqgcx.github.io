@@ -145,4 +145,8 @@ Ngoc Son Temple
 <img src="../../travel_static/20250809VN_photos/IMG_1554.jpeg" width="32%">
 <img src="../../travel_static/20250809VN_photos/IMG_1539.jpeg" width="32%">
 
+**11/Aug/2025: Hanoi**
+
+**Fly Juneyao Air to Shanghai(HO1330)**
+
 **Click [here](..) to go back.**
