@@ -40,21 +40,6 @@ Milan Relic Site(米兰遗址)
 
 Ruoqiang Loulan Museum(若羌楼兰博物馆)
 
-<img src="../../travel_static/20251114CN_photos/IMG_5640.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5642.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5643.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5645.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5646.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5647.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5649.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5652.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5654.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5660.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5662.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5664.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5666.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5667.jpeg" width="32%">
-<img src="../../travel_static/20251114CN_photos/IMG_5668.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5671.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5672.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5673.jpeg" width="32%">
