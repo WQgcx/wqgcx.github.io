@@ -150,22 +150,21 @@ Chaoyanglou(朝阳楼)
 
 <img src="../../travel_static/20250913CN_photos/IMG_3459.jpeg" width="32%">
 
-Gebishi Metre-gauge Railway(个碧石米轨铁路) 
+Gebishi Metre-gauge Railway, from Lin'an Railway Station to Tuanshan Railway Station(个碧石米轨铁路, 临安站-团山站) 
 
 <img src="../../travel_static/20250913CN_photos/IMG_3463.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3464.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3465.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3466.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3468.jpeg" width="32%">
-<img src="../../travel_static/20250913CN_photos/IMG_3463.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3472.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3473.jpeg" width="32%">
+<img src="../../travel_static/20250913CN_photos/IMG_3477.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3496.jpeg" width="32%">
+<img src="../../travel_static/20250913CN_photos/IMG_3497.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3502.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3507.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3511.jpeg" width="32%">
-<img src="../../travel_static/20250913CN_photos/IMG_3477.jpeg" width="32%">
-<img src="../../travel_static/20250913CN_photos/IMG_3497.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3548.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3551.jpeg" width="32%">
 
@@ -176,7 +175,6 @@ Shuanglong Bridge(双龙桥)
 <img src="../../travel_static/20250913CN_photos/IMG_3478.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3481.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3483.jpeg" width="32%">
-<img src="../../travel_static/20250913CN_photos/IMG_3463.jpeg" width="32%">
 
 Xianghui Bridge(乡会桥)
 
@@ -261,7 +259,6 @@ Bisezhai Railway Station, Dianyue Line(滇越铁路碧色寨站)
 <img src="../../travel_static/20250913CN_photos/IMG_3626.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3629.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3635.jpeg" width="32%">
-<img src="../../travel_static/20250913CN_photos/IMG_3636.jpeg" width="32%">
 
 **Take Train D8718 to Mile Railway Station**
 
