@@ -35,6 +35,7 @@ Milan Relic Site(米兰遗址)
 <img src="../../travel_static/20251114CN_photos/IMG_5660.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5662.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5664.jpeg" width="32%">
+<img src="../../travel_static/20251114CN_photos/IMG_5666.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5667.jpeg" width="32%">
 <img src="../../travel_static/20251114CN_photos/IMG_5668.jpeg" width="32%">
 
