@@ -263,6 +263,10 @@ Bisezhai Railway Station, Dianyue Line(滇越铁路碧色寨站)
 <img src="../../travel_static/20250913CN_photos/IMG_3635.jpeg" width="32%">
 <img src="../../travel_static/20250913CN_photos/IMG_3636.jpeg" width="32%">
 
+**Take Train D8718 to Mile Railway Station**
+
+**Take Train D3823 to Kunmingnan Railway Station**
+
 **Fly Hainan Airlines to Beijing(HU7112)**
 
 <img src="../../travel_static/20250913CN_photos/IMG_3645.jpeg" width="32%">
