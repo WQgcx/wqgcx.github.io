@@ -14,10 +14,12 @@ Here is my [CV](./self/CV.pdf).
 
 2. Adversarial Learning, Generative Models, Variational Inference.
 
+<!--
 ## Courses
 
 Here are my [lecture notes](./notes). Available for research and non-commercial purposes only.
-
+-->
+ 
 ## Travel and Transport 
 
 Here are my [travelogues](./travel). Come, explore and enjoy this fantastic and magnificent world of travel and transport!
